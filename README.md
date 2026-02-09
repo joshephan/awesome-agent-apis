@@ -1543,3 +1543,855 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Joseph Han](https://github.com/joshephan) has waived all copyright and related or neighboring rights to this work.
+## Mega Expansion - Push to 2000 APIs (Part 1 of 4)
+
+### E-commerce & Retail (Extended)
+| [Shopify Admin](https://shopify.dev/api/admin-rest) | E-commerce platform API | 🔴 OAuth | ✅ | ⚠️ |
+| [WooCommerce](https://woocommerce.github.io/woocommerce-rest-api-docs/) | WordPress commerce | 🟡 API Key | ✅ | ✅⭐ |
+| [BigCommerce](https://developer.bigcommerce.com/api-docs) | E-commerce platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Magento](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html) | Commerce platform | 🔴 OAuth | ✅ | ⚠️ |
+| [PrestaShop](https://devdocs.prestashop.com/1.7/webservice/) | E-commerce software | 🟡 API Key | ✅ | ✅ |
+| [OpenCart](https://docs.opencart.com/en-gb/system/users/api/) | Shopping cart | 🟡 API Key | ✅ | ✅ |
+| [Ecwid](https://api-docs.ecwid.com/reference) | E-commerce API | 🔴 OAuth | ✅ | ⚠️ |
+| [Square Commerce](https://developer.squareup.com/reference/square) | Commerce API | 🔴 OAuth | ✅ | ⚠️ |
+| [Lightspeed](https://developers.lightspeedhq.com/) | Retail POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Vend](https://docs.vendhq.com/) | POS system | 🔴 OAuth | ✅ | ⚠️ |
+| [Clover](https://docs.clover.com/reference) | POS platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Toast](https://doc.toasttab.com/) | Restaurant POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Revel](https://developer.revelsystems.com/) | POS software | 🟡 API Key | ✅ | ✅ |
+| [NCR](https://developer.ncr.com/) | Commerce platform | 🟡 API Key | ✅ | ✅ |
+| [Shopware](https://shopware.stoplight.io/docs/store-api) | Commerce system | 🟡 API Key | ✅ | ✅ |
+| [Spree](https://api.spreecommerce.org/) | Open source commerce | 🔴 OAuth | ✅ | ⚠️ |
+| [Sylius](https://docs.sylius.com/en/latest/api/index.html) | E-commerce framework | 🟡 API Key | ✅ | ✅ |
+| [CoreCommerce](https://www.corecommerce.com/api-documentation/) | E-commerce platform | 🟡 API Key | ✅ | ✅ |
+| [3dcart](https://support.3dcart.com/Knowledgebase/Article/View/543) | E-commerce software | 🟡 API Key | ✅ | ✅ |
+| [Volusion](https://developers.volusion.com/) | Commerce platform | 🟡 API Key | ✅ | ✅ |
+
+### Product Data & Catalogs
+| [Algolia](https://www.algolia.com/doc/rest-api/search/) | Search API | 🟡 API Key | ✅ | ✅⭐ |
+| [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html) | Search engine | 🟡 API Key | ✅ | ✅⭐ |
+| [MeiliSearch](https://docs.meilisearch.com/reference/api/) | Search engine | 🟡 API Key | ✅ | ✅⭐ |
+| [Typesense](https://typesense.org/docs/api/) | Search engine | 🟡 API Key | ✅ | ✅⭐ |
+| [Coveo](https://docs.coveo.com/en/151/) | Search platform | 🟡 API Key | ✅ | ✅ |
+| [Constructor.io](https://docs.constructor.io/rest_api/) | Product search | 🟡 API Key | ✅ | ✅ |
+| [Klevu](https://docs.klevu.com/) | Search & discovery | 🟡 API Key | ✅ | ✅ |
+| [Searchspring](https://searchspring.zendesk.com/hc/en-us/sections/201997846-API) | E-commerce search | 🟡 API Key | ✅ | ✅ |
+| [Bloomreach](https://documentation.bloomreach.com/) | Commerce experience | klevu | ✅ | ✅ |
+| [Attraqt](https://developer.attraqt.com/) | Search & merchandising | 🟡 API Key | ✅ | ✅ |
+
+### Inventory & Warehouse Management
+| [Cin7](https://cinman.uservoice.com/knowledgebase/articles/1861947-cin7-api-v3) | Inventory management | 🟡 API Key | ✅ | ✅ |
+| [Unleashed](https://apidocs.unleashedsoftware.com/) | Inventory system | 🟡 API Key | ✅ | ✅ |
+| [TradeGecko](https://developer.tradegecko.com/) | Inventory platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Fishbowl](https://www.fishbowlinventory.com/api) | Inventory software | 🟡 API Key | ✅ | ✅ |
+| [inFlow](https://developer.inflowinventory.com/) | Inventory management | 🟡 API Key | ✅ | ✅ |
+| [Katana](https://katanamrp.com/api/) | Manufacturing ERP | 🟡 API Key | ✅ | ✅ |
+| [Odoo](https://www.odoo.com/documentation/16.0/developer/reference/external_api.html) | ERP system | 🟡 API Key | ✅ | ✅⭐ |
+| [ERPNext](https://frappeframework.com/docs/user/en/api) | Open source ERP | 🟡 API Key | ✅ | ✅⭐ |
+| [NetSuite](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1540391670.html) | Cloud ERP | 🔴 OAuth | ✅ | ⚠️ |
+| [SAP Business One](https://help.sap.com/docs/SAP_BUSINESS_ONE_SERVICE_LAYER) | ERP solution | 🔴 OAuth | ✅ | ⚠️ |
+
+### Point of Sale (POS) Systems
+| [Vend POS](https://docs.vendhq.com/) | Retail POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Lightspeed Retail](https://developers.lightspeedhq.com/retail/) | Retail software | 🔴 OAuth | ✅ | ⚠️ |
+| [Square POS](https://developer.squareup.com/reference/square) | POS system | 🔴 OAuth | ✅ | ⚠️ |
+| [Shopify POS](https://shopify.dev/api/pos-ui-extensions) | Retail POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Toast POS](https://doc.toasttab.com/openapi/) | Restaurant POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Clover POS](https://docs.clover.com/reference) | Payment & POS | 🔴 OAuth | ✅ | ⚠️ |
+| [Revel Systems](https://developer.revelsystems.com/) | Enterprise POS | 🟡 API Key | ✅ | ✅ |
+| [Upserve](https://upserve.readme.io/) | Restaurant platform | 🟡 API Key | ✅ | ✅ |
+| [TouchBistro](https://www.touchbistro.com/developer/) | Restaurant POS | 🟡 API Key | ✅ | ✅ |
+| [Aloha](https://www.ncr.com/restaurants/aloha-pos) | Restaurant POS | 🟡 API Key | ✅ | ✅ |
+
+### Accounting & Finance Software
+| [QuickBooks](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/most-commonly-used/account) | Accounting software | 🔴 OAuth | ✅ | ⚠️ |
+| [Xero](https://developer.xero.com/documentation/) | Accounting platform | 🔴 OAuth | ✅ | ⚠️ |
+| [FreshBooks](https://www.freshbooks.com/api) | Accounting software | 🔴 OAuth | ✅ | ⚠️ |
+| [Wave](https://developer.waveapps.com/hc/en-us) | Accounting software | 🔴 OAuth | ✅ | ⚠️ |
+| [Zoho Books](https://www.zoho.com/books/api/v3/) | Accounting software | 🔴 OAuth | ✅ | ⚠️ |
+| [Sage](https://developer.sage.com/) | Business software | 🔴 OAuth | ✅ | ⚠️ |
+| [MYOB](https://developer.myob.com/) | Accounting software | 🔴 OAuth | ✅ | ⚠️ |
+| [Billy](https://www.billy.dk/api) | Invoicing software | 🟡 API Key | ✅ | ✅ |
+| [Invoice Ninja](https://api-docs.invoicing.co/) | Invoicing platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Akaunting](https://akaunting.com/docs/api) | Free accounting | 🟡 API Key | ✅ | ✅⭐ |
+
+### Banking & Financial Services
+| [Plaid](https://plaid.com/docs/api/) | Banking data | 🟡 API Key | ✅ | ✅⭐ |
+| [Yodlee](https://developer.yodlee.com/docs) | Financial data | 🟡 API Key | ✅ | ✅ |
+| [TrueLayer](https://docs.truelayer.com/) | Open banking | 🟡 API Key | ✅ | ✅⭐ |
+| [Tink](https://docs.tink.com/) | Open banking | 🟡 API Key | ✅ | ✅ |
+| [Finicity](https://developer.mastercard.com/open-banking-us/documentation/) | Financial data | 🟡 API Key | ✅ | ✅ |
+| [MX](https://docs.mx.com/) | Financial data | 🟡 API Key | ✅ | ✅ |
+| [Xignite](https://www.xignite.com/api) | Market data | 🟡 API Key | ✅ | ✅ |
+| [Intrinio](https://docs.intrinio.com/) | Financial data | 🟡 API Key | ✅ | ✅⭐ |
+| [Quandl](https://docs.data.nasdaq.com/) | Financial & economic | 🟡 API Key | ✅ | ✅⭐ |
+| [Bloomberg API](https://www.bloomberg.com/professional/support/api-library/) | Market data | 🟡 API Key | ✅ | ✅ |
+
+### Insurance & Risk
+| [CoverWallet](https://developers.coverwallet.com/) | Business insurance | 🟡 API Key | ✅ | ✅ |
+| [Next Insurance](https://developers.nextinsurance.com/) | Small business insurance | 🟡 API Key | ✅ | ✅ |
+| [Pie Insurance](https://developers.pieinsurance.com/) | Workers' comp | 🟡 API Key | ✅ | ✅ |
+| [Lemonade](https://developers.lemonade.com/) | Insurance platform | 🟡 API Key | ✅ | ✅ |
+| [Root Insurance](https://root.engineering/docs/) | Insurance API | 🟡 API Key | ✅ | ✅ |
+| [Openly](https://developers.openly.com/) | Homeowners insurance | 🟡 API Key | ✅ | ✅ |
+| [Coalition](https://www.coalitioninc.com/api) | Cyber insurance | 🟡 API Key | ✅ | ✅ |
+| [At-Bay](https://www.at-bay.com/developers/) | Cyber insurance | 🟡 API Key | ✅ | ✅ |
+| [Embroker](https://developers.embroker.com/) | Commercial insurance | 🟡 API Key | ✅ | ✅ |
+| [Bold Penguin](https://developers.boldpenguin.com/) | Commercial insurance | 🟡 API Key | ✅ | ✅ |
+
+### Legal & Compliance
+| [LexisNexis](https://developer.lexisnexis.com/) | Legal research | 🟡 API Key | ✅ | ✅ |
+| [CourtListener](https://www.courtlistener.com/api/rest-info/) | Court data | 🟡 API Key | ✅ | ✅⭐ |
+| [PACER](https://pacer.uscourts.gov/pacer-api) | Federal court records | 🟡 API Key | ✅ | ✅ |
+| [Casetext](https://casetext.com/api) | Legal research | 🟡 API Key | ✅ | ✅ |
+| [Fastcase](https://www.fastcase.com/api/) | Legal research | 🟡 API Key | ✅ | ✅ |
+| [Justia](https://developers.justia.com/) | Legal information | 🟢 No | ✅ | ✅⭐ |
+| [OpenCorporates](https://api.opencorporates.com/) | Company data | 🟡 API Key | ✅ | ✅⭐ |
+| [UK Companies House](https://developer-specs.company-information.service.gov.uk/) | Company data | 🟡 API Key | ✅ | ✅⭐ |
+| [SEC EDGAR](https://www.sec.gov/edgar/sec-api-documentation) | Company filings | 🟢 No | ✅ | ✅⭐ |
+| [IRS Tax Stats](https://www.irs.gov/statistics) | Tax statistics | 🟢 No | ✅ | ✅ |
+
+### Human Resources & Payroll
+| [BambooHR](https://documentation.bamboohr.com/docs) | HR software | 🟡 API Key | ✅ | ✅⭐ |
+| [Gusto](https://docs.gusto.com/) | Payroll & HR | 🔴 OAuth | ✅ | ⚠️ |
+| [ADP](https://developers.adp.com/) | Payroll services | 🔴 OAuth | ✅ | ⚠️ |
+| [Workday](https://community.workday.com/sites/default/files/file-hosting/restapi/index.html) | Enterprise HR | 🔴 OAuth | ✅ | ⚠️ |
+| [Namely](https://developers.namely.com/) | HR platform | 🟡 API Key | ✅ | ✅ |
+| [Rippling](https://developer.rippling.com/) | HR & IT platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Greenhouse](https://developers.greenhouse.io/) | Recruiting software | 🟡 API Key | ✅ | ✅⭐ |
+| [Lever](https://hire.lever.co/developer/documentation) | Recruiting platform | 🟡 API Key | ✅ | ✅ |
+| [JazzHR](https://www.jazzhr.com/api) | Recruiting software | 🟡 API Key | ✅ | ✅ |
+| [Workable](https://workable.readme.io/) | Recruiting software | 🟡 API Key | ✅ | ✅ |
+
+### Time Tracking & Attendance
+| [Toggl](https://developers.track.toggl.com/) | Time tracking | 🟡 API Key | ✅ | ✅⭐ |
+| [Clockify](https://clockify.me/developers-api) | Time tracker | 🟡 API Key | ✅ | ✅⭐ |
+| [Harvest](https://help.getharvest.com/api-v2/) | Time tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [Time Doctor](https://www.timedoctor.com/api-docs/) | Time tracking | 🟡 API Key | ✅ | ✅ |
+| [RescueTime](https://www.rescuetime.com/rtx/developers) | Time management | 🟡 API Key | ✅ | ✅⭐ |
+| [Everhour](https://everhour.com/developers) | Time tracking | 🟡 API Key | ✅ | ✅ |
+| [Timely](https://dev.timelyapp.com/) | Automatic time tracking | 🟡 API Key | ✅ | ✅ |
+| [Hubstaff](https://developer.hubstaff.com/) | Time tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [TSheets](https://developers.tsheets.com/) | Time tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [Deputy](https://www.deputy.com/api-doc/) | Workforce management | 🔴 OAuth | ✅ | ⚠️ |
+
+### Travel & Transportation
+| [Amadeus](https://developers.amadeus.com/) | Travel API | 🟡 API Key | ✅ | ✅⭐ |
+| [Sabre](https://developer.sabre.com/docs/read/home) | Travel technology | 🟡 API Key | ✅ | ✅ |
+| [Travelport](https://developer.travelport.com/) | Travel commerce | 🟡 API Key | ✅ | ✅ |
+| [Skyscanner](https://developers.skyscanner.net/) | Flight search | 🟡 API Key | ✅ | ✅⭐ |
+| [Kiwi.com](https://docs.kiwi.com/) | Flight booking | 🟡 API Key | ✅ | ✅ |
+| [Rome2rio](https://www.rome2rio.com/documentation/) | Multi-modal transport | 🟡 API Key | ✅ | ✅ |
+| [FlightStats](https://developer.flightstats.com/) | Flight tracking | 🟡 API Key | ✅ | ✅ |
+| [Booking.com](https://developers.booking.com/) | Hotel booking | 🟡 API Key | ✅ | ✅ |
+| [Expedia](https://developer.expediapartnersolutions.com/) | Travel services | 🟡 API Key | ✅ | ✅ |
+| [TripAdvisor](https://developer-tripadvisor.com/home/) | Travel content | 🟡 API Key | ✅ | ✅ |
+
+### Hospitality & Hotels
+| [Airbnb](https://www.airbnb.com/partner) | Vacation rentals | 🔴 OAuth | ✅ | ⚠️ |
+| [Vrbo](https://developers.vrbo.com/) | Vacation rentals | 🟡 API Key | ✅ | ✅ |
+| [Hotels.com](https://developers.hotelsforhope.com/) | Hotel booking | 🟡 API Key | ✅ | ✅ |
+| [Agoda](https://affiliates.agoda.com/en-us/) | Accommodation | 🟡 API Key | ✅ | ✅ |
+| [Hostelworld](https://developer.hostelworld.com/) | Hostel booking | 🟡 API Key | ✅ | ✅ |
+| [OpenTable](https://platform.opentable.com/) | Restaurant reservations | 🔴 OAuth | ✅ | ⚠️ |
+| [Resy](https://resy.com/api-documentation) | Restaurant booking | 🟡 API Key | ✅ | ✅ |
+| [Yelp Reservations](https://www.yelp.com/developers/documentation/v3) | Restaurant API | 🟡 API Key | ✅ | ✅ |
+| [TheFork](https://developer.thefork.com/) | Restaurant booking | 🟡 API Key | ✅ | ✅ |
+| [Zomato](https://developers.zomato.com/api) | Restaurant search | 🟡 API Key | ✅ | ✅ |
+
+### Delivery & Logistics
+| [Uber Eats](https://developer.uber.com/docs/eats) | Food delivery | 🔴 OAuth | ✅ | ⚠️ |
+| [DoorDash](https://developer.doordash.com/) | Delivery platform | 🟡 API Key | ✅ | ✅ |
+| [Postmates](https://postmates.com/developer) | Delivery service | 🟡 API Key | ✅ | ✅ |
+| [Grubhub](https://developer.grubhub.com/) | Food ordering | 🔴 OAuth | ✅ | ⚠️ |
+| [Deliveroo](https://deliveroo.engineering/api/) | Food delivery | 🟡 API Key | ✅ | ✅ |
+| [Just Eat](https://developers.just-eat.com/) | Food delivery | 🟡 API Key | ✅ | ✅ |
+| [Instacart](https://www.instacart.com/developer) | Grocery delivery | 🔴 OAuth | ✅ | ⚠️ |
+| [Shipt](https://developer.shipt.com/) | Grocery delivery | 🟡 API Key | ✅ | ✅ |
+| [Gopuff](https://gopuff.com/go/api) | Instant delivery | 🟡 API Key | ✅ | ✅ |
+| [Drizly](https://developer.drizly.com/) | Alcohol delivery | 🟡 API Key | ✅ | ✅ |
+
+### Ride Sharing & Mobility
+| [Uber](https://developer.uber.com/) | Ride sharing | 🔴 OAuth | ✅ | ⚠️ |
+| [Lyft](https://developer.lyft.com/) | Ride sharing | 🔴 OAuth | ✅ | ⚠️ |
+| [Bolt](https://docs.bolt.eu/) | Ride hailing | 🟡 API Key | ✅ | ✅ |
+| [Grab](https://developer.grab.com/) | Super app | 🔴 OAuth | ✅ | ⚠️ |
+| [Gojek](https://docs.gojek.io/) | Multi-service platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Didi](https://didimobility.gitbook.io/) | Ride hailing | 🟡 API Key | ✅ | ✅ |
+| [Ola](https://developer.olacabs.com/) | Ride sharing | 🔴 OAuth | ✅ | ⚠️ |
+| [Via](https://developers.ridewithvia.com/) | Shared mobility | 🟡 API Key | ✅ | ✅ |
+| [Lime](https://developers.li.me/) | Micro-mobility | 🔴 OAuth | ✅ | ⚠️ |
+| [Bird](https://developers.bird.co/) | Scooter sharing | 🔴 OAuth | ✅ | ⚠️ |
+
+### Parking & EV Charging
+| [ParkWhiz](https://www.parkwhiz.com/developers/) | Parking reservations | 🟡 API Key | ✅ | ✅ |
+| [SpotHero](https://spothero.com/developers) | Parking marketplace | 🟡 API Key | ✅ | ✅ |
+| [ParkMobile](https://parkmobile.io/developers/) | Parking payment | 🟡 API Key | ✅ | ✅ |
+| [ChargePoint](https://developer.chargepoint.com/) | EV charging | 🟡 API Key | ✅ | ✅⭐ |
+| [EVgo](https://developer.evgo.com/) | EV charging network | 🟡 API Key | ✅ | ✅ |
+| [Electrify America](https://www.electrifyamerica.com/developers/) | EV charging | 🟡 API Key | ✅ | ✅ |
+| [Tesla](https://www.tesla.com/support/vehicle-api) | Tesla API | 🔴 OAuth | ✅ | ⚠️ |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | EV charging data | 🟡 API Key | ✅ | ✅⭐ |
+| [PlugShare](https://company.plugshare.com/api.html) | EV charging map | 🟡 API Key | ✅ | ✅ |
+| [Zap-Map](https://www.zap-map.com/api/) | UK EV charging | 🟡 API Key | ✅ | ✅ |
+## Mega Expansion - Push to 2000 APIs (Part 2 of 4)
+
+### Healthcare & Telemedicine
+| [Epic FHIR](https://fhir.epic.com/) | Healthcare records | 🔴 OAuth | ✅ | ⚠️ |
+| [Cerner](https://fhir.cerner.com/) | EHR system | 🔴 OAuth | ✅ | ⚠️ |
+| [Allscripts](https://developer.allscripts.com/) | Healthcare IT | 🔴 OAuth | ✅ | ⚠️ |
+| [Athenahealth](https://docs.athenahealth.com/) | EHR & practice management | 🔴 OAuth | ✅ | ⚠️ |
+| [DrChrono](https://drchrono.com/api-docs/) | EHR platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Practice Fusion](https://www.practicefusion.com/developer/) | EHR software | 🔴 OAuth | ✅ | ⚠️ |
+| [Kareo](https://developer.kareo.com/) | Medical software | 🔴 OAuth | ✅ | ⚠️ |
+| [CareCloud](https://www.carecloud.com/developers/) | Healthcare platform | 🟡 API Key | ✅ | ✅ |
+| [1upHealth](https://1up.health/dev) | Health data platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Human API](https://www.humanapi.co/) | Health data | 🟡 API Key | ✅ | ✅ |
+| [Validic](https://docs.validic.com/) | Remote monitoring | 🟡 API Key | ✅ | ✅ |
+| [Apple HealthKit](https://developer.apple.com/documentation/healthkit) | Health data | 🔴 OAuth | ✅ | ⚠️ |
+| [Google Fit](https://developers.google.com/fit) | Fitness tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [Fitbit](https://dev.fitbit.com/build/reference/web-api/) | Fitness tracker | 🔴 OAuth | ✅ | ⚠️ |
+| [Withings](https://developer.withings.com/) | Health devices | 🔴 OAuth | ✅ | ⚠️ |
+| [Oura](https://cloud.ouraring.com/docs/) | Sleep & activity tracker | 🔴 OAuth | ✅ | ⚠️ |
+| [Whoop](https://developer.whoop.com/) | Fitness wearable | 🔴 OAuth | ✅ | ⚠️ |
+| [MyFitnessPal](https://www.myfitnesspal.com/api) | Nutrition tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [Cronometer](https://cronometer.com/api/) | Nutrition tracker | 🟡 API Key | ✅ | ✅ |
+| [Lose It!](https://www.loseit.com/api/) | Weight loss app | 🔴 OAuth | ✅ | ⚠️ |
+
+### Pharmacy & Prescriptions
+| [Truepill](https://truepill.com/developers) | Digital pharmacy | 🟡 API Key | ✅ | ✅ |
+| [PillPack](https://www.pillpack.com/api) | Pharmacy delivery | 🟡 API Key | ✅ | ✅ |
+| [Alto Pharmacy](https://alto.com/api) | Pharmacy service | 🟡 API Key | ✅ | ✅ |
+| [Capsule](https://www.capsulecares.com/developers) | Pharmacy platform | 🟡 API Key | ✅ | ✅ |
+| [NowRx](https://nowrx.com/api) | Pharmacy delivery | 🟡 API Key | ✅ | ✅ |
+| [ScriptDrop](https://scriptdrop.co/api) | Prescription delivery | 🟡 API Key | ✅ | ✅ |
+| [Medly](https://medly.com/developers) | Digital pharmacy | 🟡 API Key | ✅ | ✅ |
+| [Honeybee Health](https://honeybeehealthhq.com/api) | Pharmacy marketplace | 🟡 API Key | ✅ | ✅ |
+| [GoodRx](https://www.goodrx.com/developer) | Prescription prices | 🟡 API Key | ✅ | ✅⭐ |
+| [RxSaver](https://rxsaver.retailmenot.com/api) | Prescription savings | 🟡 API Key | ✅ | ✅ |
+
+### Mental Health & Wellness
+| [Talkspace](https://www.talkspace.com/api) | Online therapy | 🟡 API Key | ✅ | ✅ |
+| [BetterHelp](https://www.betterhelp.com/developer) | Therapy platform | 🟡 API Key | ✅ | ✅ |
+| [Headspace](https://developer.headspace.com/) | Meditation app | 🔴 OAuth | ✅ | ⚠️ |
+| [Calm](https://www.calm.com/business/api) | Meditation & sleep | 🟡 API Key | ✅ | ✅ |
+| [Ginger](https://www.ginger.com/developers) | Mental health | 🟡 API Key | ✅ | ✅ |
+| [Lyra Health](https://www.lyrahealth.com/developers/) | Mental health care | 🟡 API Key | ✅ | ✅ |
+| [Spring Health](https://springhealth.com/api) | Mental health benefits | 🟡 API Key | ✅ | ✅ |
+| [Modern Health](https://modernhealth.com/developers) | Mental wellness | 🟡 API Key | ✅ | ✅ |
+| [Sanvello](https://www.sanvello.com/api) | Mental health app | 🟡 API Key | ✅ | ✅ |
+| [Happify](https://www.happify.com/developers) | Emotional wellness | 🟡 API Key | ✅ | ✅ |
+
+### Dental & Vision Care
+| [Smile Direct Club](https://smiledirectclub.com/api) | Dental aligners | 🟡 API Key | ✅ | ✅ |
+| [Candid](https://www.candidco.com/api) | Teeth aligners | 🟡 API Key | ✅ | ✅ |
+| [Byte](https://byte.com/developers) | Aligner therapy | 🟡 API Key | ✅ | ✅ |
+| [Warby Parker](https://www.warbyparker.com/api) | Eyewear | 🟡 API Key | ✅ | ✅ |
+| [Zenni Optical](https://www.zennioptical.com/api) | Prescription glasses | 🟡 API Key | ✅ | ✅ |
+| [EyeBuyDirect](https://www.eyebuydirect.com/developers) | Eyeglasses online | 🟡 API Key | ✅ | ✅ |
+| [Lensabl](https://lensabl.com/api) | Lens replacement | 🟡 API Key | ✅ | ✅ |
+| [Hubble](https://hubblecontacts.com/api) | Contact lenses | 🟡 API Key | ✅ | ✅ |
+| [Simple Contacts](https://simplecontacts.com/developers) | Contact lens delivery | 🟡 API Key | ✅ | ✅ |
+| [1-800 Contacts](https://www.1800contacts.com/api) | Contact lenses | 🟡 API Key | ✅ | ✅ |
+
+### Lab Testing & Diagnostics
+| [Quest Diagnostics](https://www.questdiagnostics.com/business-solutions/health-plans/apis) | Lab testing | 🟡 API Key | ✅ | ✅ |
+| [LabCorp](https://developer.labcorp.com/) | Clinical laboratory | 🟡 API Key | ✅ | ✅ |
+| [Everlywell](https://www.everlywell.com/api) | At-home lab tests | 🟡 API Key | ✅ | ✅ |
+| [LetsGetChecked](https://www.letsgetchecked.com/api) | Home health testing | 🟡 API Key | ✅ | ✅ |
+| [Pixel by LabCorp](https://pixelbylabcorp.com/api) | At-home testing | 🟡 API Key | ✅ | ✅ |
+| [Color](https://www.color.com/developers) | Genetic testing | 🟡 API Key | ✅ | ✅ |
+| [23andMe](https://api.23andme.com/) | Genetic service | 🔴 OAuth | ✅ | ⚠️ |
+| [Ancestry DNA](https://www.ancestry.com/dna/developers) | Genetic genealogy | 🔴 OAuth | ✅ | ⚠️ |
+| [MyHeritage DNA](https://www.myheritage.com/api) | DNA testing | 🔴 OAuth | ✅ | ⚠️ |
+| [Living DNA](https://livingdna.com/api) | Ancestry & wellness | 🟡 API Key | ✅ | ✅ |
+
+### Pet Care & Veterinary
+| [Chewy](https://www.chewy.com/api) | Pet supplies | 🟡 API Key | ✅ | ✅ |
+| [Petco](https://developer.petco.com/) | Pet retailer | 🟡 API Key | ✅ | ✅ |
+| [PetSmart](https://www.petsmart.com/developers) | Pet store | 🟡 API Key | ✅ | ✅ |
+| [Rover](https://www.rover.com/api/) | Pet sitting | 🔴 OAuth | ✅ | ⚠️ |
+| [Wag](https://wagwalking.com/api) | Dog walking | 🟡 API Key | ✅ | ✅ |
+| [Pawp](https://pawp.com/api) | Pet telehealth | 🟡 API Key | ✅ | ✅ |
+| [Dutch](https://www.dutch.com/developers) | Pet telemedicine | 🟡 API Key | ✅ | ✅ |
+| [Fuzzy](https://www.fuzzy.com/api) | Pet health | 🟡 API Key | ✅ | ✅ |
+| [Petfinder API](https://www.petfinder.com/developers/) | Pet adoption | 🟡 API Key | ✅ | ✅⭐ |
+| [PetRescue](https://www.petrescue.com.au/api) | Pet adoption | 🟡 API Key | ✅ | ✅ |
+
+### Agriculture & Farming
+| [OpenWeatherMap Agro](https://agromonitoring.com/api) | Agricultural monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [Farmers Business Network](https://www.fbn.com/developers) | Farm management | 🟡 API Key | ✅ | ✅ |
+| [Climate FieldView](https://www.climate.com/developers) | Precision agriculture | 🟡 API Key | ✅ | ✅ |
+| [John Deere](https://developer.deere.com/) | Farm equipment | 🔴 OAuth | ✅ | ⚠️ |
+| [Trimble Ag](https://developer.trimble.com/ag-software) | Ag software | 🟡 API Key | ✅ | ✅ |
+| [Granular](https://granular.ag/developers) | Farm management | 🟡 API Key | ✅ | ✅ |
+| [AgriWebb](https://agriwebb.com/api) | Livestock management | 🟡 API Key | ✅ | ✅ |
+| [FarmLogs](https://farmlogs.com/api) | Farm record keeping | 🟡 API Key | ✅ | ✅ |
+| [Conservis](https://www.conservis.ag/api) | Farm management | 🟡 API Key | ✅ | ✅ |
+| [Farmers Edge](https://www.farmersedge.ca/developers) | Precision ag | 🟡 API Key | ✅ | ✅ |
+
+### Construction & Architecture
+| [Procore](https://developers.procore.com/) | Construction management | 🔴 OAuth | ✅ | ⚠️ |
+| [PlanGrid](https://developer.plangrid.com/) | Construction productivity | 🔴 OAuth | ✅ | ⚠️ |
+| [Autodesk BIM 360](https://forge.autodesk.com/) | Construction platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Buildertrend](https://buildertrend.com/api) | Construction software | 🟡 API Key | ✅ | ✅ |
+| [CoConstruct](https://coconstruct.com/api) | Construction management | 🟡 API Key | ✅ | ✅ |
+| [Jobber](https://developer.getjobber.com/) | Home service software | 🔴 OAuth | ✅ | ⚠️ |
+| [ServiceTitan](https://developer.servicetitan.io/) | Home services software | 🔴 OAuth | ✅ | ⚠️ |
+| [Housecall Pro](https://developer.housecallpro.com/) | Field service | 🔴 OAuth | ✅ | ⚠️ |
+| [FieldPulse](https://fieldpulse.com/api) | Field service software | 🟡 API Key | ✅ | ✅ |
+| [ServiceM8](https://developer.servicem8.com/) | Job management | 🔴 OAuth | ✅ | ⚠️ |
+
+### Energy & Utilities
+| [EIA](https://www.eia.gov/opendata/) | Energy information | 🟡 API Key | ✅ | ✅⭐ |
+| [IEA](https://www.iea.org/data-and-statistics/data-tools) | Energy data | 🟢 No | ✅ | ✅ |
+| [World Bank Energy](https://data.worldbank.org/topic/energy-and-mining) | Energy statistics | 🟢 No | ✅ | ✅⭐ |
+| [ENTSO-E](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html) | European electricity | 🟡 API Key | ✅ | ✅⭐ |
+| [ElexonAPI](https://www.elexon.co.uk/guidance-note/bmrs-api-data-push-user-guide/) | UK electricity | 🟡 API Key | ✅ | ✅ |
+| [EnergyPlus](https://energyplus.net/weather) | Building energy | 🟢 No | ✅ | ✅ |
+| [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts/) | Solar calculator | 🟡 API Key | ✅ | ✅⭐ |
+| [NREL](https://developer.nrel.gov/) | Renewable energy | 🟡 API Key | ✅ | ✅⭐ |
+| [WattTime](https://www.watttime.org/api-documentation/) | Grid emissions | 🟡 API Key | ✅ | ✅⭐ |
+| [Electricity Maps](https://api-portal.electricitymaps.com/) | Carbon intensity | 🟡 API Key | ✅ | ✅⭐ |
+
+### Environmental & Climate
+| [NASA POWER](https://power.larc.nasa.gov/docs/) | Solar & weather data | 🟢 No | ✅ | ✅⭐ |
+| [Copernicus](https://cds.climate.copernicus.eu/api-how-to) | Climate data | 🟡 API Key | ✅ | ✅⭐ |
+| [NOAA](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) | Weather & climate | 🟡 API Key | ✅ | ✅⭐ |
+| [Met Office](https://www.metoffice.gov.uk/services/data/datapoint/api) | UK weather | 🟡 API Key | ✅ | ✅ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather API | 🟡 API Key | ✅ | ✅⭐ |
+| [Weatherbit](https://www.weatherbit.io/api) | Weather data | 🟡 API Key | ✅ | ✅ |
+| [Dark Sky](https://darksky.net/dev) | Weather API | 🟡 API Key | ✅ | ✅ |
+| [AccuWeather](https://developer.accuweather.com/) | Weather forecasts | 🟡 API Key | ✅ | ✅ |
+| [Weather Underground](https://www.wunderground.com/weather/api/) | Weather data | 🟡 API Key | ✅ | ✅ |
+| [MeteoBlue](https://content.meteoblue.com/en/business-solutions/weather-apis) | Weather API | 🟡 API Key | ✅ | ✅ |
+
+### Astronomy & Space
+| [NASA APIs](https://api.nasa.gov/) | Space data | 🟡 API Key | ✅ | ✅⭐ |
+| [SpaceX](https://github.com/r-spacex/SpaceX-API) | SpaceX data | 🟢 No | ✅ | ✅⭐ |
+| [Launch Library](https://ll.thespacedevs.com/2.2.0/swagger/) | Space launches | 🟢 No | ✅ | ✅⭐ |
+| [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS location | 🟢 No | No | ✅⭐ |
+| [SkyField](https://rhodesmill.org/skyfield/) | Astronomy positions | 🟢 No | ✅ | ✅ |
+| [AstroBin](https://www.astrobin.com/api/v2/) | Astrophotography | 🟡 API Key | ✅ | ✅ |
+| [Celestrak](https://celestrak.com/NORAD/documentation/) | Satellite tracking | 🟢 No | ✅ | ✅⭐ |
+| [N2YO](https://www.n2yo.com/api/) | Satellite tracker | 🟡 API Key | ✅ | ✅ |
+| [Minor Planet Center](https://minorplanetcenter.net/web_service) | Asteroid data | 🟢 No | ✅ | ✅ |
+| [Asterank](http://www.asterank.com/api) | Asteroid database | 🟢 No | ✅ | ✅ |
+
+### Genealogy & Family History
+| [FamilySearch](https://www.familysearch.org/developers/) | Family history | 🔴 OAuth | ✅ | ⚠️ |
+| [Ancestry](https://www.ancestry.com/cs/dna-help/apis) | Genealogy service | 🔴 OAuth | ✅ | ⚠️ |
+| [MyHeritage](https://www.myheritage.com/api) | Family tree | 🔴 OAuth | ✅ | ⚠️ |
+| [Findmypast](https://www.findmypast.com/api) | Genealogy records | 🟡 API Key | ✅ | ✅ |
+| [Geni](https://www.geni.com/platform/developer) | Family tree | 🔴 OAuth | ✅ | ⚠️ |
+| [WikiTree](https://www.wikitree.com/wiki/Help:API_Documentation) | Free family tree | 🟢 No | ✅ | ✅⭐ |
+| [Gramps](https://gramps-project.org/wiki/index.php/Gramps_5.1_Wiki_Manual) | Genealogy software | 🟢 No | ✅ | ✅ |
+| [RootsMagic](https://www.rootsmagic.com/) | Family tree software | 🟡 API Key | ✅ | ✅ |
+| [Legacy Family Tree](https://www.legacyfamilytree.com/developers.asp) | Genealogy software | 🟡 API Key | ✅ | ✅ |
+| [Heredis](https://www.heredis.com/developers) | Family tree software | 🟡 API Key | ✅ | ✅ |
+
+### Events & Ticketing
+| [Eventbrite](https://www.eventbrite.com/platform/api) | Event management | 🔴 OAuth | ✅ | ⚠️ |
+| [Ticketmaster](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) | Event ticketing | 🟡 API Key | ✅ | ✅⭐ |
+| [StubHub](https://developer.stubhub.com/) | Ticket marketplace | 🟡 API Key | ✅ | ✅ |
+| [SeatGeek](https://platform.seatgeek.com/) | Event tickets | 🟡 API Key | ✅ | ✅⭐ |
+| [Universe](https://www.universe.com/api) | Event ticketing | 🟡 API Key | ✅ | ✅ |
+| [Dice](https://dice.fm/developers) | Event discovery | 🟡 API Key | ✅ | ✅ |
+| [Bandsintown](https://www.bandsintown.com/api) | Concert discovery | 🟡 API Key | ✅ | ✅⭐ |
+| [Songkick](https://www.songkick.com/developer) | Concert listings | 🟡 API Key | ✅ | ✅ |
+| [Meetup](https://www.meetup.com/api/) | Event platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Eventful](http://api.eventful.com/) | Event search | 🟡 API Key | ✅ | ✅ |
+
+### Dating & Social Discovery
+| [Tinder](https://www.gotinder.com/api/) | Dating app | 🔴 OAuth | ✅ | ⚠️ |
+| [Bumble](https://bumble.com/api) | Dating & networking | 🔴 OAuth | ✅ | ⚠️ |
+| [Hinge](https://hinge.co/api) | Dating app | 🔴 OAuth | ✅ | ⚠️ |
+| [OkCupid](https://www.okcupid.com/dev) | Dating site | 🔴 OAuth | ✅ | ⚠️ |
+| [Match](https://www.match.com/developers) | Dating service | 🔴 OAuth | ✅ | ⚠️ |
+| [eHarmony](https://www.eharmony.com/api) | Dating site | 🔴 OAuth | ✅ | ⚠️ |
+| [Coffee Meets Bagel](https://coffeemeetsbagel.com/api) | Dating app | 🔴 OAuth | ✅ | ⚠️ |
+| [The League](https://www.theleague.com/api) | Dating app | 🔴 OAuth | ✅ | ⚠️ |
+| [Plenty of Fish](https://www.pof.com/api) | Dating site | 🔴 OAuth | ✅ | ⚠️ |
+| [Badoo](https://badoo.com/team/api/) | Dating & social | 🔴 OAuth | ✅ | ⚠️ |
+
+### Charity & Donations
+| [JustGiving](https://api.justgiving.com/) | Fundraising platform | 🟡 API Key | ✅ | ✅⭐ |
+| [GoFundMe](https://www.gofundme.com/c/api) | Crowdfunding | 🟡 API Key | ✅ | ✅ |
+| [Kickstarter](https://www.kickstarter.com/help/stats) | Crowdfunding | 🟢 No | ✅ | ✅ |
+| [Indiegogo](https://developer.indiegogo.com/) | Crowdfunding | 🟡 API Key | ✅ | ✅ |
+| [Patreon](https://docs.patreon.com/) | Creator membership | 🔴 OAuth | ✅ | ⚠️ |
+| [Ko-fi](https://ko-fi.com/manage/webhooks) | Creator support | 🟡 API Key | ✅ | ✅ |
+| [Buy Me a Coffee](https://developers.buymeacoffee.com/) | Creator support | 🟡 API Key | ✅ | ✅⭐ |
+| [Liberapay](https://liberapay.com/about/faq#api) | Donations platform | 🟢 No | ✅ | ✅⭐ |
+| [Open Collective](https://docs.opencollective.com/help/contributing/development/api) | Collective funding | 🟡 API Key | ✅ | ✅⭐ |
+| [DonorBox](https://donorbox.org/nonprofit-blog/donorbox-api/) | Fundraising software | 🟡 API Key | ✅ | ✅ |
+
+### Volunteering & Community
+| [VolunteerMatch](https://www.volunteermatch.org/api) | Volunteer opportunities | 🟡 API Key | ✅ | ✅⭐ |
+| [Idealist](https://www.idealist.org/en/info/API) | Nonprofits & volunteers | 🟡 API Key | ✅ | ✅ |
+| [All for Good](http://www.allforgood.org/api) | Volunteer listings | 🟢 No | ✅ | ✅ |
+| [HandsOn Network](https://www.pointsoflight.org/api) | Volunteer network | 🟡 API Key | ✅ | ✅ |
+| [DoSomething](https://www.dosomething.org/us/api) | Youth volunteering | 🟡 API Key | ✅ | ✅⭐ |
+| [Catchafire](https://www.catchafire.org/api/) | Skills-based volunteering | 🟡 API Key | ✅ | ✅ |
+| [Golden](https://www.golden.com/api) | Volunteer management | 🟡 API Key | ✅ | ✅ |
+| [Better Impact](https://www.betterimpact.com/api) | Volunteer software | 🟡 API Key | ✅ | ✅ |
+| [Track It Forward](https://trackitforward.com/api) | Volunteer tracking | 🟡 API Key | ✅ | ✅ |
+| [GivePulse](https://www.givepulse.com/api) | Volunteer & civic engagement | 🟡 API Key | ✅ | ✅ |
+
+### Nonprofit & NGO Tools
+| [Salesforce Nonprofit](https://developer.salesforce.com/docs/atlas.en-us.npo.meta/npo/) | Nonprofit CRM | 🔴 OAuth | ✅ | ⚠️ |
+| [Bloomerang](https://bloomerang.co/product/integrations/api/) | Donor management | 🟡 API Key | ✅ | ✅ |
+| [Blackbaud](https://developer.blackbaud.com/) | Nonprofit software | 🔴 OAuth | ✅ | ⚠️ |
+| [Little Green Light](https://www.littlegreenlight.com/api/) | Fundraising CRM | 🟡 API Key | ✅ | ✅ |
+| [NeonCRM](https://developer.neoncrm.com/) | Nonprofit CRM | 🟡 API Key | ✅ | ✅ |
+| [Kindful](https://kindful.com/api/) | Donor management | 🟡 API Key | ✅ | ✅ |
+| [CiviCRM](https://docs.civicrm.org/dev/en/latest/api/) | Open source CRM | 🟡 API Key | ✅ | ✅⭐ |
+| [GiveWP](https://givewp.com/documentation/developers/) | WordPress donations | 🟡 API Key | ✅ | ✅⭐ |
+| [Classy](https://developers.classy.org/) | Online fundraising | 🔴 OAuth | ✅ | ⚠️ |
+| [Qgiv](https://qgiv.com/api/) | Fundraising platform | 🟡 API Key | ✅ | ✅ |
+## Mega Expansion - Push to 2000 APIs (Part 3 of 4)
+
+### Streaming & Content Creation
+| [Twitch API](https://dev.twitch.tv/docs/api/) | Live streaming | 🔴 OAuth | ✅ | ⚠️ |
+| [YouTube Data API](https://developers.google.com/youtube/v3) | Video platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Vimeo API](https://developer.vimeo.com/) | Video hosting | 🔴 OAuth | ✅ | ⚠️ |
+| [DailyMotion API](https://developers.dailymotion.com/) | Video sharing | 🔴 OAuth | ✅ | ⚠️ |
+| [TikTok API](https://developers.tiktok.com/) | Short video platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Instagram Graph API](https://developers.facebook.com/docs/instagram-api) | Photo sharing | 🔴 OAuth | ✅ | ⚠️ |
+| [Snapchat API](https://kit.snapchat.com/) | Messaging app | 🔴 OAuth | ✅ | ⚠️ |
+| [Pinterest API](https://developers.pinterest.com/) | Visual discovery | 🔴 OAuth | ✅ | ⚠️ |
+| [Flickr API](https://www.flickr.com/services/api/) | Photo sharing | 🟡 API Key | ✅ | ✅⭐ |
+| [500px API](https://developers.500px.com/) | Photography | 🔴 OAuth | ✅ | ⚠️ |
+
+### Podcast Hosting & Distribution
+| [Anchor](https://anchor.fm/api) | Podcast hosting | 🟡 API Key | ✅ | ✅ |
+| [Podbean](https://developers.podbean.com/) | Podcast platform | 🟡 API Key | ✅ | ✅ |
+| [Buzzsprout](https://www.buzzsprout.com/api) | Podcast hosting | 🟡 API Key | ✅ | ✅ |
+| [Transistor](https://developers.transistor.fm/) | Podcast analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Simplecast](https://simplecast.com/api/) | Podcast hosting | 🟡 API Key | ✅ | ✅ |
+| [Libsyn](https://support.libsyn.com/kb/api/) | Podcast hosting | 🟡 API Key | ✅ | ✅ |
+| [Spreaker](https://developers.spreaker.com/) | Podcast creation | 🟡 API Key | ✅ | ✅ |
+| [Podchaser](https://api-docs.podchaser.com/) | Podcast database | 🟡 API Key | ✅ | ✅⭐ |
+| [Chartable](https://chartable.com/api) | Podcast analytics | 🟡 API Key | ✅ | ✅ |
+| [Podtrac](https://analytics.podtrac.com/api) | Podcast measurement | 🟡 API Key | ✅ | ✅ |
+
+### Live Broadcasting & Webinars
+| [Zoom API](https://marketplace.zoom.us/docs/api-reference/introduction) | Video conferencing | 🔴 OAuth | ✅ | ⚠️ |
+| [Google Meet](https://developers.google.com/meet/api) | Video meetings | 🔴 OAuth | ✅ | ⚠️ |
+| [Microsoft Teams](https://docs.microsoft.com/en-us/graph/api/resources/teams-api-overview) | Collaboration platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Webex](https://developer.webex.com/) | Video conferencing | 🔴 OAuth | ✅ | ⚠️ |
+| [GoToWebinar](https://developer.goto.com/) | Webinar platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Demio](https://demio.com/api) | Webinar software | 🟡 API Key | ✅ | ✅ |
+| [Crowdcast](https://docs.crowdcast.io/) | Live events | 🟡 API Key | ✅ | ✅ |
+| [StreamYard](https://streamyard.com/api) | Live streaming | 🟡 API Key | ✅ | ✅ |
+| [Restream](https://developers.restream.io/) | Multi-streaming | 🟡 API Key | ✅ | ✅⭐ |
+| [OBS Studio](https://obsproject.com/wiki/Websocket-Protocol) | Broadcast software | 🟢 No | ✅ | ✅⭐ |
+
+### Screen Recording & Screenshots
+| [Loom](https://dev.loom.com/) | Video messaging | 🔴 OAuth | ✅ | ⚠️ |
+| [Screencast-O-Matic](https://screencast-o-matic.com/api) | Screen recorder | 🟡 API Key | ✅ | ✅ |
+| [Snagit](https://www.techsmith.com/snagit-api.html) | Screen capture | 🟡 API Key | ✅ | ✅ |
+| [CloudApp](https://developer.getcloudapp.com/) | Visual communication | 🟡 API Key | ✅ | ✅ |
+| [Droplr](https://droplr.com/api) | Screenshot sharing | 🟡 API Key | ✅ | ✅ |
+| [Monosnap](https://monosnap.com/api) | Screenshot tool | 🟡 API Key | ✅ | ✅ |
+| [Lightshot](https://prnt.sc/api) | Screenshot app | 🟢 No | ✅ | ✅ |
+| [ShareX](https://getsharex.com/docs/api) | Screen capture | 🟢 No | ✅ | ✅⭐ |
+| [Greenshot](https://getgreenshot.org/) | Screenshot tool | 🟢 No | ✅ | ✅ |
+| [Flameshot](https://flameshot.org/) | Screenshot software | 🟢 No | ✅ | ✅ |
+
+### Document Management & Collaboration
+| [Google Drive API](https://developers.google.com/drive) | Cloud storage | 🔴 OAuth | ✅ | ⚠️ |
+| [Dropbox API](https://www.dropbox.com/developers) | File hosting | 🔴 OAuth | ✅ | ⚠️ |
+| [Box API](https://developer.box.com/) | Content management | 🔴 OAuth | ✅ | ⚠️ |
+| [OneDrive API](https://docs.microsoft.com/en-us/onedrive/developer/) | Cloud storage | 🔴 OAuth | ✅ | ⚠️ |
+| [Notion API](https://developers.notion.com/) | Workspace | 🔴 OAuth | ✅ | ⚠️ |
+| [Confluence API](https://developer.atlassian.com/cloud/confluence/rest/) | Team workspace | 🔴 OAuth | ✅ | ⚠️ |
+| [SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/sharepoint-net-server-csom-jsom-and-rest-api-index) | Collaboration platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Evernote](https://dev.evernote.com/doc/) | Note-taking | 🔴 OAuth | ✅ | ⚠️ |
+| [OneNote](https://docs.microsoft.com/en-us/graph/api/resources/onenote) | Digital notebook | 🔴 OAuth | ✅ | ⚠️ |
+| [Simplenote](https://simplenote.com/developers/) | Note app | 🟡 API Key | ✅ | ✅⭐ |
+
+### PDF & Document Processing
+| [Adobe PDF Services](https://developer.adobe.com/document-services/apis/pdf-services/) | PDF manipulation | 🟡 API Key | ✅ | ✅⭐ |
+| [PDFShift](https://pdfshift.io/documentation/) | HTML to PDF | 🟡 API Key | ✅ | ✅⭐ |
+| [PDF.co](https://apidocs.pdf.co/) | PDF API | 🟡 API Key | ✅ | ✅⭐ |
+| [DocRaptor](https://docraptor.com/documentation) | Document generation | 🟡 API Key | ✅ | ✅ |
+| [PDFMonkey](https://www.pdfmonkey.io/docs) | PDF generation | 🟡 API Key | ✅ | ✅ |
+| [Docmosis](https://www.docmosis.com/how-it-works/api-options.html) | Document generation | 🟡 API Key | ✅ | ✅ |
+| [CloudConvert](https://cloudconvert.com/api/v2) | File conversion | 🟡 API Key | ✅ | ✅⭐ |
+| [Zamzar](https://developers.zamzar.com/) | File conversion | 🟡 API Key | ✅ | ✅ |
+| [ConvertAPI](https://www.convertapi.com/doc/api-key) | File conversion | 🟡 API Key | ✅ | ✅⭐ |
+| [ILovePDF](https://developer.ilovepdf.com/) | PDF tools | 🟡 API Key | ✅ | ✅ |
+
+### OCR & Document Extraction
+| [Google Cloud Vision OCR](https://cloud.google.com/vision/docs/ocr) | Optical character recognition | 🟡 API Key | ✅ | ✅⭐ |
+| [Microsoft Azure OCR](https://azure.microsoft.com/en-us/products/cognitive-services/computer-vision) | OCR service | 🟡 API Key | ✅ | ✅⭐ |
+| [AWS Textract](https://aws.amazon.com/textract/) | Document text extraction | 🟡 API Key | ✅ | ✅⭐ |
+| [ABBYY Cloud OCR](https://www.ocrsdk.com/) | OCR SDK | 🟡 API Key | ✅ | ✅ |
+| [OCR.space](https://ocr.space/OCRAPI) | Free OCR API | 🟡 API Key | ✅ | ✅⭐ |
+| [Tesseract](https://github.com/tesseract-ocr/tesseract) | Open source OCR | 🟢 No | ✅ | ✅⭐ |
+| [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR | 🟢 No | ✅ | ✅⭐ |
+| [Rossum](https://rossum.ai/developers/) | Document AI | 🟡 API Key | ✅ | ✅ |
+| [Nanonets](https://nanonets.com/documentation/) | OCR & data extraction | 🟡 API Key | ✅ | ✅⭐ |
+| [Docparser](https://docparser.com/documentation/) | Document parsing | 🟡 API Key | ✅ | ✅ |
+
+### Signature & Document Signing
+| [DocuSign](https://developers.docusign.com/) | Electronic signature | 🔴 OAuth | ✅ | ⚠️ |
+| [HelloSign](https://www.hellosign.com/api) | eSignature | 🟡 API Key | ✅ | ✅⭐ |
+| [Adobe Sign](https://secure.na1.adobesign.com/public/docs/restapi/v6) | Digital signatures | 🔴 OAuth | ✅ | ⚠️ |
+| [PandaDoc](https://developers.pandadoc.com/) | Document automation | 🟡 API Key | ✅ | ✅⭐ |
+| [SignNow](https://docs.signnow.com/) | Document signing | 🔴 OAuth | ✅ | ⚠️ |
+| [SignRequest](https://signrequest.com/api/v1/docs/) | eSignature API | 🟡 API Key | ✅ | ✅⭐ |
+| [eSignGenie](https://www.esigngenie.com/esignature-api/) | Digital signature | 🟡 API Key | ✅ | ✅ |
+| [SignEasy](https://api.getsigneasy.com/docs/) | Mobile signatures | 🟡 API Key | ✅ | ✅ |
+| [RightSignature](https://developers.rightsignature.com/) | Electronic signatures | 🟡 API Key | ✅ | ✅ |
+| [Secured Signing](https://www.securedsigning.com/api) | Digital signatures | 🟡 API Key | ✅ | ✅ |
+
+### Low-Code / No-Code Platforms
+| [Bubble](https://manual.bubble.io/core-resources/api) | Web app builder | 🟡 API Key | ✅ | ✅⭐ |
+| [Webflow](https://developers.webflow.com/) | Website builder | 🔴 OAuth | ✅ | ⚠️ |
+| [Wix](https://dev.wix.com/api/rest/getting-started/introduction) | Website builder | 🔴 OAuth | ✅ | ⚠️ |
+| [Squarespace](https://developers.squarespace.com/) | Website builder | 🔴 OAuth | ✅ | ⚠️ |
+| [WordPress REST API](https://developer.wordpress.org/rest-api/) | CMS | 🔴 OAuth | ✅ | ⚠️ |
+| [Zapier](https://zapier.com/developer) | Automation platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Make (Integromat)](https://www.make.com/en/api-documentation) | Automation | 🟡 API Key | ✅ | ✅⭐ |
+| [n8n](https://docs.n8n.io/api/) | Workflow automation | 🟡 API Key | ✅ | ✅⭐ |
+| [Retool](https://docs.retool.com/docs/retool-api) | Internal tools | 🟡 API Key | ✅ | ✅⭐ |
+| [Appsmith](https://docs.appsmith.com/core-concepts/connecting-to-data-sources/authentication) | Open source low-code | 🟡 API Key | ✅ | ✅⭐ |
+
+### API Development & Testing
+| [Postman API](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | API platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Insomnia](https://docs.insomnia.rest/insomnia/get-started) | API client | 🟢 No | ✅ | ✅⭐ |
+| [Paw](https://paw.cloud/) | API tool | 🟡 API Key | ✅ | ✅ |
+| [RapidAPI](https://docs.rapidapi.com/docs) | API marketplace | 🟡 API Key | ✅ | ✅⭐ |
+| [API Gateway (AWS)](https://docs.aws.amazon.com/apigateway/) | API management | 🟡 API Key | ✅ | ✅⭐ |
+| [Kong](https://docs.konghq.com/gateway/latest/admin-api/) | API gateway | 🟡 API Key | ✅ | ✅⭐ |
+| [Tyk](https://tyk.io/docs/tyk-apis/) | API gateway | 🟡 API Key | ✅ | ✅⭐ |
+| [Apigee](https://cloud.google.com/apigee/docs/api-platform/reference/apis) | API management | 🟡 API Key | ✅ | ✅ |
+| [MuleSoft](https://docs.mulesoft.com/) | Integration platform | 🟡 API Key | ✅ | ✅ |
+| [WSO2](https://apim.docs.wso2.com/en/latest/) | API management | 🟡 API Key | ✅ | ✅ |
+
+### GraphQL Services
+| [Hasura](https://hasura.io/docs/latest/api-reference/overview/) | GraphQL engine | 🟡 API Key | ✅ | ✅⭐ |
+| [Apollo Server](https://www.apollographql.com/docs/apollo-server/) | GraphQL server | 🟢 No | ✅ | ✅⭐ |
+| [Prisma](https://www.prisma.io/docs/concepts/components/prisma-client) | Database toolkit | 🟢 No | ✅ | ✅⭐ |
+| [GraphCMS](https://graphcms.com/docs/api-reference) | Headless CMS | 🟡 API Key | ✅ | ✅⭐ |
+| [Hygraph](https://hygraph.com/docs/api-reference) | GraphQL CMS | 🟡 API Key | ✅ | ✅ |
+| [Contentful GraphQL](https://www.contentful.com/developers/docs/references/graphql/) | Content platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Fauna GraphQL](https://docs.fauna.com/fauna/current/api/graphql/) | Distributed database | 🟡 API Key | ✅ | ✅⭐ |
+| [StepZen](https://stepzen.com/docs) | GraphQL service | 🟡 API Key | ✅ | ✅⭐ |
+| [WPGraphQL](https://www.wpgraphql.com/) | WordPress GraphQL | 🟢 No | ✅ | ✅⭐ |
+| [PostGraphile](https://www.graphile.org/postgraphile/) | PostgreSQL GraphQL | 🟢 No | ✅ | ✅⭐ |
+
+### Headless CMS
+| [Strapi](https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest-api.html) | Open source CMS | 🟡 API Key | ✅ | ✅⭐ |
+| [Contentful](https://www.contentful.com/developers/docs/references/content-delivery-api/) | Content platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Sanity](https://www.sanity.io/docs/http-api) | Content platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Prismic](https://prismic.io/docs/technologies/rest-api-technical-reference) | Headless CMS | 🟡 API Key | ✅ | ✅⭐ |
+| [Directus](https://docs.directus.io/reference/introduction/) | Open data platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Ghost](https://ghost.org/docs/content-api/) | Publishing platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Butter CMS](https://buttercms.com/docs/api/) | Headless CMS | 🟡 API Key | ✅ | ✅ |
+| [DatoCMS](https://www.datocms.com/docs/content-delivery-api) | Headless CMS | 🟡 API Key | ✅ | ✅ |
+| [Cockpit](https://getcockpit.com/documentation/api) | Headless CMS | 🟡 API Key | ✅ | ✅ |
+| [Payload CMS](https://payloadcms.com/docs/rest-api/overview) | Headless CMS | 🟡 API Key | ✅ | ✅⭐ |
+
+### Website Builders & Hosting
+| [Netlify](https://docs.netlify.com/api/get-started/) | Web hosting | 🟡 API Key | ✅ | ✅⭐ |
+| [Vercel](https://vercel.com/docs/rest-api) | Frontend platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Cloudflare Pages](https://developers.cloudflare.com/pages/platform/api/) | JAMstack platform | 🟡 API Key | ✅ | ✅⭐ |
+| [GitHub Pages](https://docs.github.com/en/rest/pages) | Static hosting | 🟡 API Key | ✅ | ✅⭐ |
+| [GitLab Pages](https://docs.gitlab.com/ee/api/pages.html) | Static site hosting | 🟡 API Key | ✅ | ✅ |
+| [Render](https://render.com/docs/api) | Cloud platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Railway](https://docs.railway.app/reference/public-api) | Infrastructure platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Heroku](https://devcenter.heroku.com/categories/platform-api) | Cloud platform | 🟡 API Key | ✅ | ✅ |
+| [DigitalOcean App Platform](https://docs.digitalocean.com/reference/api/api-reference/) | PaaS | 🟡 API Key | ✅ | ✅⭐ |
+| [Fly.io](https://fly.io/docs/reference/api/) | Global app hosting | 🟡 API Key | ✅ | ✅⭐ |
+
+### Code Quality & Analysis
+| [SonarCloud](https://sonarcloud.io/web_api) | Code quality | 🟡 API Key | ✅ | ✅⭐ |
+| [CodeClimate](https://codeclimate.com/quality/feeds) | Code analysis | 🟡 API Key | ✅ | ✅ |
+| [Codacy](https://api.codacy.com/) | Code review | 🟡 API Key | ✅ | ✅ |
+| [DeepSource](https://deepsource.io/docs/api/) | Static analysis | 🟡 API Key | ✅ | ✅ |
+| [Coveralls](https://docs.coveralls.io/api-introduction) | Code coverage | 🟡 API Key | ✅ | ✅ |
+| [Codecov](https://docs.codecov.com/reference) | Code coverage | 🟡 API Key | ✅ | ✅⭐ |
+| [Better Code Hub](https://bettercodehub.com/docs/api) | Code quality | 🟡 API Key | ✅ | ✅ |
+| [LGTM](https://lgtm.com/help/lgtm/api/api-v1) | Code analysis | 🟡 API Key | ✅ | ✅ |
+| [Sourcegraph](https://docs.sourcegraph.com/api/graphql) | Code search | 🟡 API Key | ✅ | ✅⭐ |
+| [CodeScene](https://codescene.com/docs/rest-api.html) | Code analysis | 🟡 API Key | ✅ | ✅ |
+
+### Error Tracking & Logging
+| [Sentry](https://docs.sentry.io/api/) | Error tracking | 🟡 API Key | ✅ | ✅⭐ |
+| [Rollbar](https://docs.rollbar.com/reference) | Error monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [Bugsnag](https://bugsnagapiv2.docs.apiary.io/) | Error monitoring | 🟡 API Key | ✅ | ✅ |
+| [Airbrake](https://airbrake.io/docs/api/) | Error tracking | 🟡 API Key | ✅ | ✅ |
+| [Raygun](https://raygun.com/documentation/api/) | Error monitoring | 🟡 API Key | ✅ | ✅ |
+| [TrackJS](https://docs.trackjs.com/api/v1/) | JavaScript error tracking | 🟡 API Key | ✅ | ✅ |
+| [LogRocket](https://docs.logrocket.com/reference) | Frontend monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [FullStory](https://developer.fullstory.com/) | Digital experience | 🟡 API Key | ✅ | ✅ |
+| [Datadog Logs](https://docs.datadoghq.com/api/latest/logs/) | Log management | 🟡 API Key | ✅ | ✅⭐ |
+| [Papertrail](https://www.papertrail.com/help/api/) | Log management | 🟡 API Key | ✅ | ✅ |
+
+### Feature Flags & Experimentation
+| [LaunchDarkly](https://apidocs.launchdarkly.com/) | Feature management | 🟡 API Key | ✅ | ✅⭐ |
+| [Split.io](https://docs.split.io/reference) | Feature flags | 🟡 API Key | ✅ | ✅⭐ |
+| [Unleash](https://docs.getunleash.io/reference/api/unleash) | Feature toggle | 🟡 API Key | ✅ | ✅⭐ |
+| [Flagsmith](https://docs.flagsmith.com/deployment/hosting/locally-api) | Feature flags | 🟡 API Key | ✅ | ✅⭐ |
+| [ConfigCat](https://api.configcat.com/docs/) | Feature flags | 🟡 API Key | ✅ | ✅⭐ |
+| [Optimizely](https://docs.developers.optimizely.com/full-stack-experimentation/docs) | Experimentation | 🟡 API Key | ✅ | ✅ |
+| [GrowthBook](https://docs.growthbook.io/api) | A/B testing | 🟡 API Key | ✅ | ✅⭐ |
+| [Statsig](https://docs.statsig.com/http-api) | Product experimentation | 🟡 API Key | ✅ | ✅⭐ |
+| [DevCycle](https://docs.devcycle.com/docs/home) | Feature flags | 🟡 API Key | ✅ | ✅ |
+| [FeatureHub](https://docs.featurehub.io/) | Feature management | 🟡 API Key | ✅ | ✅ |
+
+### A/B Testing & Analytics
+| [Google Optimize](https://developers.google.com/optimize) | A/B testing | 🟡 API Key | ✅ | ✅ |
+| [VWO](https://developers.vwo.com/reference) | A/B testing platform | 🟡 API Key | ✅ | ✅ |
+| [AB Tasty](https://developers.abtasty.com/) | Experimentation | 🟡 API Key | ✅ | ✅ |
+| [Convert](https://www.convert.com/api/) | A/B testing | 🟡 API Key | ✅ | ✅ |
+| [Kameleoon](https://developers.kameleoon.com/) | Experimentation | 🟡 API Key | ✅ | ✅ |
+| [Dynamic Yield](https://dynamicyield.github.io/api-documentation/) | Personalization | 🟡 API Key | ✅ | ✅ |
+| [Amplitude](https://www.docs.developers.amplitude.com/analytics/apis/http-v2-api/) | Product analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Mixpanel](https://developer.mixpanel.com/reference/overview) | Product analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Segment](https://segment.com/docs/connections/spec/) | Customer data platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Heap](https://developers.heap.io/reference) | Digital insights | 🟡 API Key | ✅ | ✅ |
+## Mega Expansion - Push to 2000 APIs (Part 4 of 4)
+
+### Session Recording & Heatmaps
+| [Hotjar](https://hotjar.com/api/docs) | Heatmaps & recordings | 🟡 API Key | ✅ | ✅⭐ |
+| [Crazy Egg](https://www.crazyegg.com/help/api/) | Heatmaps | 🟡 API Key | ✅ | ✅ |
+| [Lucky Orange](https://www.luckyorange.com/api.php) | Analytics & heatmaps | 🟡 API Key | ✅ | ✅ |
+| [Mouseflow](https://mouseflow-api.readme.io/) | Session replay | 🟡 API Key | ✅ | ✅ |
+| [SessionStack](https://docs.sessionstack.com/) | Session replay | 🟡 API Key | ✅ | ✅ |
+| [Smartlook](https://www.smartlook.com/docs/sdk/api-reference/) | Qualitative analytics | 🟡 API Key | ✅ | ✅ |
+| [Inspectlet](https://www.inspectlet.com/docs/api) | Session recording | 🟡 API Key | ✅ | ✅ |
+| [UserReplay](https://www.userreplay.com/api) | Session replay | 🟡 API Key | ✅ | ✅ |
+| [Glassbox](https://www.glassbox.com/platform/api/) | Digital experience | 🟡 API Key | ✅ | ✅ |
+| [Contentsquare](https://contentsquare.com/developers/) | Experience analytics | 🟡 API Key | ✅ | ✅ |
+
+### User Feedback & Surveys
+| [Typeform](https://developer.typeform.com/) | Online forms | 🔴 OAuth | ✅ | ⚠️ |
+| [SurveyMonkey](https://developer.surveymonkey.com/) | Survey platform | 🔴 OAuth | ✅ | ⚠️ |
+| [Qualtrics](https://api.qualtrics.com/) | Experience management | 🟡 API Key | ✅ | ✅ |
+| [UserVoice](https://developer.uservoice.com/) | User feedback | 🟡 API Key | ✅ | ✅ |
+| [Canny](https://developers.canny.io/) | Product feedback | 🟡 API Key | ✅ | ✅⭐ |
+| [Nolt](https://nolt.io/api) | Feedback boards | 🟡 API Key | ✅ | ✅ |
+| [Fider](https://getfider.com/docs/api) | Feedback platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Feedier](https://feedier.com/api/) | Feedback management | 🟡 API Key | ✅ | ✅ |
+| [GetFeedback](https://developer.getfeedback.com/) | CX platform | 🟡 API Key | ✅ | ✅ |
+| [Delighted](https://app.delighted.com/docs/api) | Customer feedback | 🟡 API Key | ✅ | ✅⭐ |
+
+### Product Tours & Onboarding
+| [Appcues](https://docs.appcues.com/api/) | User onboarding | 🟡 API Key | ✅ | ✅⭐ |
+| [Pendo](https://developers.pendo.io/) | Product experience | 🟡 API Key | ✅ | ✅⭐ |
+| [WalkMe](https://developers.walkme.com/) | Digital adoption | 🟡 API Key | ✅ | ✅ |
+| [Userpilot](https://docs.userpilot.com/api/) | User onboarding | 🟡 API Key | ✅ | ✅ |
+| [Chameleon](https://developers.chameleon.io/) | Product tours | 🟡 API Key | ✅ | ✅⭐ |
+| [Inline Manual](https://docs.inlinemanual.com/api) | User guidance | 🟡 API Key | ✅ | ✅ |
+| [Userflow](https://userflow.com/docs/api) | In-app guides | 🟡 API Key | ✅ | ✅ |
+| [Product Fruits](https://productfruits.com/api) | Product adoption | 🟡 API Key | ✅ | ✅ |
+| [Helppier](https://helppier.com/api/) | Interactive guides | 🟡 API Key | ✅ | ✅ |
+| [Shepherd](https://shepherdjs.dev/) | Tour library | 🟢 No | ✅ | ✅⭐ |
+
+### Knowledge Base & Documentation
+| [ReadMe](https://docs.readme.com/main/reference) | API documentation | 🟡 API Key | ✅ | ✅⭐ |
+| [GitBook](https://developer.gitbook.com/) | Documentation platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Docusaurus](https://docusaurus.io/) | Documentation website | 🟢 No | ✅ | ✅⭐ |
+| [MkDocs](https://www.mkdocs.org/) | Documentation generator | 🟢 No | ✅ | ✅⭐ |
+| [Sphinx](https://www.sphinx-doc.org/) | Documentation generator | 🟢 No | ✅ | ✅⭐ |
+| [Confluence](https://developer.atlassian.com/cloud/confluence/rest/) | Wiki software | 🔴 OAuth | ✅ | ⚠️ |
+| [Notion](https://developers.notion.com/) | Knowledge base | 🔴 OAuth | ✅ | ⚠️ |
+| [Document360](https://apidocs.document360.io/) | Knowledge base | 🟡 API Key | ✅ | ✅ |
+| [HelpDocs](https://helpdocs.io/api) | Knowledge base | 🟡 API Key | ✅ | ✅ |
+| [Helpjuice](https://helpjuice.com/api) | Knowledge base | 🟡 API Key | ✅ | ✅ |
+
+### Live Chat & Support Widgets
+| [Intercom](https://developers.intercom.com/) | Customer messaging | 🟡 API Key | ✅ | ✅⭐ |
+| [Drift](https://devdocs.drift.com/) | Conversational marketing | 🟡 API Key | ✅ | ✅ |
+| [LiveChat](https://developers.livechat.com/) | Live chat software | 🟡 API Key | ✅ | ✅⭐ |
+| [Zendesk Chat](https://developer.zendesk.com/api-reference/live-chat/introduction/) | Live chat | 🟡 API Key | ✅ | ✅ |
+| [Olark](https://www.olark.com/help/api) | Live chat | 🟡 API Key | ✅ | ✅ |
+| [Tidio](https://www.tidio.com/docs/developer/) | Live chat | 🟡 API Key | ✅ | ✅ |
+| [Tawk.to](https://developer.tawk.to/) | Free live chat | 🟡 API Key | ✅ | ✅⭐ |
+| [Crisp](https://docs.crisp.chat/api/v1/) | Customer messaging | 🟡 API Key | ✅ | ✅⭐ |
+| [Chatwoot](https://www.chatwoot.com/developers) | Open source support | 🟡 API Key | ✅ | ✅⭐ |
+| [Papercups](https://docs.papercups.io/) | Customer messaging | 🟡 API Key | ✅ | ✅⭐ |
+
+### Chatbots & Conversational AI
+| [Dialogflow](https://cloud.google.com/dialogflow/docs) | Conversational AI | 🟡 API Key | ✅ | ✅⭐ |
+| [Watson Assistant](https://cloud.ibm.com/apidocs/assistant/assistant-v2) | AI assistant | 🟡 API Key | ✅ | ✅⭐ |
+| [Rasa](https://rasa.com/docs/rasa/http-api/) | Open source chatbot | 🟢 No | ✅ | ✅⭐ |
+| [Botpress](https://botpress.com/docs/developers) | Chatbot platform | 🟢 No | ✅ | ✅⭐ |
+| [ManyChat](https://manychat.github.io/dynamic_block_docs/) | Chat marketing | 🟡 API Key | ✅ | ✅ |
+| [Chatfuel](https://docs.chatfuel.com/) | Bot builder | 🟡 API Key | ✅ | ✅ |
+| [Landbot](https://developers.landbot.io/) | No-code chatbots | 🟡 API Key | ✅ | ✅ |
+| [Collect.chat](https://collect.chat/api) | Conversational forms | 🟡 API Key | ✅ | ✅ |
+| [Botsify](https://docs.botsify.com/) | Chatbot platform | 🟡 API Key | ✅ | ✅ |
+| [Flow XO](https://flowxo.com/developers) | Bot building | 🟡 API Key | ✅ | ✅ |
+
+### Voice & Speech APIs
+| [Google Text-to-Speech](https://cloud.google.com/text-to-speech) | TTS service | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Polly](https://docs.aws.amazon.com/polly/) | Text to speech | 🟡 API Key | ✅ | ✅⭐ |
+| [Microsoft Azure Speech](https://azure.microsoft.com/en-us/products/cognitive-services/speech-services) | Speech services | 🟡 API Key | ✅ | ✅⭐ |
+| [ElevenLabs](https://elevenlabs.io/docs) | AI voice generation | 🟡 API Key | ✅ | ✅⭐ |
+| [Play.ht](https://docs.play.ht/) | Text to speech | 🟡 API Key | ✅ | ✅⭐ |
+| [Resemble.ai](https://www.resemble.ai/docs/) | Voice cloning | 🟡 API Key | ✅ | ✅⭐ |
+| [Murf.ai](https://murf.ai/api) | AI voice generator | 🟡 API Key | ✅ | ✅ |
+| [WellSaid Labs](https://wellsaidlabs.com/api/) | AI voice over | 🟡 API Key | ✅ | ✅ |
+| [Deepgram](https://developers.deepgram.com/) | Speech recognition | 🟡 API Key | ✅ | ✅⭐ |
+| [AssemblyAI](https://www.assemblyai.com/docs) | Speech-to-text | 🟡 API Key | ✅ | ✅⭐ |
+
+### SMS & Messaging Platforms
+| [Twilio](https://www.twilio.com/docs) | Communications API | 🟡 API Key | ✅ | ✅⭐ |
+| [Vonage (Nexmo)](https://developer.vonage.com/) | Communications APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Plivo](https://www.plivo.com/docs/) | Cloud communications | 🟡 API Key | ✅ | ✅⭐ |
+| [MessageBird](https://developers.messagebird.com/) | Omnichannel platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Sinch](https://developers.sinch.com/) | Customer communications | 🟡 API Key | ✅ | ✅ |
+| [Bandwidth](https://dev.bandwidth.com/) | Communications API | 🟡 API Key | ✅ | ✅ |
+| [Telnyx](https://developers.telnyx.com/) | Communications platform | 🟡 API Key | ✅ | ✅⭐ |
+| [SignalWire](https://developer.signalwire.com/) | Cloud communications | 🟡 API Key | ✅ | ✅ |
+| [Infobip](https://www.infobip.com/developers) | Omnichannel communications | 🟡 API Key | ✅ | ✅ |
+| [TextMagic](https://www.textmagic.com/docs/api/) | SMS platform | 🟡 API Key | ✅ | ✅ |
+
+### Push Notifications
+| [OneSignal](https://documentation.onesignal.com/reference) | Push notifications | 🟡 API Key | ✅ | ✅⭐ |
+| [Pushwoosh](https://docs.pushwoosh.com/) | Push messaging | 🟡 API Key | ✅ | ✅ |
+| [Airship](https://docs.airship.com/) | Mobile engagement | 🟡 API Key | ✅ | ✅ |
+| [Pusher Beams](https://pusher.com/docs/beams/) | Push notifications | 🟡 API Key | ✅ | ✅⭐ |
+| [Batch](https://batch.com/doc/api/) | Mobile engagement | 🟡 API Key | ✅ | ✅ |
+| [Pushover](https://pushover.net/api) | Push notifications | 🟡 API Key | ✅ | ✅⭐ |
+| [Pushy](https://pushy.me/docs/api/api) | Push notifications | 🟡 API Key | ✅ | ✅ |
+| [ntfy](https://ntfy.sh/) | Simple push notifications | 🟢 No | ✅ | ✅⭐ |
+| [Pushbullet](https://docs.pushbullet.com/) | Push notifications | 🟡 API Key | ✅ | ✅ |
+| [Prowl](https://www.prowlapp.com/api.php) | iOS push | 🟡 API Key | ✅ | ✅ |
+
+### Geolocation & Maps
+| [Google Maps](https://developers.google.com/maps) | Maps platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox](https://docs.mapbox.com/api/overview/) | Location data | 🟡 API Key | ✅ | ✅⭐ |
+| [HERE Maps](https://developer.here.com/) | Location services | 🟡 API Key | ✅ | ✅⭐ |
+| [TomTom](https://developer.tomtom.com/) | Maps & traffic | 🟡 API Key | ✅ | ✅ |
+| [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API) | Open map data | 🟢 No | ✅ | ✅⭐ |
+| [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) | OSM geocoding | 🟢 No | ✅ | ✅⭐ |
+| [LocationIQ](https://locationiq.com/docs) | Geocoding API | 🟡 API Key | ✅ | ✅⭐ |
+| [Geoapify](https://www.geoapify.com/api/) | Location platform | 🟡 API Key | ✅ | ✅⭐ |
+| [MapTiler](https://docs.maptiler.com/) | Map SDK | 🟡 API Key | ✅ | ✅ |
+| [ArcGIS](https://developers.arcgis.com/) | GIS platform | 🟡 API Key | ✅ | ✅ |
+
+### Routing & Navigation
+| [OSRM](http://project-osrm.org/docs/v5.24.0/api/) | Routing engine | 🟢 No | ✅ | ✅⭐ |
+| [Graphhopper](https://docs.graphhopper.com/) | Routing API | 🟡 API Key | ✅ | ✅⭐ |
+| [Valhalla](https://valhalla.github.io/valhalla/) | Routing engine | 🟢 No | ✅ | ✅⭐ |
+| [OpenRouteService](https://openrouteservice.org/dev/#/api-docs) | Routing service | 🟡 API Key | ✅ | ✅⭐ |
+| [MapQuest](https://developer.mapquest.com/) | Mapping & routing | 🟡 API Key | ✅ | ✅ |
+| [Bing Maps](https://www.microsoft.com/en-us/maps/choose-your-bing-maps-api) | Maps APIs | 🟡 API Key | ✅ | ✅ |
+| [Targomo](https://docs.targomo.com/) | Location intelligence | 🟡 API Key | ✅ | ✅ |
+| [TravelTime](https://docs.traveltime.com/api/overview/introduction) | Travel time API | 🟡 API Key | ✅ | ✅⭐ |
+| [Distancematrix.ai](https://distancematrix.ai/dev) | Distance calculation | 🟡 API Key | ✅ | ✅ |
+| [Route4Me](https://route4me.io/docs/) | Route optimization | 🟡 API Key | ✅ | ✅ |
+
+### QR Codes & Barcodes
+| [QR Code Generator](https://goqr.me/api/) | QR code API | 🟢 No | ✅ | ✅⭐ |
+| [QRServer](https://quickchart.io/qr-code-api/) | QR code generation | 🟢 No | ✅ | ✅⭐ |
+| [QR Code Monkey](https://www.qrcode-monkey.com/qr-code-api/) | Custom QR codes | 🟢 No | ✅ | ✅ |
+| [Scanova](https://scanova.io/api/) | QR code API | 🟡 API Key | ✅ | ✅ |
+| [Beaconstac](https://www.beaconstac.com/api) | QR code platform | 🟡 API Key | ✅ | ✅ |
+| [Barcode Lookup](https://www.barcodelookup.com/api) | Product barcode database | 🟡 API Key | ✅ | ✅⭐ |
+| [UPCitemdb](https://www.upcitemdb.com/api) | UPC database | 🟡 API Key | ✅ | ✅⭐ |
+| [Zxing](https://github.com/zxing/zxing) | Barcode scanner | 🟢 No | ✅ | ✅⭐ |
+| [Dynamsoft](https://www.dynamsoft.com/barcode-reader/sdk-javascript/) | Barcode SDK | 🟡 API Key | ✅ | ✅ |
+| [Scandit](https://docs.scandit.com/) | Barcode scanning | 🟡 API Key | ✅ | ✅ |
+
+### Fraud Detection & Identity Verification
+| [Stripe Radar](https://stripe.com/docs/radar) | Fraud prevention | 🟡 API Key | ✅ | ✅⭐ |
+| [Sift](https://developers.sift.com/) | Fraud detection | 🟡 API Key | ✅ | ✅⭐ |
+| [Plaid Identity](https://plaid.com/docs/identity/) | Identity verification | 🟡 API Key | ✅ | ✅⭐ |
+| [Onfido](https://documentation.onfido.com/) | Identity verification | 🟡 API Key | ✅ | ✅⭐ |
+| [Jumio](https://www.jumio.com/developers/) | ID verification | 🟡 API Key | ✅ | ✅ |
+| [Trulioo](https://developer.trulioo.com/) | Global identity | 🟡 API Key | ✅ | ✅ |
+| [Persona](https://docs.withpersona.com/) | Identity infrastructure | 🟡 API Key | ✅ | ✅⭐ |
+| [Socure](https://developer.socure.com/) | Identity verification | 🟡 API Key | ✅ | ✅ |
+| [Alloy](https://docs.alloy.com/) | Identity decisioning | 🟡 API Key | ✅ | ✅ |
+| [Sumsub](https://developers.sumsub.com/) | KYC platform | 🟡 API Key | ✅ | ✅ |
+
+### Video Conferencing & WebRTC
+| [Zoom](https://marketplace.zoom.us/docs/api-reference/introduction) | Video meetings | 🔴 OAuth | ✅ | ⚠️ |
+| [Twilio Video](https://www.twilio.com/docs/video) | Video API | 🟡 API Key | ✅ | ✅⭐ |
+| [Vonage Video](https://tokbox.com/developer/) | Video platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Agora](https://docs.agora.io/en) | Real-time engagement | 🟡 API Key | ✅ | ✅⭐ |
+| [Daily.co](https://docs.daily.co/) | Video calling | 🟡 API Key | ✅ | ✅⭐ |
+| [Whereby](https://whereby.dev/) | Video meetings | 🟡 API Key | ✅ | ✅⭐ |
+| [Jitsi](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe) | Open source video | 🟢 No | ✅ | ✅⭐ |
+| [100ms](https://www.100ms.live/docs/api-reference/overview) | Live video SDK | 🟡 API Key | ✅ | ✅⭐ |
+| [Dyte](https://docs.dyte.io/) | Video SDK | 🟡 API Key | ✅ | ✅⭐ |
+| [LiveKit](https://docs.livekit.io/) | Real-time video/audio | 🟡 API Key | ✅ | ✅⭐ |
+
+### Appointment Scheduling
+| [Calendly](https://developer.calendly.com/) | Scheduling automation | 🔴 OAuth | ✅ | ⚠️ |
+| [Cal.com](https://cal.com/docs/introduction) | Open source scheduling | 🟡 API Key | ✅ | ✅⭐ |
+| [Acuity Scheduling](https://developers.acuityscheduling.com/) | Appointment booking | 🟡 API Key | ✅ | ✅ |
+| [SimplyBook](https://simplybook.me/en/api/doc) | Booking software | 🟡 API Key | ✅ | ✅ |
+| [Setmore](https://developer.setmore.com/) | Free scheduling | 🟡 API Key | ✅ | ✅ |
+| [Appointy](https://www.appointy.com/api) | Scheduling software | 🟡 API Key | ✅ | ✅ |
+| [10to8](https://10to8.com/api/overview/) | Appointment scheduling | 🟡 API Key | ✅ | ✅ |
+| [Timekit](https://developers.timekit.io/) | Scheduling API | 🟡 API Key | ✅ | ✅ |
+| [ScheduleOnce](https://developers.scheduleonce.com/) | Meeting scheduler | 🟡 API Key | ✅ | ✅ |
+| [YouCanBookMe](https://gb.youcanbook.me/docs/api/) | Online scheduling | 🟡 API Key | ✅ | ✅ |
+
+### Bookkeeping & Invoicing
+| [QuickBooks](https://developer.intuit.com/app/developer/qbo/docs/api/accounting/most-commonly-used/invoice) | Accounting | 🔴 OAuth | ✅ | ⚠️ |
+| [Xero](https://developer.xero.com/documentation/api/accounting/overview) | Accounting platform | 🔴 OAuth | ✅ | ⚠️ |
+| [FreshBooks](https://www.freshbooks.com/api/start) | Invoicing | 🔴 OAuth | ✅ | ⚠️ |
+| [Wave Accounting](https://developer.waveapps.com/hc/en-us/articles/360019968212) | Free accounting | 🔴 OAuth | ✅ | ⚠️ |
+| [Invoice Ninja](https://api-docs.invoicing.co/) | Invoicing platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Zoho Invoice](https://www.zoho.com/invoice/api/v3/) | Invoicing software | 🔴 OAuth | ✅ | ⚠️ |
+| [PayPal Invoicing](https://developer.paypal.com/docs/invoicing/) | Send invoices | 🔴 OAuth | ✅ | ⚠️ |
+| [Square Invoices](https://developer.squareup.com/docs/invoices-api/overview) | Invoice API | 🔴 OAuth | ✅ | ⚠️ |
+| [Stripe Invoicing](https://stripe.com/docs/invoicing) | Billing | 🟡 API Key | ✅ | ✅⭐ |
+| [Chargebee](https://apidocs.chargebee.com/docs/api) | Subscription billing | 🟡 API Key | ✅ | ✅⭐ |
+
+### Subscription Management
+| [Stripe Billing](https://stripe.com/docs/billing) | Subscription billing | 🟡 API Key | ✅ | ✅⭐ |
+| [Chargebee](https://apidocs.chargebee.com/) | Subscription management | 🟡 API Key | ✅ | ✅⭐ |
+| [Recurly](https://developers.recurly.com/) | Subscription platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Paddle](https://developer.paddle.com/) | Billing platform | 🟡 API Key | ✅ | ✅⭐ |
+| [FastSpring](https://fastspring.com/docs/api/) | E-commerce platform | 🟡 API Key | ✅ | ✅ |
+| [2Checkout](https://www.2checkout.com/documentation/api/) | Payment platform | 🟡 API Key | ✅ | ✅ |
+| [Chargify](https://developers.chargify.com/) | Billing software | 🟡 API Key | ✅ | ✅ |
+| [Zuora](https://www.zuora.com/developer/api-reference/) | Subscription economy | 🟡 API Key | ✅ | ✅ |
+| [Rebilly](https://api-reference.rebilly.com/) | Subscription billing | 🟡 API Key | ✅ | ✅ |
+| [Billsby](https://support.billsby.com/api/) | Subscription billing | 🟡 API Key | ✅ | ✅ |
+
+### Expense Management
+| [Expensify](https://integrations.expensify.com/Integration-Server/doc/) | Expense reports | 🟡 API Key | ✅ | ✅⭐ |
+| [Concur](https://developer.concur.com/) | Travel & expense | 🔴 OAuth | ✅ | ⚠️ |
+| [Rydoo](https://developers.rydoo.com/) | Expense management | 🟡 API Key | ✅ | ✅ |
+| [Zoho Expense](https://www.zoho.com/expense/api/v1/) | Expense tracking | 🔴 OAuth | ✅ | ⚠️ |
+| [Divvy](https://developer.divvy.co/) | Expense management | 🟡 API Key | ✅ | ✅ |
+| [Emburse](https://www.emburse.com/developers/) | Expense automation | 🟡 API Key | ✅ | ✅ |
+| [Fyle](https://docs.fylehq.com/docs) | Expense management | 🟡 API Key | ✅ | ✅ |
+| [Receipt Bank](https://support.receipt-bank.com/hc/en-us/articles/360002539558-API) | Receipt capture | 🟡 API Key | ✅ | ✅ |
+| [Shoeboxed](https://www.shoeboxed.com/api/) | Receipt scanning | 🟡 API Key | ✅ | ✅ |
+| [Veryfi](https://www.veryfi.com/api/) | Receipt OCR | 🟡 API Key | ✅ | ✅⭐ |
+
+### Compliance & Regulatory
+| [ComplyAdvantage](https://docs.complyadvantage.com/) | Financial crime detection | 🟡 API Key | ✅ | ✅ |
+| [Refinitiv](https://developers.refinitiv.com/) | Financial data | 🟡 API Key | ✅ | ✅ |
+| [LexisNexis Risk](https://risk.lexisnexis.com/developers) | Risk solutions | 🟡 API Key | ✅ | ✅ |
+| [Accuity](https://www.accuity.com/products/apis/) | Compliance solutions | 🟡 API Key | ✅ | ✅ |
+| [Dow Jones Risk](https://developer.dowjones.com/) | Risk & compliance | 🟡 API Key | ✅ | ✅ |
+| [OFAC Sanctions](https://ofac-api.com/) | Sanctions screening | 🟢 No | ✅ | ✅⭐ |
+| [World-Check](https://risk.thomsonreuters.com/en/products/world-check-kyc-screening.html) | Risk intelligence | 🟡 API Key | ✅ | ✅ |
+| [Creditsafe](https://www.creditsafe.com/gb/en/product/our-data/rest-api.html) | Business credit | 🟡 API Key | ✅ | ✅ |
+| [Dun & Bradstreet](https://directplus.documentation.dnb.com/) | Business data | 🟡 API Key | ✅ | ✅ |
+| [Equifax](https://developer.equifax.com/products) | Credit data | 🟡 API Key | ✅ | ✅ |
+
+### Miscellaneous Utilities
+| [Random.org](https://www.random.org/clients/http/) | True random numbers | 🟢 No | ✅ | ✅⭐ |
+| [Lorem Picsum](https://picsum.photos/) | Random images | 🟢 No | ✅ | ✅⭐ |
+| [PlaceIMG](https://placeimg.com/) | Placeholder images | 🟢 No | No | ✅ |
+| [UI Faces](https://uifaces.co/api) | User avatars | 🟡 API Key | ✅ | ✅ |
+| [This X Does Not Exist](https://thisxdoesnotexist.com/) | AI generated content | 🟢 No | ✅ | ✅ |
+| [JSON Placeholder](https://jsonplaceholder.typicode.com/) | Fake API | 🟢 No | ✅ | ✅⭐ |
+| [ReqRes](https://reqres.in/) | Test REST API | 🟢 No | ✅ | ✅⭐ |
+| [Mockaroo](https://www.mockaroo.com/api/docs) | Test data generator | 🟡 API Key | ✅ | ✅⭐ |
+| [IFTTT](https://platform.ifttt.com/docs) | Automation platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Webhooks.site](https://webhooks.site/) | Test webhooks | 🟢 No | ✅ | ✅⭐ |
