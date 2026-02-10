@@ -43,6 +43,14 @@
 - [Conversion & Enrichment APIs](#-conversion--enrichment-apis)
 - [AI Voice & Telephony APIs](#-ai-voice--telephony-apis)
 - [AI Payment & Commerce APIs](#-ai-payment--commerce-apis)
+- [Cybersecurity & Threat Intelligence APIs](#-cybersecurity--threat-intelligence-apis)
+- [Climate & Sustainability APIs](#-climate--sustainability-apis)
+- [Backend-as-a-Service & Database APIs](#️-backend-as-a-service--database-apis)
+- [Workflow Automation APIs](#-workflow-automation-apis)
+- [Email & Marketing APIs](#-email--marketing-apis)
+- [Infrastructure-as-Code & DevOps APIs](#️-infrastructure-as-code--devops-apis)
+- [Math, Science & Research APIs](#-math-science--research-apis)
+- [Esports & Competitive Gaming APIs](#-esports--competitive-gaming-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -1981,6 +1989,164 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Paddle](https://developer.paddle.com/) | SaaS billing with built-in tax and compliance | 🟡 API Key | ✅ | ✅⭐ |
 | [Open Exchange Rates](https://docs.openexchangerates.org/) | Real-time and historical exchange rates for 170+ currencies | 🟡 API Key | ✅ | ✅⭐ |
 | [Wise (TransferWise)](https://api-docs.transferwise.com/) | International money transfers with real exchange rates | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🔐 Cybersecurity & Threat Intelligence APIs
+
+> APIs for vulnerability data, threat intel, and security analysis.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [MITRE ATT&CK](https://attack.mitre.org/resources/working-with-attack/) | Adversary tactics and techniques knowledge base (free, open) | 🟢 No | ✅ | ✅⭐ |
+| [MITRE CVE](https://cveawg.mitre.org/api-docs/) | Official CVE vulnerability records API | 🟢 No | ✅ | ✅⭐ |
+| [NVD (NIST)](https://nvd.nist.gov/developers) | National Vulnerability Database — CVE details and CVSS scores | 🟡 API Key | ✅ | ✅⭐ |
+| [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | Known Exploited Vulnerabilities catalog (JSON feed) | 🟢 No | ✅ | ✅⭐ |
+| [CVEDetails](https://www.cvedetails.com/api/v1/docs) | CVE security vulnerability database with stats | 🟡 API Key | ✅ | ✅⭐ |
+| [MITRE ATLAS](https://atlas.mitre.org/) | Adversarial threat landscape for AI systems | 🟢 No | ✅ | ✅⭐ |
+| [OSV (Google)](https://osv.dev/) | Open-source vulnerability database for packages | 🟢 No | ✅ | ✅⭐ |
+| [Exploit-DB](https://www.exploit-db.com/) | Archive of public exploits and proof-of-concepts | 🟢 No | ✅ | ✅⭐ |
+| [AbuseIPDB](https://www.abuseipdb.com/api) | IP address abuse/blacklist checking | 🟡 API Key | ✅ | ✅⭐ |
+| [URLhaus](https://urlhaus-api.abuse.ch/) | Malware URL intelligence feed | 🟢 No | ✅ | ✅⭐ |
+| [MalwareBazaar](https://bazaar.abuse.ch/api/) | Malware sample sharing and analysis | 🟢 No | ✅ | ✅⭐ |
+| [OTX AlienVault](https://otx.alienvault.com/api) | Open threat exchange for IOCs and threat data | 🟡 API Key | ✅ | ✅⭐ |
+| [GreyNoise](https://docs.greynoise.io/) | Internet-wide scanner and attack traffic intelligence | 🟡 API Key | ✅ | ✅⭐ |
+| [SecurityTrails](https://securitytrails.com/corp/apidocs) | DNS history, WHOIS, and domain intelligence | 🟡 API Key | ✅ | ✅⭐ |
+| [Censys](https://search.censys.io/api) | Internet-wide scan data for hosts and certificates | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🌱 Climate & Sustainability APIs
+
+> Carbon footprint, emissions data, and environmental sustainability APIs.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Climatiq](https://www.climatiq.io/docs) | Carbon emission factor calculations with 330,000+ data points | 🟡 API Key | ✅ | ✅⭐ |
+| [Carbon Interface](https://docs.carboninterface.com/) | Calculate carbon emissions for flights, vehicles, electricity | 🟡 API Key | ✅ | ✅⭐ |
+| [Electricity Maps](https://api-portal.electricitymaps.com/) | Real-time carbon intensity of electricity by region | 🟡 API Key | ✅ | ✅⭐ |
+| [WattTime](https://www.watttime.org/api-documentation/) | Real-time grid emissions data for clean energy optimization | 🟡 API Key | ✅ | ✅⭐ |
+| [CarbonCloud](https://carboncloud.com/api/) | Climate footprint data for the food system | 🟡 API Key | ✅ | ✅ |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | Global EV charging station registry (210,000+ locations) | 🟡 API Key | ✅ | ✅⭐ |
+| [Global Forest Watch](https://www.globalforestwatch.org/developers/) | Real-time deforestation monitoring and forest data | 🟢 No | ✅ | ✅⭐ |
+| [NASA POWER](https://power.larc.nasa.gov/docs/) | Solar irradiance and meteorological data for energy planning | 🟢 No | ✅ | ✅⭐ |
+| [NREL Developer](https://developer.nrel.gov/) | Renewable energy datasets — solar, wind, geothermal, hydrogen | 🟡 API Key | ✅ | ✅⭐ |
+| [Ocean Health Index](https://oceanhealthindex.org/data/) | Global ocean health assessments and indicators | 🟢 No | ✅ | ✅ |
+
+---
+
+## 🗃️ Backend-as-a-Service & Database APIs
+
+> Open-source and managed BaaS platforms with REST/GraphQL APIs.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Supabase](https://supabase.com/docs/reference) | Open-source Firebase alternative — Postgres, Auth, Storage, Realtime | 🟡 API Key | ✅ | ✅⭐ |
+| [Appwrite](https://appwrite.io/docs/references) | Open-source BaaS — databases, auth, storage, functions, messaging | 🟡 API Key | ✅ | ✅⭐ |
+| [PocketBase](https://pocketbase.io/docs/api-rules/) | Lightweight Go-based BaaS with SQLite (single binary) | 🟡 API Key | ✅ | ✅⭐ |
+| [Directus](https://docs.directus.io/reference/introduction.html) | Open data platform — instant REST/GraphQL API for any SQL database | 🟡 API Key | ✅ | ✅⭐ |
+| [Strapi](https://docs.strapi.io/dev-docs/api/rest) | Open-source headless CMS with customizable REST/GraphQL APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Convex](https://docs.convex.dev/) | Reactive backend-as-a-service with real-time sync and serverless functions | 🟡 API Key | ✅ | ✅⭐ |
+| [Nhost](https://docs.nhost.io/) | Open-source Firebase alternative with GraphQL (Hasura + Postgres) | 🟡 API Key | ✅ | ✅⭐ |
+| [Back4App](https://www.back4app.com/docs) | Parse Server-based BaaS with REST & GraphQL APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Turso](https://docs.turso.tech/) | Edge SQLite database (libSQL) with global replication | 🟡 API Key | ✅ | ✅⭐ |
+| [Xata](https://xata.io/docs/api-reference/overview) | Serverless data platform with full-text search and vector embeddings | 🟡 API Key | ✅ | ✅⭐ |
+| [CockroachDB Serverless](https://www.cockroachlabs.com/docs/api/) | Distributed SQL database with generous free tier | 🟡 API Key | ✅ | ✅⭐ |
+| [Upstash](https://upstash.com/docs/redis/overall/getstarted) | Serverless Redis, Kafka, and Vector — per-request pricing | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🤝 Workflow Automation APIs
+
+> APIs for orchestrating multi-step workflows and connecting services.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Zapier](https://platform.zapier.com/docs/api) | 8,000+ app integrations with AI agent and MCP support | 🔴 OAuth | ✅ | ⚠️ |
+| [Make (Integromat)](https://www.make.com/en/api-documentation) | Visual workflow builder with powerful branching and transforms | 🟡 API Key | ✅ | ✅⭐ |
+| [n8n](https://docs.n8n.io/api/) | Open-source workflow automation with LangChain integration | 🟡 API Key | ✅ | ✅⭐ |
+| [Pipedream](https://pipedream.com/docs/api/) | Developer-first serverless workflows with code steps | 🟡 API Key | ✅ | ✅⭐ |
+| [Activepieces](https://www.activepieces.com/docs/developers/overview) | Open-source Zapier alternative with AI pieces | 🟡 API Key | ✅ | ✅⭐ |
+| [Windmill](https://www.windmill.dev/docs/intro) | Open-source developer platform for scripts, flows, and apps | 🟡 API Key | ✅ | ✅⭐ |
+| [Temporal](https://docs.temporal.io/) | Durable execution platform for reliable workflows at scale | 🟡 API Key | ✅ | ✅⭐ |
+| [Inngest](https://www.inngest.com/docs) | Event-driven durable functions with built-in retries and scheduling | 🟡 API Key | ✅ | ✅⭐ |
+| [Trigger.dev](https://trigger.dev/docs) | Open-source background jobs with long-running task support | 🟡 API Key | ✅ | ✅⭐ |
+| [Prefect](https://docs.prefect.io/latest/api-ref/) | Python workflow orchestration for data pipelines | 🟡 API Key | ✅ | ✅⭐ |
+| [Dagster](https://docs.dagster.io/apidocs) | Data orchestration platform with asset-based pipelines | 🟡 API Key | ✅ | ✅⭐ |
+| [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/stable-rest-api-ref.html) | Workflow scheduling and monitoring with REST API | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 📧 Email & Marketing APIs
+
+> APIs for sending emails, managing campaigns, and email verification.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Resend](https://resend.com/docs/api-reference/introduction) | Modern email API built for developers — React Email support | 🟡 API Key | ✅ | ✅⭐ |
+| [Postmark](https://postmarkapp.com/developer) | Transactional email with industry-best deliverability | 🟡 API Key | ✅ | ✅⭐ |
+| [Loops](https://loops.so/docs/api) | Email marketing API for SaaS — drip campaigns, newsletters | 🟡 API Key | ✅ | ✅⭐ |
+| [Brevo (Sendinblue)](https://developers.brevo.com/) | Email, SMS, and marketing automation — generous free tier | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon SES](https://docs.aws.amazon.com/ses/) | High-volume email sending at $0.10 per 1,000 emails | 🟡 API Key | ✅ | ✅⭐ |
+| [Mailtrap](https://api-docs.mailtrap.io/) | Email testing and sending API with sandbox environment | 🟡 API Key | ✅ | ✅⭐ |
+| [ZeroBounce](https://www.zerobounce.net/docs/) | Email validation and deliverability testing | 🟡 API Key | ✅ | ✅⭐ |
+| [MailerSend](https://developers.mailersend.com/) | Transactional email and SMS with analytics dashboard | 🟡 API Key | ✅ | ✅⭐ |
+| [Buttondown](https://api.buttondown.email/) | Newsletter API with Markdown support and RSS import | 🟡 API Key | ✅ | ✅⭐ |
+| [ConvertKit (Kit)](https://developers.convertkit.com/) | Creator-focused email marketing with automation | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🏗️ Infrastructure-as-Code & DevOps APIs
+
+> APIs for managing cloud infrastructure, containers, and deployments.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Terraform Cloud](https://developer.hashicorp.com/terraform/cloud-docs/api-docs) | Infrastructure automation with state management | 🟡 API Key | ✅ | ✅⭐ |
+| [Pulumi](https://www.pulumi.com/docs/pulumi-cloud/reference/api/) | IaC platform with TypeScript/Python/Go support | 🟡 API Key | ✅ | ✅⭐ |
+| [Spacelift](https://docs.spacelift.io/integrations/api) | GitOps infrastructure management and policy engine | 🟡 API Key | ✅ | ✅⭐ |
+| [ArgoCD](https://argo-cd.readthedocs.io/en/stable/developer-guide/api-docs/) | Kubernetes GitOps continuous delivery | 🟡 API Key | ✅ | ✅⭐ |
+| [Portainer](https://docs.portainer.io/api/access) | Container management with REST API for Docker and K8s | 🟡 API Key | ✅ | ✅⭐ |
+| [Coolify](https://coolify.io/docs/api/authentication) | Self-hosted Heroku/Vercel alternative with REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Caprover](https://caprover.com/docs/get-started.html) | PaaS for deploying apps with Docker | 🟡 API Key | ✅ | ✅⭐ |
+| [Dokku](https://dokku.com/docs/advanced-usage/plugin-management/) | Lightweight self-hosted PaaS (mini Heroku) | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 📐 Math, Science & Research APIs
+
+> APIs for computation, scientific data, and academic research.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Wolfram Alpha](https://products.wolframalpha.com/api/) | Computational knowledge engine — solve any math/science problem | 🟡 API Key | ✅ | ✅⭐ |
+| [Mathpix](https://docs.mathpix.com/) | OCR for math equations — convert images/PDFs to LaTeX/MathML | 🟡 API Key | ✅ | ✅⭐ |
+| [Symbolab](https://www.symbolab.com/solver) | Step-by-step math problem solver | 🟢 No | ✅ | ✅ |
+| [Newton API](https://newton.vercel.app/) | Micro-service for mathematical operations (derive, integrate, etc.) | 🟢 No | ✅ | ✅⭐ |
+| [arXiv API](https://info.arxiv.org/help/api/) | Search and access 2.4M+ scientific papers | 🟢 No | ✅ | ✅⭐ |
+| [Crossref](https://api.crossref.org/) | Academic metadata for 150M+ scholarly works — DOIs, citations | 🟢 No | ✅ | ✅⭐ |
+| [OpenAlex](https://docs.openalex.org/) | Open catalog of scholarly works, authors, institutions (250M+ records) | 🟢 No | ✅ | ✅⭐ |
+| [CORE](https://core.ac.uk/services/api) | Aggregator of open access research papers (300M+ articles) | 🟡 API Key | ✅ | ✅⭐ |
+| [Europe PMC](https://europepmc.org/RestfulWebService) | Life sciences literature — 40M+ abstracts and full-text articles | 🟢 No | ✅ | ✅⭐ |
+| [PubChem](https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest) | Chemical compound database with 100M+ substances | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🎮 Esports & Competitive Gaming APIs
+
+> APIs for competitive gaming data, tournaments, and player stats.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [PandaScore](https://developers.pandascore.co/) | Esports data — LoL, CS2, Dota 2, Valorant tournaments | 🟡 API Key | ✅ | ✅⭐ |
+| [FACEIT](https://developers.faceit.com/docs/getting-started/overview) | Competitive gaming platform data and matchmaking | 🟡 API Key | ✅ | ✅⭐ |
+| [Stratz](https://docs.stratz.com/) | Dota 2 match data and analytics (GraphQL) | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenDota](https://docs.opendota.com/) | Open-source Dota 2 data platform | 🟢 No | ✅ | ✅⭐ |
+| [Tracker Network](https://tracker.gg/developers/docs/getting-started) | Stats for Fortnite, Apex, Valorant, and more | 🟡 API Key | ✅ | ✅⭐ |
+| [Riot Data Dragon](https://developer.riotgames.com/docs/lol#data-dragon) | League of Legends game data — champions, items, runes | 🟢 No | ✅ | ✅⭐ |
+| [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam user data, game stats, and achievements | 🟡 API Key | ✅ | ✅⭐ |
+| [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess game data, player profiles, and club info | 🟢 No | ✅ | ✅⭐ |
+| [Lichess](https://lichess.org/api) | Open-source chess platform API — games, puzzles, tournaments | 🟢 No | ✅ | ✅⭐ |
 
 ---
 
