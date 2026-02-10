@@ -99,6 +99,26 @@
 - [Meeting Scheduling & Booking APIs](#-meeting-scheduling--booking-apis)
 - [Live Chat & Messaging APIs](#-live-chat--messaging-apis)
 - [Product Information Management (PIM) APIs](#-product-information-management-pim-apis)
+- [Fleet Management & Telematics APIs](#-fleet-management--telematics-apis)
+- [Billing, Invoice & Subscription APIs](#-billing-invoice--subscription-apis)
+- [eSignature & Signature Verification APIs](#️-esignature--signature-verification-apis)
+- [Nutrition & Food Data APIs](#-nutrition--food-data-apis)
+- [Sentiment Analysis & Emotion Detection APIs](#-sentiment-analysis--emotion-detection-apis)
+- [Resume Parsing & Talent APIs](#-resume-parsing--talent-apis)
+- [Push Notification APIs](#-push-notification-apis)
+- [Content Moderation & NSFW Detection APIs](#️-content-moderation--nsfw-detection-apis)
+- [Geofencing & Location-Based APIs](#-geofencing--location-based-apis)
+- [Reservation & Booking APIs](#️-reservation--booking-apis)
+- [Review & Rating Management APIs](#-review--rating-management-apis)
+- [Video Conferencing APIs](#-video-conferencing-apis)
+- [Document Collaboration APIs](#-document-collaboration-apis)
+- [Address Validation & Geocoding APIs](#-address-validation--geocoding-apis)
+- [Product Analytics APIs](#-product-analytics-apis)
+- [Feature Flag & Toggle APIs](#-feature-flag--toggle-apis)
+- [Error Tracking & Monitoring APIs](#-error-tracking--monitoring-apis)
+- [Secrets Management APIs](#-secrets-management-apis)
+- [CDN & Content Delivery APIs](#-cdn--content-delivery-apis)
+- [Database Migration & Schema APIs](#️-database-migration--schema-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -2920,6 +2940,284 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Pimberly API](https://pimberly.com/) | API-first PIM — eCommerce, ERP, CRM bidirectional sync | 🟡 API Key | ✅ | ✅ |
 | [Plytix PIM](https://plytix.com/) | SMB PIM — automated product feed management | 🟡 API Key | ✅ | ✅ |
 | [Sales Layer API](https://saleslayer.com/) | Centralize, enrich, distribute product info — all channels | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🚛 Fleet Management & Telematics APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Samsara API](https://developers.samsara.com/) | Real-time GPS, vehicle diagnostics, driver behavior — feed-based sync | 🟡 API Key | ✅ | ✅⭐ |
+| [Geotab API](https://developers.geotab.com/) | GPS LogRecords, StatusData, FaultData — JSON-RPC | 🟡 API Key | ✅ | ✅⭐ |
+| [Fleetio API](https://developer.fleetio.com/) | Fleet lifecycle — vehicles, fuel, service records, parts | 🟡 API Key | ✅ | ✅⭐ |
+| [Motive API](https://developer.gomotive.com/) | ELD compliance, fleet tracking, driver monitoring, IFTA | 🟡 API Key | ✅ | ✅ |
+| [High Mobility](https://www.high-mobility.com/) | Unified telematics — native in-vehicle data across OEMs | 🔴 OAuth | ✅ | ✅ |
+| [Wialon (Gurtam)](https://wialon.com/) | GPS tracking for 3M+ units — geofencing, notifications | 🟡 API Key | ✅ | ✅ |
+| [Verizon Connect](https://www.verizonconnect.com/) | GPS position, dispatch, fuel tax, preventative maintenance | 🟡 API Key | ✅ | ⚠️ |
+| [Fleetistics](https://fleetistics.com/) | GPS data, telematics, dashcams, ELD integration | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 💳 Billing, Invoice & Subscription APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Stripe Billing](https://stripe.com/docs/billing) | Industry-standard — invoices, subscriptions, dunning, idempotent | 🟡 API Key | ✅ | ✅⭐ |
+| [Chargebee API](https://apidocs.chargebee.com/) | Subscription lifecycle — billing, invoicing, multi-currency | 🟡 API Key | ✅ | ✅⭐ |
+| [Recurly API](https://developers.recurly.com/) | Subscriptions + AI-optimized dunning recovery | 🟡 API Key | ✅ | ✅⭐ |
+| [Space Invoices](https://spaceinvoices.com/) | Global tax-compliant invoicing — OpenAPI 3.1 spec | 🟡 API Key | ✅ | ✅⭐ |
+| [Invoiced](https://invoiced.com/) | AR automation — invoice generation, payment, dunning | 🟡 API Key | ✅ | ✅ |
+| [Paddle](https://developer.paddle.com/) | Merchant-of-Record — handles tax + compliance globally | 🟡 API Key | ✅ | ✅ |
+| [Maxio (Chargify)](https://maxio.com/) | Complex B2B SaaS — component pricing, metered usage | 🟡 API Key | ✅ | ✅ |
+| [Zoho Billing](https://www.zoho.com/billing/) | Invoicing, subscriptions, hosted payment pages | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## ✍️ eSignature & Signature Verification APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [DocuSeal](https://www.docuseal.co/) | Open-source document signing — self-hostable, REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [BoldSign](https://www.boldsign.com/) | Lightweight eSignature — SOC 2, HIPAA, GDPR compliant | 🟡 API Key | ✅ | ✅⭐ |
+| [Dropbox Sign](https://www.hellosign.com/) | Developer-friendly eSignature — template-based workflows | 🟡 API Key | ✅ | ✅⭐ |
+| [Arya.ai Signature](https://www.arya.ai/) | AI signature verification — confidence scores for authenticity | 🟡 API Key | ✅ | ✅ |
+| [SignNow](https://www.signnow.com/) | eSignature — 256-bit encryption, audit trails, 2FA | 🔴 OAuth | ✅ | ✅ |
+| [signotec Biometric](https://www.signotec.com/) | Neural-network signature comparison — 2D and 4D biometric | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🥗 Nutrition & Food Data APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Open-source food database — barcode lookup, Nutri-Score, free | 🟢 No | ✅ | ✅⭐ |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide.html) | 200K+ foods, 150+ nutrients — free government database | 🟡 API Key | ✅ | ✅⭐ |
+| [Nutritionix](https://www.nutritionix.com/business/api) | Natural language nutrition — "1 apple and 2 tbsp peanut butter" | 🟡 API Key | ✅ | ✅⭐ |
+| [Spoonacular](https://spoonacular.com/food-api) | 365K+ recipes — nutrition, cost, meal planning, grocery lists | 🟡 API Key | ✅ | ✅⭐ |
+| [CalorieNinjas](https://calorieninjas.com/) | Simple nutrition facts — 100K+ foods, 10K free calls/month | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam API](https://developer.edamam.com/) | 28 nutrients per food — diet/allergy/health labels | 🟡 API Key | ✅ | ✅ |
+| [Spike Nutrition](https://spikeapi.com/) | AI food image recognition — photo to calorie breakdown | 🟡 API Key | ✅ | ✅ |
+| [FatSecret](https://platform.fatsecret.com/) | 1.9M+ foods in 56 countries — barcode lookup | 🔴 OAuth | ✅ | ⚠️ |
+
+---
+
+## 😊 Sentiment Analysis & Emotion Detection APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Google Cloud Natural Language](https://cloud.google.com/natural-language/docs) | Sentiment score + magnitude — entity-level, multi-language | 🟡 API Key | ✅ | ✅⭐ |
+| [IBM Watson NLU](https://www.ibm.com/products/natural-language-understanding) | 5 emotions (joy/sadness/anger/fear/disgust) — entity extraction | 🟡 API Key | ✅ | ✅⭐ |
+| [MeaningCloud](https://www.meaningcloud.com/) | Multilingual sentiment — aspect polarity, irony detection | 🟡 API Key | ✅ | ✅⭐ |
+| [NLPCloud](https://nlpcloud.com/) | LLM-powered sentiment + emotion — privacy-by-design | 🟡 API Key | ✅ | ✅ |
+| [Twinword Emotion](https://www.twinword.com/) | 6 emotions with per-emotion scores — pay-as-you-go | 🟡 API Key | ✅ | ✅ |
+| [Moderation API](https://moderationapi.com/) | Sentiment + toxicity + content moderation — single call | 🟡 API Key | ✅ | ✅ |
+| [Komprehend](https://komprehend.io/) | LSTM-based sentiment + 6 emotions — 1B+ docs trained | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 📄 Resume Parsing & Talent APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Affinda](https://www.affinda.com/) | 250M+ docs — 100+ fields from CVs, ~95% accuracy | 🟡 API Key | ✅ | ✅⭐ |
+| [Eden AI Resume Parser](https://www.edenai.co/) | Unified API — switch between Affinda/HireAbility/Klippa | 🟡 API Key | ✅ | ✅⭐ |
+| [RChilli](https://www.rchilli.com/) | AI resume parsing — job matching, 56+ languages | 🟡 API Key | ✅ | ✅ |
+| [Textkernel (Sovren)](https://www.textkernel.com/) | Enterprise parsing + semantic matching engine | 🟡 API Key | ✅ | ✅ |
+| [HireAbility](https://www.hireability.com/) | Resume parsing — zero data retention, privacy-first | 🟡 API Key | ✅ | ✅ |
+| [Skima AI](https://skima.ai/) | 200+ data points — 99% accuracy, 130+ integrations | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔔 Push Notification APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [ntfy](https://ntfy.sh/) | Open-source pub-sub notifications — zero auth for public topics | 🟢 No | ✅ | ✅⭐ |
+| [Pushover](https://pushover.net/) | Dead-simple push — one POST, iOS/Android/desktop | 🟡 API Key | ✅ | ✅⭐ |
+| [OneSignal](https://documentation.onesignal.com/) | Cross-platform push — segmentation, A/B testing, automation | 🟡 API Key | ✅ | ✅⭐ |
+| [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging) | Google's free push — unlimited messages, topics, device groups | 🟡 API Key | ✅ | ✅ |
+| [Pusher Beams](https://pusher.com/beams) | Hosted push — transactional notifications, cross-platform | 🟡 API Key | ✅ | ✅ |
+| [PushEngage](https://www.pushengage.com/) | AI-powered web/mobile push — scheduling, targeting | 🟡 API Key | ✅ | ✅ |
+| [Pushbullet](https://docs.pushbullet.com/) | Push notifications, links, files between devices | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🛡️ Content Moderation & NSFW Detection APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sightengine](https://sightengine.com/) | Real-time image/video/text moderation — nudity, violence, drugs | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai](https://www.clarifai.com/) | Pre-built models — NSFW, violence, hate symbols, custom training | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Vision SafeSearch](https://cloud.google.com/vision/docs/detecting-safe-search) | Adult/violence/racy content — likelihood scores per category | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Rekognition](https://aws.amazon.com/rekognition/) | Content moderation — deep AWS S3 integration | 🟡 API Key | ✅ | ✅ |
+| [API4AI NSFW](https://api4.ai/) | NSFW image classification — customizable sensitivity | 🟡 API Key | ✅ | ✅ |
+| [Moderation API](https://moderationapi.com/) | Text + image moderation + PII detection — single endpoint | 🟡 API Key | ✅ | ✅ |
+| [Imagga NSFW](https://imagga.com/) | NSFW categorization + image tagging, color analysis | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 📍 Geofencing & Location-Based APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Radar](https://radar.com/) | Industry-leading geofencing — entries/exits/dwells, free tier | 🟡 API Key | ✅ | ✅⭐ |
+| [TomTom Geofencing](https://developer.tomtom.com/) | Virtual barriers — alert on enter/exit/approach zones | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox Geofencing](https://www.mapbox.com/) | Polygon/circular boundaries — iOS/Android SDKs | 🟡 API Key | ✅ | ✅ |
+| [NextBillion.ai](https://nextbillion.ai/) | Circle/polygon/isochrone geofences — bulk creation | 🟡 API Key | ✅ | ✅ |
+| [Bluedot](https://bluedot.io/) | Drive-thru, curbside pickup, location marketing | 🟡 API Key | ✅ | ✅ |
+| [Azure Maps Spatial](https://learn.microsoft.com/en-us/azure/azure-maps/) | Point-in-polygon, closest-point — enterprise Azure | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🍽️ Reservation & Booking APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [SimplyBook.me API](https://simplybook.me/) | 200+ API functions — services, providers, bookings, payments | 🟡 API Key | ✅ | ✅⭐ |
+| [Bookeo API](https://www.bookeo.com/) | Online scheduling — bookings, customers, availability, payments | 🟡 API Key | ✅ | ✅⭐ |
+| [resOS](https://www.resos.com/) | Open-source restaurant reservations — custom integrations | 🟡 API Key | ✅ | ✅ |
+| [Yelp Reservations](https://www.yelp.com/developers) | Booking + reviews/ratings — venue intelligence combined | 🟡 API Key | ✅ | ✅ |
+| [SevenRooms](https://sevenrooms.com/) | Restaurant CRM + operations — guest profiles, analytics | 🟡 API Key | ✅ | ⚠️ |
+| [OpenTable API](https://www.opentable.com/) | Restaurant reservations — partner approval required | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## ⭐ Review & Rating Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Business search, reviews, ratings, photos — 5K calls/day free | 🟡 API Key | ✅ | ✅⭐ |
+| [Yotpo UGC API](https://www.yotpo.com/) | Product reviews, Q&A, UGC for eCommerce — 5K req/min | 🟡 API Key | ✅ | ✅⭐ |
+| [Tripadvisor Content API](https://www.tripadvisor.com/developers) | Millions of reviews for hotels/restaurants/attractions | 🟡 API Key | ✅ | ✅ |
+| [Stamped.io API](https://stamped.io/) | Product reviews, Q&A, NPS — webhook notifications | 🟡 API Key | ✅ | ✅ |
+| [Trustpilot API](https://developers.trustpilot.com/) | Business reviews — manage, reply, analyze sentiment | 🔴 OAuth | ✅ | ✅ |
+| [Judge.me API](https://judge.me/) | Shopify product reviews — export, import, manage | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 📹 Video Conferencing APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Daily.co API](https://docs.daily.co/) | Embed live video — up to 1K participants, HIPAA, no OAuth | 🟡 API Key | ✅ | ✅⭐ |
+| [Jitsi Meet API](https://jitsi.org/) | Open-source video conferencing — self-hostable, free | 🟢 No | ✅ | ✅⭐ |
+| [Whereby API](https://whereby.com/) | Embed video rooms — no downloads/plugins, up to 200 users | 🟡 API Key | ✅ | ✅⭐ |
+| [Dyte API](https://docs.dyte.io/) | Plug-and-play video SDK — AI features, recording | 🟡 API Key | ✅ | ✅⭐ |
+| [Zoom Meeting API](https://developers.zoom.us/) | Full meeting lifecycle — registrants, recordings, reports | 🔴 OAuth | ✅ | ✅ |
+| [Nylas Notetaker](https://www.nylas.com/) | Cross-platform meeting capture — transcripts, action items | 🟡 API Key | ✅ | ✅⭐ |
+| [Webex API](https://developer.webex.com/) | Meetings, messaging, calling, devices — Cisco platform | 🔴 OAuth | ✅ | ✅ |
+| [Vonage Video (OpenTok)](https://www.vonage.com/) | Secure video — up to 3K viewers, recording, archiving | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📝 Document Collaboration APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Notion API](https://developers.notion.com/) | Databases, pages, blocks, comments — block-based model | 🟡 API Key | ✅ | ✅⭐ |
+| [Etherpad API](https://etherpad.org/) | Open-source real-time collaborative text — self-hostable | 🟡 API Key | ✅ | ✅⭐ |
+| [Liveblocks](https://liveblocks.io/) | Co-editing, cursors, comments, notifications — Y.js/CRDT | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Docs API](https://developers.google.com/docs/api) | Read/create/edit Docs — paragraphs, tables, images | 🔴 OAuth | ✅ | ✅ |
+| [Confluence REST API](https://developer.atlassian.com/cloud/confluence/) | Pages, spaces, comments, attachments — CQL search | 🟡 API Key | ✅ | ✅ |
+| [Tiptap Collaboration](https://tiptap.dev/) | Collaborative editing — REST for server-side doc manipulation | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📍 Address Validation & Geocoding APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Nominatim (OSM)](https://nominatim.openstreetmap.org/) | Free open-source geocoding — no auth, OpenStreetMap data | 🟢 No | ✅ | ✅⭐ |
+| [Google Address Validation](https://developers.google.com/maps/documentation/address-validation) | USPS data, corrections, standardization — industry standard | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox Geocoding](https://docs.mapbox.com/api/search/geocoding/) | 100K free req/month — building-entrance precision | 🟡 API Key | ✅ | ✅⭐ |
+| [Smarty (SmartyStreets)](https://www.smarty.com/) | USPS-certified CASS/DPV — rich metadata, fast | 🟡 API Key | ✅ | ✅⭐ |
+| [HERE Geocoding](https://developer.here.com/) | 250K free req/month — global coverage, multi-format input | 🟡 API Key | ✅ | ✅⭐ |
+| [Radar Geocoding](https://radar.com/) | 100% US coverage — geofencing + geocoding combined | 🟡 API Key | ✅ | ✅ |
+| [Loqate (GBG)](https://www.loqate.com/) | 250+ countries — confidence scores, multi-match | 🟡 API Key | ✅ | ✅ |
+| [Melissa API](https://www.melissa.com/) | 240+ countries — NCOA changes, census data, enrichment | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📊 Product Analytics APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [PostHog API](https://posthog.com/docs/api) | Open-source analytics — events, funnels, replays, feature flags | 🟡 API Key | ✅ | ✅⭐ |
+| [Mixpanel API](https://developer.mixpanel.com/) | Event-based analytics — JQL queries, funnels, retention | 🟡 API Key | ✅ | ✅⭐ |
+| [Amplitude API](https://www.docs.developers.amplitude.com/) | Behavioral analytics — batch ingestion, chart queries | 🟡 API Key | ✅ | ✅⭐ |
+| [Countly API](https://support.count.ly/) | Open-source — mobile/web/desktop/IoT, self-hostable | 🟡 API Key | ✅ | ✅⭐ |
+| [Heap API](https://developers.heap.io/) | Auto-capture analytics — retroactive analysis, no instrumentation | 🟡 API Key | ✅ | ✅ |
+| [Pendo API](https://engageapi.pendo.io/) | Analytics + in-app guidance + feedback collection | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🚩 Feature Flag & Toggle APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Statsig API](https://docs.statsig.com/) | Free unlimited flags + experimentation — modern REST | 🟡 API Key | ✅ | ✅⭐ |
+| [Unleash API](https://docs.getunleash.io/) | Open-source feature flags — gradual rollout, self-hostable | 🟡 API Key | ✅ | ✅⭐ |
+| [Flagsmith API](https://docs.flagsmith.com/) | Open-source — remote config, identity, multi-environment | 🟡 API Key | ✅ | ✅⭐ |
+| [Flipt API](https://www.flipt.io/) | Open-source GitOps — gRPC + REST, Go-based, lightweight | 🟡 API Key | ✅ | ✅⭐ |
+| [LaunchDarkly API](https://apidocs.launchdarkly.com/) | Enterprise flags — percentage rollouts, targeting, audit | 🟡 API Key | ✅ | ✅⭐ |
+| [ConfigCat API](https://configcat.com/) | Cross-platform — 10 free flags, 10M free requests | 🟡 API Key | ✅ | ✅ |
+| [DevCycle API](https://docs.devcycle.com/) | OpenFeature-native — unlimited flags, edge-optimized | 🟡 API Key | ✅ | ✅ |
+| [PostHog Feature Flags](https://posthog.com/docs/feature-flags) | Bundled with analytics — multivariate, open source | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🐛 Error Tracking & Monitoring APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sentry API](https://docs.sentry.io/api/) | Industry standard — errors, performance, replays, 100+ integrations | 🟡 API Key | ✅ | ✅⭐ |
+| [Rollbar API](https://docs.rollbar.com/) | Real-time errors — RQL query language, 25K free events/month | 🟡 API Key | ✅ | ✅⭐ |
+| [GlitchTip](https://glitchtip.com/) | Open-source Sentry alternative — self-hostable, Sentry SDK compatible | 🟡 API Key | ✅ | ✅⭐ |
+| [Honeybadger API](https://docs.honeybadger.io/) | Errors + uptime + cron monitoring — 5K free errors/month | 🟡 API Key | ✅ | ✅⭐ |
+| [Bugsnag API](https://bugsnagapiv2.docs.apiary.io/) | Stability scoring — strong mobile support, intelligent grouping | 🟡 API Key | ✅ | ✅ |
+| [Airbrake API](https://airbrake.io/) | Error tracking + performance — intelligent grouping, affordable | 🟡 API Key | ✅ | ✅ |
+| [Better Stack (Logtail)](https://betterstack.com/) | Structured logging + uptime + incidents — generous free tier | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔑 Secrets Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Doppler API](https://docs.doppler.com/) | Developer-friendly secrets — universal sync across environments | 🟡 API Key | ✅ | ✅⭐ |
+| [Infisical API](https://infisical.com/) | Open-source — versioning, rotation, K8s/Docker/Terraform | 🟡 API Key | ✅ | ✅⭐ |
+| [HashiCorp Vault](https://developer.hashicorp.com/vault/api-docs) | Industry standard — dynamic secrets, PKI, encryption-as-a-service | 🟡 API Key | ✅ | ✅⭐ |
+| [Akeyless API](https://docs.akeyless.io/) | SaaS vaultless — dynamic secrets, zero-trust, multi-cloud | 🟡 API Key | ✅ | ✅ |
+| [AWS Secrets Manager](https://docs.aws.amazon.com/secretsmanager/) | AWS-native — auto-rotation for RDS/Redshift/DocumentDB | 🟡 API Key | ✅ | ✅ |
+| [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/) | Secrets, keys, certificates — HSM-backed, Azure AD RBAC | 🔴 OAuth | ✅ | ✅ |
+| [Google Secret Manager](https://cloud.google.com/secret-manager/docs) | GCP-native — versioning, IAM, audit logging | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🌐 CDN & Content Delivery APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [cdnjs API](https://cdnjs.com/api) | Open-source JS/CSS library CDN — no auth, read-only | 🟢 No | ✅ | ✅⭐ |
+| [Cloudflare CDN API](https://developers.cloudflare.com/) | Caching, Workers, R2, WAF — massive free tier | 🟡 API Key | ✅ | ✅⭐ |
+| [Fastly API](https://developer.fastly.com/) | API-first CDN — instant purge, edge compute (Wasm) | 🟡 API Key | ✅ | ✅⭐ |
+| [Bunny.net API](https://docs.bunny.net/) | Affordable CDN — edge storage, video, DNS | 🟡 API Key | ✅ | ✅⭐ |
+| [KeyCDN API](https://www.keycdn.com/) | 40+ PoPs — zone management, purging, analytics | 🟡 API Key | ✅ | ✅ |
+| [Amazon CloudFront](https://docs.aws.amazon.com/cloudfront/) | AWS CDN — 450+ edge locations, Lambda@Edge | 🟡 API Key | ✅ | ✅ |
+| [StackPath CDN](https://stackpath.dev/) | CDN + DDoS protection + WAF — security-focused | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🗄️ Database Migration & Schema APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [PlanetScale API](https://planetscale.com/docs) | Git-like schema branching — non-blocking DDL, full REST | 🟡 API Key | ✅ | ✅⭐ |
+| [Atlas (Ariga)](https://atlasgo.io/) | Declarative schema-as-code — "Terraform for Databases" | 🟡 API Key | ✅ | ✅⭐ |
+| [Bytebase API](https://www.bytebase.com/) | Database DevOps — schema review, approval, drift detection | 🟡 API Key | ✅ | ✅⭐ |
+| [Hasura Migrations](https://hasura.io/docs/) | GraphQL engine — apply/revert/squash migrations via REST | 🟡 API Key | ✅ | ✅ |
+| [Flyway Hub](https://www.red-gate.com/products/flyway/) | SQL migrations — 20+ databases, version tracking | 🟡 API Key | ✅ | ✅ |
+| [Liquibase Hub](https://www.liquibase.com/) | Multi-format changelogs — SQL/XML/YAML/JSON, rollback | 🟡 API Key | ✅ | ✅ |
 
 ---
 
