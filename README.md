@@ -1,8 +1,17 @@
 # Awesome Agent APIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of public APIs designed for AI agents, automation, and programmatic access.
+> A curated list of 2000+ public APIs designed for AI agents, automation, and programmatic access. Updated for the 2025-2026 AI agent ecosystem.
 
 **Focus**: APIs that AI agents can use easily — minimal auth, JSON responses, high reliability, and agent-friendly documentation.
+
+**What's New** (2025-2026):
+- 🤖 **AI Agent Infrastructure** — Sandboxes, tool-use platforms, and agent execution environments
+- 🔍 **AI Search APIs** — Purpose-built search for RAG pipelines and agent reasoning
+- 🔗 **Agent Protocols** — MCP (Model Context Protocol), A2A (Agent2Agent), and interoperability standards
+- 🧠 **New LLM Providers** — xAI Grok, DeepSeek, Qwen, Cerebras, OpenRouter, and more
+- 📊 **Vector Databases** — Semantic search and agent memory APIs
+- 🎨 **AI Generation** — Image, video, and music generation APIs
+- 🛡️ **AI Safety** — Guardrails and content moderation for agent outputs
 
 **Auth Types**:
 - 🟢 **No** — No authentication required
@@ -13,6 +22,17 @@
 
 ## Contents
 
+### 🔥 New — AI Agent Ecosystem (2025-2026)
+- [AI Agent Infrastructure & Sandboxes](#-ai-agent-infrastructure--sandboxes)
+- [AI Search APIs](#-ai-search-apis)
+- [Agent Protocols & Standards](#-agent-protocols--standards)
+- [LLM Provider APIs (Extended)](#-llm-provider-apis-extended)
+- [Vector Databases & Embeddings](#-vector-databases--embeddings)
+- [AI Image & Video Generation](#-ai-image--video-generation)
+- [Knowledge Graphs & Structured Data](#️-knowledge-graphs--structured-data)
+- [AI Safety & Guardrails](#️-ai-safety--guardrails)
+
+### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
 - [Blockchain & Crypto](#blockchain--crypto)
 - [Data & Information](#data--information)
@@ -1522,6 +1542,173 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Core](https://core.ac.uk/services/api) | Academic papers | 🟡 API Key | ✅ | ✅ |
 | [Semantic Scholar](https://api.semanticscholar.org/) | Academic paper search | 🟡 API Key | ✅ | ✅ |
 | [OpenAlex](https://docs.openalex.org/) | Scholarly catalog | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+---
+
+## 🤖 AI Agent Infrastructure & Sandboxes
+
+> APIs and platforms purpose-built for AI agent execution, tool use, and orchestration.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [E2B](https://e2b.dev/docs) | Sandboxed cloud environments for AI agents (Firecracker microVMs, 150ms startup) | 🟡 API Key | ✅ | ✅⭐ |
+| [Browserbase](https://docs.browserbase.com/) | Cloud headless browser infrastructure for AI agent web automation | 🟡 API Key | ✅ | ✅⭐ |
+| [Composio](https://docs.composio.dev/) | 250+ tool integrations for AI agents (Gmail, Slack, GitHub, etc.) with sandboxed execution | 🟡 API Key | ✅ | ✅⭐ |
+| [Daytona](https://www.daytona.io/docs) | AI sandbox platform with sub-90ms cold starts and Docker isolation | 🟡 API Key | ✅ | ✅⭐ |
+| [Modal](https://modal.com/docs/reference) | Serverless cloud for AI/ML with GPU access and sandboxed containers | 🟡 API Key | ✅ | ✅⭐ |
+| [Toolhouse](https://docs.toolhouse.ai/) | Universal tool-use SDK for LLMs with optimized execution | 🟡 API Key | ✅ | ✅⭐ |
+| [LangSmith](https://docs.smith.langchain.com/) | LLM application observability, testing, and evaluation platform | 🟡 API Key | ✅ | ✅⭐ |
+| [Vercel AI SDK](https://sdk.vercel.ai/docs) | TypeScript toolkit for building AI apps with streaming and tool calling | 🟢 No | ✅ | ✅⭐ |
+| [Replit Agent](https://docs.replit.com/category/agent) | AI agent that can build and deploy full-stack apps in sandboxed environments | 🟡 API Key | ✅ | ✅⭐ |
+| [Val Town](https://docs.val.town/) | Cloud scripting platform — run serverless TypeScript functions via API | 🟡 API Key | ✅ | ✅⭐ |
+| [Pipedream](https://pipedream.com/docs/api/) | Serverless workflow platform with 2000+ API integrations | 🟡 API Key | ✅ | ✅⭐ |
+| [Activepieces](https://www.activepieces.com/docs/developers/overview) | Open source workflow automation with AI agent support | 🟡 API Key | ✅ | ✅⭐ |
+| [Nango](https://docs.nango.dev/) | Pre-built API integrations with OAuth management for agents | 🟡 API Key | ✅ | ✅⭐ |
+| [Arcade AI](https://docs.arcade-ai.com/) | Tool-use platform for AI agents with auth-managed API access | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🔍 AI Search APIs
+
+> Search engines and retrieval APIs designed specifically for AI agents and RAG pipelines.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Tavily](https://docs.tavily.com/) | Search engine built for AI agents — returns structured, cited results for RAG | 🟡 API Key | ✅ | ✅⭐ |
+| [Exa](https://docs.exa.ai/) | Neural search API that understands meaning, not just keywords | 🟡 API Key | ✅ | ✅⭐ |
+| [Perplexity Sonar](https://docs.perplexity.ai/) | Live web search + LLM synthesis in one API call with citations | 🟡 API Key | ✅ | ✅⭐ |
+| [Firecrawl](https://docs.firecrawl.dev/) | Web scraping API that converts websites to LLM-ready markdown/structured data | 🟡 API Key | ✅ | ✅⭐ |
+| [Jina AI Reader](https://jina.ai/reader/) | Convert any URL to LLM-ready text with `r.jina.ai` prefix — no API key needed | 🟢 No | ✅ | ✅⭐ |
+| [Serper](https://serper.dev/) | Google Search results as JSON — fast and affordable for agents | 🟡 API Key | ✅ | ✅⭐ |
+| [You.com](https://api.you.com/) | Web search API with AI snippets and RAG-optimized results | 🟡 API Key | ✅ | ✅⭐ |
+| [SearXNG](https://docs.searxng.org/dev/search_api.html) | Self-hosted meta-search engine with JSON API — no tracking | 🟢 No | ✅ | ✅⭐ |
+| [Brave Search](https://brave.com/search/api/) | Independent web index with AI summary snippets | 🟡 API Key | ✅ | ✅⭐ |
+| [Kagi Search](https://help.kagi.com/kagi/api/overview.html) | Premium search API with FastGPT for instant AI answers | 🟡 API Key | ✅ | ✅⭐ |
+| [Bing Web Search](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api) | Microsoft's web search API with entity recognition | 🟡 API Key | ✅ | ✅ |
+| [Google Custom Search](https://developers.google.com/custom-search/v1/overview) | Programmable search engine for specific sites or the web | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔗 Agent Protocols & Standards
+
+> Open protocols enabling AI agent interoperability, tool integration, and communication.
+
+| Protocol | Description | Auth | Type | Agent-Friendly |
+|----------|-------------|------|------|----------------|
+| [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) | Anthropic's open standard for LLM-to-tool integration — adopted by OpenAI, 1200+ servers | 🟢 No | Standard | ✅⭐ |
+| [Agent2Agent (A2A)](https://a2a-protocol.org/) | Google's open protocol for agent-to-agent communication — Linux Foundation project, 150+ orgs | 🟢 No | Standard | ✅⭐ |
+| [OpenAPI/Swagger](https://swagger.io/specification/) | Industry-standard REST API specification — machine-readable API definitions | 🟢 No | Standard | ✅⭐ |
+| [JSON-RPC 2.0](https://www.jsonrpc.org/specification) | Lightweight remote procedure call protocol used by MCP transport | 🟢 No | Standard | ✅⭐ |
+| [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events) | HTTP streaming standard for real-time agent data feeds | 🟢 No | Standard | ✅⭐ |
+| [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) | Full-duplex communication for real-time agent interactions | 🟢 No | Standard | ✅⭐ |
+| [LangChain Hub](https://smith.langchain.com/hub) | Community-driven repository of reusable prompts and chains for agents | 🟡 API Key | Registry | ✅⭐ |
+| [MCP Registry](https://github.com/modelcontextprotocol/servers) | Official directory of published MCP server implementations | 🟢 No | Registry | ✅⭐ |
+
+---
+
+## 🧠 LLM Provider APIs (Extended)
+
+> New and emerging large language model API providers beyond the established ones.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [xAI Grok](https://docs.x.ai/api) | Grok models with real-time X/Twitter data access, 2M token context window | 🟡 API Key | ✅ | ✅⭐ |
+| [DeepSeek](https://platform.deepseek.com/api-docs/) | High-performance models at ultra-low cost ($0.07/M input tokens with cache) | 🟡 API Key | ✅ | ✅⭐ |
+| [Qwen (Alibaba)](https://help.aliyun.com/zh/model-studio/developer-reference/api-details) | 1T+ parameter MoE models supporting 119 languages | 🟡 API Key | ✅ | ✅⭐ |
+| [Cerebras](https://inference-docs.cerebras.ai/) | Ultra-fast inference on custom wafer-scale chips (2000+ tokens/sec) | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenRouter](https://openrouter.ai/docs) | Unified API gateway to 100+ LLMs with automatic fallback and load balancing | 🟡 API Key | ✅ | ✅⭐ |
+| [Ollama](https://github.com/ollama/ollama/blob/main/docs/api.md) | Run open-source LLMs locally with REST API — Llama, Mistral, Gemma, etc. | 🟢 No | ✅ | ✅⭐ |
+| [LM Studio](https://lmstudio.ai/docs/api) | Local LLM server with OpenAI-compatible API | 🟢 No | ✅ | ✅⭐ |
+| [Anyscale](https://docs.anyscale.com/) | Scalable LLM serving with fine-tuning support | 🟡 API Key | ✅ | ✅⭐ |
+| [SambaNova](https://community.sambanova.ai/docs) | Enterprise AI platform with custom chip acceleration | 🟡 API Key | ✅ | ✅ |
+| [Lepton AI](https://www.lepton.ai/docs) | Fast LLM hosting with built-in function calling support | 🟡 API Key | ✅ | ✅⭐ |
+| [NVIDIA NIM](https://developer.nvidia.com/nim) | GPU-optimized inference microservices for LLMs | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/APIReference/) | Managed LLM service with Claude, Llama, Titan, and more | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference) | Enterprise OpenAI models on Azure with content safety | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Vertex AI](https://cloud.google.com/vertex-ai/docs/reference/rest) | Managed ML platform with Gemini, PaLM, and custom models | 🟡 API Key | ✅ | ✅⭐ |
+| [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | Run LLMs at the edge with serverless inference | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 📊 Vector Databases & Embeddings
+
+> Purpose-built databases for semantic search, RAG pipelines, and AI agent memory.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Pinecone](https://docs.pinecone.io/reference/api/introduction) | Managed vector database with serverless deployment and metadata filtering | 🟡 API Key | ✅ | ✅⭐ |
+| [Weaviate](https://weaviate.io/developers/weaviate/api/rest) | Open-source vector database with built-in vectorization modules | 🟡 API Key | ✅ | ✅⭐ |
+| [Chroma](https://docs.trychroma.com/reference) | Open-source embedding database — simple API, perfect for prototyping | 🟢 No | ✅ | ✅⭐ |
+| [Qdrant](https://qdrant.tech/documentation/interfaces/) | High-performance vector search engine with rich filtering | 🟡 API Key | ✅ | ✅⭐ |
+| [Milvus](https://milvus.io/api-reference/restful/v2.4.x/About.md) | Scalable vector database for billion-scale similarity search | 🟡 API Key | ✅ | ✅⭐ |
+| [Vectara](https://docs.vectara.com/docs/) | RAG-as-a-Service with built-in retrieval, ranking, and generation | 🟡 API Key | ✅ | ✅⭐ |
+| [Turbopuffer](https://turbopuffer.com/docs) | Serverless vector database with fast cold starts and S3 storage | 🟡 API Key | ✅ | ✅⭐ |
+| [Upstash Vector](https://upstash.com/docs/vector/overall/getstarted) | Serverless vector database with REST API and DiskANN indexing | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenAI Embeddings](https://platform.openai.com/docs/guides/embeddings) | Text embedding models (text-embedding-3-small/large) for semantic search | 🟡 API Key | ✅ | ✅⭐ |
+| [Cohere Embed](https://docs.cohere.com/reference/embed) | Multilingual embedding models optimized for search and RAG | 🟡 API Key | ✅ | ✅⭐ |
+| [Jina Embeddings](https://jina.ai/embeddings/) | Open-source embedding models with 8K token context | 🟡 API Key | ✅ | ✅⭐ |
+| [Voyage AI](https://docs.voyageai.com/) | Embedding models optimized for retrieval and RAG applications | 🟡 API Key | ✅ | ✅⭐ |
+| [Nomic Atlas](https://docs.nomic.ai/) | Open-source embeddings with interactive data visualization | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🎨 AI Image & Video Generation
+
+> APIs for generating, editing, and transforming images and video with AI.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [DALL-E (OpenAI)](https://platform.openai.com/docs/guides/images) | Image generation and editing via text prompts | 🟡 API Key | ✅ | ✅⭐ |
+| [Stability AI](https://platform.stability.ai/docs/api-reference) | Stable Diffusion models — image generation, upscaling, inpainting | 🟡 API Key | ✅ | ✅⭐ |
+| [Midjourney](https://docs.midjourney.com/) | High-quality artistic image generation | 🟡 API Key | ✅ | ✅ |
+| [Flux (Black Forest Labs)](https://docs.bfl.ml/) | State-of-the-art open image generation models (Flux.1 Pro/Dev/Schnell) | 🟡 API Key | ✅ | ✅⭐ |
+| [Ideogram](https://developer.ideogram.ai/api-reference) | AI image generation with exceptional text rendering in images | 🟡 API Key | ✅ | ✅⭐ |
+| [Leonardo AI](https://docs.leonardo.ai/reference) | Creative AI platform for production-quality image assets | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Imagen](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) | Google's image generation and editing via Vertex AI | 🟡 API Key | ✅ | ✅⭐ |
+| [Runway](https://docs.runwayml.com/) | AI video generation (Gen-3 Alpha) and creative tools | 🟡 API Key | ✅ | ✅⭐ |
+| [Luma AI](https://docs.lumalabs.ai/) | AI video generation (Dream Machine) and 3D capture | 🟡 API Key | ✅ | ✅⭐ |
+| [Kling AI](https://docs.klingai.com/) | High-quality AI video generation with realistic motion | 🟡 API Key | ✅ | ✅⭐ |
+| [Pika](https://docs.pika.art/) | AI video generation and editing with creative controls | 🟡 API Key | ✅ | ✅ |
+| [Suno](https://docs.suno.com/) | AI music and song generation from text prompts | 🟡 API Key | ✅ | ✅⭐ |
+| [Udio](https://docs.udio.com/) | AI music generation with high-fidelity audio | 🟡 API Key | ✅ | ✅ |
+| [Recraft](https://www.recraft.ai/docs) | AI design tool for generating and editing vector/raster images | 🟡 API Key | ✅ | ✅⭐ |
+| [Fal.ai](https://fal.ai/docs) | Fast inference for image/video generation models with serverless GPUs | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🗄️ Knowledge Graphs & Structured Data
+
+> APIs for accessing structured knowledge useful for AI agent reasoning.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Wikidata SPARQL](https://query.wikidata.org/) | Query the world's largest open knowledge graph with SPARQL | 🟢 No | ✅ | ✅⭐ |
+| [DBpedia](https://www.dbpedia.org/resources/sparql/) | Structured data extracted from Wikipedia in machine-readable format | 🟢 No | ✅ | ✅⭐ |
+| [Google Knowledge Graph](https://developers.google.com/knowledge-graph) | Entity search across Google's knowledge base | 🟡 API Key | ✅ | ✅⭐ |
+| [Wolfram Alpha](https://products.wolframalpha.com/api/) | Computational knowledge engine — math, science, data, and more | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenAlex](https://docs.openalex.org/) | Open catalog of 250M+ scholarly works, authors, and institutions | 🟢 No | ✅ | ✅⭐ |
+| [Semantic Scholar](https://api.semanticscholar.org/) | AI-powered academic paper search with citation graphs | 🟡 API Key | ✅ | ✅⭐ |
+| [ConceptNet](https://conceptnet.io/) | Open multilingual knowledge graph of common sense | 🟢 No | ✅ | ✅⭐ |
+| [Diffbot Knowledge Graph](https://docs.diffbot.com/docs/en/kg-index) | AI-constructed knowledge graph from the entire public web | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🛡️ AI Safety & Guardrails
+
+> APIs for content moderation, toxicity detection, and AI safety for agent outputs.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [OpenAI Moderation](https://platform.openai.com/docs/guides/moderation) | Free content moderation API — detects harmful text categories | 🟡 API Key | ✅ | ✅⭐ |
+| [Perspective API](https://www.perspectiveapi.com/) | Google's toxicity and abuse detection for online conversations | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/) | Multi-modal content moderation (text, image, video) | 🟡 API Key | ✅ | ✅⭐ |
+| [Hive Moderation](https://docs.thehive.ai/) | Visual and text content moderation with custom categories | 🟡 API Key | ✅ | ✅ |
+| [LlamaGuard](https://huggingface.co/meta-llama/Llama-Guard-3-8B) | Meta's open-source safety classifier for LLM inputs/outputs | 🟢 No | ✅ | ✅⭐ |
+| [Guardrails AI](https://docs.guardrailsai.com/) | Open-source framework for validating LLM outputs | 🟢 No | ✅ | ✅⭐ |
+| [NeMo Guardrails](https://docs.nvidia.com/nemo/guardrails/) | NVIDIA's toolkit for adding safety to LLM-powered applications | 🟢 No | ✅ | ✅⭐ |
+| [Rebuff](https://docs.rebuff.ai/) | Self-hardening prompt injection detection API | 🟡 API Key | ✅ | ✅⭐ |
 
 ---
 
