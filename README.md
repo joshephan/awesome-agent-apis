@@ -31,6 +31,18 @@
 - [AI Image & Video Generation](#-ai-image--video-generation)
 - [Knowledge Graphs & Structured Data](#️-knowledge-graphs--structured-data)
 - [AI Safety & Guardrails](#️-ai-safety--guardrails)
+- [Geospatial & Earth Observation](#-geospatial--earth-observation)
+- [Real-Time Data & Streaming APIs](#-real-time-data--streaming-apis)
+- [AI Coding & Development APIs](#-ai-coding--development-apis)
+- [MCP Servers & Tool Ecosystem](#-mcp-servers--tool-ecosystem)
+- [Web3 & Decentralized Agent Infrastructure](#-web3--decentralized-agent-infrastructure)
+- [Uptime Monitoring & Status APIs](#-uptime-monitoring--status-apis)
+- [Developer Utility & Testing APIs](#-developer-utility--testing-apis)
+- [Mobile & Cross-Platform APIs](#-mobile--cross-platform-apis)
+- [Open Data & Government APIs (Extended)](#️-open-data--government-apis-extended)
+- [Conversion & Enrichment APIs](#-conversion--enrichment-apis)
+- [AI Voice & Telephony APIs](#-ai-voice--telephony-apis)
+- [AI Payment & Commerce APIs](#-ai-payment--commerce-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -1709,6 +1721,266 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Guardrails AI](https://docs.guardrailsai.com/) | Open-source framework for validating LLM outputs | 🟢 No | ✅ | ✅⭐ |
 | [NeMo Guardrails](https://docs.nvidia.com/nemo/guardrails/) | NVIDIA's toolkit for adding safety to LLM-powered applications | 🟢 No | ✅ | ✅⭐ |
 | [Rebuff](https://docs.rebuff.ai/) | Self-hardening prompt injection detection API | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🌍 Geospatial & Earth Observation
+
+> Satellite imagery, mapping data, and Earth science APIs for spatial reasoning.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NASA Earthdata](https://www.earthdata.nasa.gov/) | 1000+ satellite imagery products covering the entire globe | 🟢 No | ✅ | ✅⭐ |
+| [NASA GIBS](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers) | Full-resolution satellite imagery via WMTS/WMS/KML | 🟢 No | ✅ | ✅⭐ |
+| [Google Earth Engine](https://developers.google.com/earth-engine/reference) | Petabyte-scale satellite analysis platform with Python/JS API | 🟡 API Key | ✅ | ✅⭐ |
+| [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) | Free Sentinel satellite data (10m resolution, 5-day refresh) | 🟢 No | ✅ | ✅⭐ |
+| [USGS EarthExplorer](https://m2m.cr.usgs.gov/) | Decades of Landsat satellite imagery and aerial photos | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenStreetMap Overpass](https://overpass-api.de/) | Query OpenStreetMap data — buildings, roads, POIs worldwide | 🟢 No | ✅ | ✅⭐ |
+| [Mapbox Tilesets](https://docs.mapbox.com/api/maps/tilesets/) | Custom map tiles, terrain, and satellite imagery | 🟡 API Key | ✅ | ✅⭐ |
+| [UP42](https://docs.up42.com/) | Marketplace for satellite imagery and geospatial analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Planet](https://developers.planet.com/docs/apis/) | Daily high-resolution satellite imagery of the entire Earth | 🟡 API Key | ✅ | ✅⭐ |
+| [Radiant MLHub](https://mlhub.earth/) | Open library for geospatial ML training data | 🟡 API Key | ✅ | ✅⭐ |
+| [Stadia Maps](https://docs.stadiamaps.com/) | Map tiles, geocoding, and routing APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Protomaps](https://docs.protomaps.com/) | Open-source serverless vector map tiles | 🟢 No | ✅ | ✅⭐ |
+| [Overture Maps](https://docs.overturemaps.org/) | Open map data from Linux Foundation (buildings, places, transport) | 🟢 No | ✅ | ✅⭐ |
+| [STAC API](https://stacspec.org/) | SpatioTemporal Asset Catalog — standard for geospatial data search | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## ⚡ Real-Time Data & Streaming APIs
+
+> APIs with WebSocket, SSE, or streaming support for live data feeds.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) | Real-time speech-to-speech with GPT-4o via WebSocket | 🟡 API Key | ✅ | ✅⭐ |
+| [Finnhub WebSocket](https://finnhub.io/docs/api/websocket-trades) | Real-time stock trades, forex, and crypto via WebSocket | 🟡 API Key | ✅ | ✅⭐ |
+| [CoinCap WebSocket](https://docs.coincap.io/#37dcbe0f-eb09-4580-8406-3c683e662905) | Real-time cryptocurrency price streaming | 🟢 No | ✅ | ✅⭐ |
+| [Binance WebSocket](https://binance-docs.github.io/apidocs/spot/en/#websocket-market-streams) | Real-time crypto market data streams | 🟢 No | ✅ | ✅⭐ |
+| [Polygon.io WebSocket](https://polygon.io/docs/stocks/ws_getting-started) | Real-time stock, options, and crypto data | 🟡 API Key | ✅ | ✅⭐ |
+| [Ably](https://ably.com/docs/api/realtime-sdk) | Pub/sub messaging infrastructure with global edge network | 🟡 API Key | ✅ | ✅⭐ |
+| [Pusher Channels](https://pusher.com/docs/channels/library_auth_reference/rest-api/) | Real-time WebSocket event broadcasting | 🟡 API Key | ✅ | ✅⭐ |
+| [LiveKit](https://docs.livekit.io/) | Open-source real-time audio/video/data infrastructure | 🟡 API Key | ✅ | ✅⭐ |
+| [NOAA Weather Alerts](https://www.weather.gov/documentation/services-web-api) | Real-time severe weather alerts via API | 🟢 No | ✅ | ✅⭐ |
+| [USGS Earthquake Feed](https://earthquake.usgs.gov/earthquakes/feed/) | Real-time global earthquake data (GeoJSON, updated every minute) | 🟢 No | ✅ | ✅⭐ |
+| [ADS-B Exchange](https://www.adsbexchange.com/data/) | Real-time global flight tracking (unfiltered) | 🟡 API Key | ✅ | ✅⭐ |
+| [ntfy](https://docs.ntfy.sh/) | Simple HTTP-based pub/sub notification service — no signup needed | 🟢 No | ✅ | ✅⭐ |
+| [Mercure](https://mercure.rocks/docs/hub/api) | Open protocol for real-time server push (SSE-based) | 🟢 No | ✅ | ✅⭐ |
+| [Centrifugo](https://centrifugal.dev/docs/server/server_api) | Scalable real-time messaging server with WebSocket/SSE | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 💻 AI Coding & Development APIs
+
+> APIs for code generation, analysis, and AI-assisted development.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [GitHub Copilot API](https://docs.github.com/en/copilot/building-copilot-extensions) | Code completions and chat via Copilot extensions | 🟡 API Key | ✅ | ✅⭐ |
+| [Sourcegraph API](https://docs.sourcegraph.com/api/graphql) | Code search and intelligence across entire codebases | 🟡 API Key | ✅ | ✅⭐ |
+| [Tabnine](https://docs.tabnine.com/) | Privacy-focused AI code completions with local model option | 🟡 API Key | ✅ | ✅⭐ |
+| [Codeium](https://codeium.com/docs) | Free AI code autocomplete supporting 70+ languages | 🟡 API Key | ✅ | ✅⭐ |
+| [Codestral (Mistral)](https://docs.mistral.ai/capabilities/code_generation/) | Mistral's code-optimized model with fill-in-the-middle support | 🟡 API Key | ✅ | ✅⭐ |
+| [DeepSeek Coder](https://platform.deepseek.com/api-docs/) | Open-source code model with ultra-low cost inference | 🟡 API Key | ✅ | ✅⭐ |
+| [Qwen Coder](https://help.aliyun.com/zh/model-studio/) | Alibaba's code generation model supporting 90+ languages | 🟡 API Key | ✅ | ✅⭐ |
+| [Replit Model](https://docs.replit.com/category/model) | Code generation model trained on Replit's codebase | 🟡 API Key | ✅ | ✅⭐ |
+| [GitLab Duo API](https://docs.gitlab.com/ee/api/) | AI-powered code suggestions and merge request summaries | 🟡 API Key | ✅ | ✅⭐ |
+| [SonarQube API](https://sonarcloud.io/web_api) | Code quality and security analysis REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Semgrep](https://semgrep.dev/docs/semgrep-code/semgrep-api/) | Static analysis for finding bugs and security vulnerabilities | 🟡 API Key | ✅ | ✅⭐ |
+| [CodeRabbit](https://docs.coderabbit.ai/) | AI-powered code review for pull requests | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🔧 MCP Servers & Tool Ecosystem
+
+> Notable Model Context Protocol servers that give AI agents access to tools and data.
+
+| MCP Server | Description | Auth | Category | Agent-Friendly |
+|------------|-------------|------|----------|----------------|
+| [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Browser automation — navigate, click, screenshot, fill forms (12K+ stars) | 🟢 No | Browser | ✅⭐ |
+| [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) | Full GitHub API access — repos, issues, PRs, code search | 🟡 API Key | DevOps | ✅⭐ |
+| [PostgreSQL MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) | Query databases, manage schemas, analyze data via natural language | 🟡 API Key | Database | ✅⭐ |
+| [Filesystem MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Read, write, search, and manage local files securely | 🟢 No | System | ✅⭐ |
+| [Brave Search MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) | Web search and local business search via Brave | 🟡 API Key | Search | ✅⭐ |
+| [Notion MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/notion) | Full Notion workspace access — pages, databases, blocks | 🟡 API Key | Productivity | ✅⭐ |
+| [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) | Read/post messages, manage channels, search conversations | 🟡 API Key | Communication | ✅⭐ |
+| [Google Drive MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/google-drive) | Access and search Google Drive files | 🔴 OAuth | Storage | ✅ |
+| [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) | Headless Chrome automation for web scraping and testing | 🟢 No | Browser | ✅⭐ |
+| [Sentry MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) | Query error reports, analyze crash data, investigate issues | 🟡 API Key | Monitoring | ✅⭐ |
+| [Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Persistent knowledge graph memory for agent context | 🟢 No | Memory | ✅⭐ |
+| [SQLite MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) | Local SQL database access for data analysis and queries | 🟢 No | Database | ✅⭐ |
+| [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | HTTP requests to any URL with content extraction | 🟢 No | Network | ✅⭐ |
+| [Zapier MCP](https://zapier.com/mcp) | Access to 7,000+ apps and 30,000+ actions via MCP | 🟡 API Key | Automation | ✅⭐ |
+| [Supabase MCP](https://github.com/supabase-community/supabase-mcp) | Database, auth, storage, and edge functions via MCP | 🟡 API Key | Database | ✅⭐ |
+| [Linear MCP](https://github.com/jerhadf/linear-mcp-server) | Issue tracking — create, update, search, and manage projects | 🟡 API Key | Project Mgmt | ✅⭐ |
+| [Stripe MCP](https://github.com/stripe/agent-toolkit) | Payment processing, subscription management, invoicing | 🟡 API Key | Payments | ✅⭐ |
+| [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Manage Workers, KV, R2, and DNS via MCP | 🟡 API Key | Infrastructure | ✅⭐ |
+| [Vercel MCP](https://vercel.com/docs/mcp) | Manage deployments, domains, and environment variables | 🟡 API Key | Hosting | ✅⭐ |
+| [Docker MCP](https://github.com/docker/mcp-server-docker) | Manage containers, images, networks, and compose stacks | 🟢 No | Infrastructure | ✅⭐ |
+
+---
+
+## 🌐 Web3 & Decentralized Agent Infrastructure
+
+> Blockchain and Web3 APIs purpose-built for autonomous AI agents.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Lit Protocol](https://developer.litprotocol.com/) | Decentralized key management and access control for agents | 🟡 API Key | ✅ | ✅⭐ |
+| [Story Protocol](https://docs.story.foundation/) | On-chain IP registration and licensing for AI-generated content | 🟡 API Key | ✅ | ✅⭐ |
+| [Virtuals Protocol](https://docs.virtuals.io/) | Platform for creating and deploying on-chain AI agents | 🟡 API Key | ✅ | ✅⭐ |
+| [Autonolas](https://docs.autonolas.network/) | Open-source framework for on-chain autonomous AI agent services | 🟢 No | ✅ | ✅⭐ |
+| [WeatherXM](https://docs.weatherxm.com/api/) | DePIN weather network — community-deployed weather stations | 🟡 API Key | ✅ | ✅⭐ |
+| [io.net](https://docs.io.net/) | Decentralized GPU compute network for AI inference | 🟡 API Key | ✅ | ✅⭐ |
+| [Akash Network](https://docs.akash.network/) | Decentralized cloud compute marketplace for AI workloads | 🟡 API Key | ✅ | ✅⭐ |
+| [Render Network](https://rendernetwork.com/docs) | Decentralized GPU rendering for AI and 3D visualization | 🟡 API Key | ✅ | ✅ |
+| [Arweave](https://docs.arweave.org/) | Permanent decentralized data storage (200+ years) | 🟢 No | ✅ | ✅⭐ |
+| [IPFS HTTP API](https://docs.ipfs.tech/reference/http/api/) | Decentralized content-addressed file storage | 🟢 No | ✅ | ✅⭐ |
+| [The Graph](https://thegraph.com/docs/en/) | Indexed blockchain data via GraphQL subgraphs | 🟡 API Key | ✅ | ✅⭐ |
+| [Moralis](https://docs.moralis.io/) | Cross-chain Web3 data API — NFTs, tokens, DeFi, wallets | 🟡 API Key | ✅ | ✅⭐ |
+| [Covalent](https://www.covalenthq.com/docs/) | Unified API for 200+ blockchains — balances, transactions, NFTs | 🟡 API Key | ✅ | ✅⭐ |
+| [Dune Analytics](https://docs.dune.com/api-reference/overview/introduction) | Query blockchain data with SQL and access community dashboards | 🟡 API Key | ✅ | ✅⭐ |
+| [Neynar](https://docs.neynar.com/) | Farcaster protocol API — social graph, casts, channels | 🟡 API Key | ✅ | ✅⭐ |
+| [Crossmint](https://docs.crossmint.com/) | NFT minting and wallet creation via API (no crypto knowledge needed) | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 📡 Uptime Monitoring & Status APIs
+
+> APIs for monitoring service health, uptime, and creating status pages.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Uptime Robot](https://uptimerobot.com/api/) | Monitor 50 URLs free — HTTP, ping, port, keyword monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenStatus](https://docs.openstatus.dev/) | Open-source uptime monitoring and status pages | 🟡 API Key | ✅ | ✅⭐ |
+| [Better Stack](https://betterstack.com/docs/uptime/api/) | Uptime monitoring with incident management | 🟡 API Key | ✅ | ✅⭐ |
+| [Checkly](https://www.checklyhq.com/docs/api-checks/) | API and browser check monitoring with Playwright-based tests | 🟡 API Key | ✅ | ✅⭐ |
+| [Healthchecks.io](https://healthchecks.io/docs/api/) | Cron job and background task monitoring via simple pings | 🟡 API Key | ✅ | ✅⭐ |
+| [Gatus](https://github.com/TwiN/gatus) | Open-source health dashboard with YAML config | 🟢 No | ✅ | ✅⭐ |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma/wiki/API) | Self-hosted monitoring tool with beautiful dashboard | 🟢 No | ✅ | ✅⭐ |
+| [Instatus](https://instatus.com/help/api) | Beautiful status pages with API for incident management | 🟡 API Key | ✅ | ✅⭐ |
+| [Cachet](https://docs.cachethq.io/reference) | Open-source status page system with REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Pingdom](https://docs.pingdom.com/api/) | Website and API monitoring with transaction checks | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧪 Developer Utility & Testing APIs
+
+> Miscellaneous utility APIs useful for agent development, testing, and prototyping.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Webhook.site](https://docs.webhook.site/) | Instantly inspect and test HTTP requests and webhooks | 🟢 No | ✅ | ✅⭐ |
+| [Beeceptor](https://beeceptor.com/docs/api/) | Mock REST APIs and intercept HTTP traffic | 🟢 No | ✅ | ✅⭐ |
+| [Mockoon](https://mockoon.com/docs/latest/api-endpoints/overview/) | Local-first API mocking with JSON templating | 🟢 No | ✅ | ✅⭐ |
+| [Hoppscotch](https://docs.hoppscotch.io/) | Open-source API development environment | 🟢 No | ✅ | ✅⭐ |
+| [WireMock](https://wiremock.org/docs/api/) | Flexible API mocking and service virtualization | 🟢 No | ✅ | ✅⭐ |
+| [Nock](https://github.com/nock/nock) | HTTP server mocking for Node.js testing | 🟢 No | ✅ | ✅⭐ |
+| [Random.org](https://api.random.org/json-rpc/4/) | True random numbers from atmospheric noise (JSON-RPC) | 🟡 API Key | ✅ | ✅⭐ |
+| [Crontab.guru API](https://crontab.guru/) | Validate and explain cron expressions | 🟢 No | ✅ | ✅⭐ |
+| [JWT.io](https://jwt.io/) | JSON Web Token debugger and library directory | 🟢 No | ✅ | ✅⭐ |
+| [RegExr](https://regexr.com/) | Regular expression tester with community patterns | 🟢 No | ✅ | ✅⭐ |
+| [ExchangeRate.host](https://exchangerate.host/) | Free currency exchange rates and crypto rates | 🟢 No | ✅ | ✅⭐ |
+| [Country State City](https://countrystatecity.in/) | Countries, states, and cities database with REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Faker.js Online](https://fakerjs.dev/) | Generate massive amounts of realistic fake data | 🟢 No | ✅ | ✅⭐ |
+| [UnDesign](https://undesign.learn.uno/) | Collection of free design tools and resources | 🟢 No | ✅ | ✅ |
+| [Carbon](https://carbon.now.sh/) | Create beautiful code snippet images for documentation | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 📱 Mobile & Cross-Platform APIs
+
+> APIs for mobile development, push notifications, and cross-platform services.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Expo](https://docs.expo.dev/push-notifications/overview/) | Cross-platform push notifications for React Native apps | 🟢 No | ✅ | ✅⭐ |
+| [RevenueCat](https://www.revenuecat.com/docs/api-v1) | In-app subscription management across iOS, Android, and web | 🟡 API Key | ✅ | ✅⭐ |
+| [OneSignal](https://documentation.onesignal.com/reference) | Multi-platform push notifications with segmentation | 🟡 API Key | ✅ | ✅⭐ |
+| [AppFollow](https://docs.appfollow.io/) | App store reviews, ratings, and ASO monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [data.ai (App Annie)](https://www.data.ai/en/apps/api/) | App store analytics and market intelligence | 🟡 API Key | ✅ | ✅ |
+| [Apple App Store Connect](https://developer.apple.com/documentation/appstoreconnectapi) | iOS app management, TestFlight, and analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Play Developer](https://developers.google.com/android-publisher) | Android app publishing, in-app purchases, and reviews | 🟡 API Key | ✅ | ✅⭐ |
+| [App Store Scraper](https://github.com/facundoolano/app-store-scraper) | Scrape app data from App Store and Google Play | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🏛️ Open Data & Government APIs (Extended)
+
+> Government and institutional open data APIs from around the world.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [EU Open Data Portal](https://data.europa.eu/api/hub/search/) | European Union institutional data (15,000+ datasets) | 🟢 No | ✅ | ✅⭐ |
+| [UK Open Data](https://www.data.gov.uk/) | UK government datasets (50,000+ datasets) | 🟢 No | ✅ | ✅⭐ |
+| [Japan e-Stat](https://www.e-stat.go.jp/api/) | Japanese government statistical data | 🟡 API Key | ✅ | ✅ |
+| [Korea Open Data](https://www.data.go.kr/) | Korean government open data portal | 🟡 API Key | ✅ | ✅ |
+| [data.gov](https://catalog.data.gov/dataset) | US federal government dataset catalog (300,000+ datasets) | 🟢 No | ✅ | ✅⭐ |
+| [ProPublica Congress](https://projects.propublica.org/api-docs/congress-api/) | US Congress members, bills, votes, and committees | 🟡 API Key | ✅ | ✅⭐ |
+| [Open States](https://v3.openstates.org/docs) | US state legislature data — bills, votes, legislators | 🟡 API Key | ✅ | ✅⭐ |
+| [Federal Register](https://www.federalregister.gov/developers/documentation/api/v1) | US federal agency documents and regulations | 🟢 No | ✅ | ✅⭐ |
+| [SEC EDGAR Full-Text](https://efts.sec.gov/LATEST/search-index?q=%22api%22) | Full-text search of SEC company filings | 🟢 No | ✅ | ✅⭐ |
+| [WHO GHO](https://www.who.int/data/gho/info/gho-odata-api) | World Health Organization global health data | 🟢 No | ✅ | ✅⭐ |
+| [FAO FAOSTAT](https://www.fao.org/faostat/en/#data) | UN food and agriculture statistics | 🟢 No | ✅ | ✅⭐ |
+| [ITU ICT Data](https://datahub.itu.int/data/) | Telecommunications and ICT statistics | 🟢 No | ✅ | ✅ |
+
+---
+
+## 🎯 Conversion & Enrichment APIs
+
+> APIs for converting, enriching, and transforming data for agent workflows.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Clearbit](https://dashboard.clearbit.com/docs) | Company and person data enrichment from email/domain | 🟡 API Key | ✅ | ✅⭐ |
+| [FullContact](https://docs.fullcontact.com/) | Identity resolution and contact data enrichment | 🟡 API Key | ✅ | ✅⭐ |
+| [ZoomInfo](https://api-docs.zoominfo.com/) | B2B company and contact intelligence | 🟡 API Key | ✅ | ✅ |
+| [Brandfetch](https://docs.brandfetch.com/) | Company logo, colors, and brand assets from any domain | 🟡 API Key | ✅ | ✅⭐ |
+| [Logo.dev](https://docs.logo.dev/) | High-quality company logos by domain name | 🟡 API Key | ✅ | ✅⭐ |
+| [Hunter.io](https://hunter.io/api-documentation) | Find and verify professional email addresses | 🟡 API Key | ✅ | ✅⭐ |
+| [Snov.io](https://snov.io/api) | Email finder, verifier, and drip campaign API | 🟡 API Key | ✅ | ✅ |
+| [PDFShift](https://pdfshift.io/documentation/) | Convert HTML to high-fidelity PDF documents | 🟡 API Key | ✅ | ✅⭐ |
+| [Docspring](https://docspring.com/docs/api) | Fill PDF templates with data via API | 🟡 API Key | ✅ | ✅⭐ |
+| [CloudConvert](https://cloudconvert.com/api/v2) | Convert between 200+ file formats | 🟡 API Key | ✅ | ✅⭐ |
+| [Unstructured](https://unstructured-io.github.io/unstructured/) | Extract structured data from PDFs, images, and documents | 🟡 API Key | ✅ | ✅⭐ |
+| [LlamaParse](https://docs.cloud.llamaindex.ai/llamaparse/getting_started) | Parse complex documents (PDFs, PPTX) into LLM-ready markdown | 🟡 API Key | ✅ | ✅⭐ |
+| [Docling (IBM)](https://ds4sd.github.io/docling/) | Open-source document parsing for RAG pipelines | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🔊 AI Voice & Telephony APIs
+
+> APIs for voice agents, phone automation, and conversational AI over voice.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Vapi](https://docs.vapi.ai/) | Build voice AI agents — handles speech, LLM, and telephony | 🟡 API Key | ✅ | ✅⭐ |
+| [Bland.ai](https://docs.bland.ai/) | AI phone calling API — make/receive calls with AI agents | 🟡 API Key | ✅ | ✅⭐ |
+| [Retell AI](https://docs.retellai.com/) | Build human-like voice agents with sub-second latency | 🟡 API Key | ✅ | ✅⭐ |
+| [PlayHT](https://docs.play.ht/) | Ultra-realistic text-to-speech with voice cloning | 🟡 API Key | ✅ | ✅⭐ |
+| [Cartesia](https://docs.cartesia.ai/) | Real-time voice generation with emotion control | 🟡 API Key | ✅ | ✅⭐ |
+| [Fish Audio](https://docs.fish.audio/) | Multilingual voice cloning and text-to-speech | 🟡 API Key | ✅ | ✅⭐ |
+| [Telnyx](https://developers.telnyx.com/) | Programmable voice, SMS, and fax with SIP trunking | 🟡 API Key | ✅ | ✅⭐ |
+| [Vocode](https://docs.vocode.dev/) | Open-source library for building voice AI agents | 🟢 No | ✅ | ✅⭐ |
+| [Pipecat](https://docs.pipecat.ai/) | Open-source framework for voice and multimodal AI agents | 🟢 No | ✅ | ✅⭐ |
+| [Daily Bots](https://docs.dailybots.ai/) | Deploy voice and video AI agents on Daily's infrastructure | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 💰 AI Payment & Commerce APIs
+
+> Payment and commerce APIs designed for autonomous agent transactions.
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Stripe Agent Toolkit](https://github.com/stripe/agent-toolkit) | Official Stripe toolkit for AI agent payment processing | 🟡 API Key | ✅ | ✅⭐ |
+| [Coinbase Commerce](https://docs.cloud.coinbase.com/commerce/reference) | Accept crypto payments — Bitcoin, Ethereum, USDC, etc. | 🟡 API Key | ✅ | ✅⭐ |
+| [LemonSqueezy](https://docs.lemonsqueezy.com/api) | Digital product sales with global tax handling | 🟡 API Key | ✅ | ✅⭐ |
+| [Polar](https://docs.polar.sh/api/) | Open-source monetization for developers | 🟡 API Key | ✅ | ✅⭐ |
+| [Gumroad](https://gumroad.com/api) | Sell digital products, memberships, and subscriptions | 🟡 API Key | ✅ | ✅⭐ |
+| [Paddle](https://developer.paddle.com/) | SaaS billing with built-in tax and compliance | 🟡 API Key | ✅ | ✅⭐ |
+| [Open Exchange Rates](https://docs.openexchangerates.org/) | Real-time and historical exchange rates for 170+ currencies | 🟡 API Key | ✅ | ✅⭐ |
+| [Wise (TransferWise)](https://api-docs.transferwise.com/) | International money transfers with real exchange rates | 🟡 API Key | ✅ | ✅⭐ |
 
 ---
 
