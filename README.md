@@ -159,6 +159,54 @@
 - [SEO & Web Analytics APIs](#-seo--web-analytics-apis)
 - [Sound & Audio Processing APIs](#-sound--audio-processing-apis)
 - [Student Information System APIs](#-student-information-system-apis)
+- [API Gateway & Management APIs](#-api-gateway--management-apis)
+- [Design & Prototyping APIs](#-design--prototyping-apis)
+- [IoT Platform & Device Management APIs](#-iot-platform--device-management-apis)
+- [Telecommunications APIs](#-telecommunications-apis)
+- [Fitness & Gym APIs](#️-fitness--gym-apis)
+- [Newsletter & Content APIs](#-newsletter--content-apis)
+- [Event & Conference APIs](#-event--conference-apis)
+- [Laboratory & LIMS APIs](#-laboratory--lims-apis)
+- [Hospitality & Hotel Management APIs](#-hospitality--hotel-management-apis)
+- [Automotive & Vehicle APIs](#-automotive--vehicle-apis)
+- [Ticketing & Venue APIs](#-ticketing--venue-apis)
+- [Grocery & Food Delivery APIs](#-grocery--food-delivery-apis)
+- [Accounting Tax Compliance APIs](#-accounting-tax-compliance-apis)
+- [Contact Center & CCaaS APIs](#-contact-center--ccaas-apis)
+- [BIM & Architecture APIs](#️-bim--architecture-apis)
+- [Online Learning Platform APIs](#-online-learning-platform-apis)
+- [Luxury & Fashion APIs](#-luxury--fashion-apis)
+- [Sports Data & Odds APIs](#️-sports-data--odds-apis)
+- [Cannabis & CBD APIs](#-cannabis--cbd-apis)
+- [Battery & Energy Storage APIs](#-battery--energy-storage-apis)
+- [Casino & iGaming APIs](#-casino--igaming-apis)
+- [Computer Vision & Object Detection APIs](#-computer-vision--object-detection-apis)
+- [Cold Chain & Temperature Monitoring APIs](#-cold-chain--temperature-monitoring-apis)
+- [Museum & Cultural Heritage APIs](#️-museum--cultural-heritage-apis)
+- [Encryption & Key Management APIs](#-encryption--key-management-apis)
+- [Electronic Health Records (EHR) APIs](#-electronic-health-records-ehr-apis)
+- [Data Catalog & Metadata APIs](#-data-catalog--metadata-apis)
+- [Data Quality & Cleansing APIs](#-data-quality--cleansing-apis)
+- [Low-Code & No-Code Platform APIs](#️-low-code--no-code-platform-apis)
+- [Text-to-Speech (TTS) APIs](#-text-to-speech-tts-apis)
+- [App Store & Mobile Analytics APIs](#-app-store--mobile-analytics-apis)
+- [Coworking & Office Space APIs](#-coworking--office-space-apis)
+- [A/B Testing & Experimentation APIs](#-ab-testing--experimentation-apis)
+- [URL & Link Management APIs](#-url--link-management-apis)
+- [Container & Kubernetes APIs](#-container--kubernetes-apis)
+- [Stock Market & Trading APIs](#-stock-market--trading-apis)
+- [Music Streaming & Licensing APIs](#-music-streaming--licensing-apis)
+- [Barcode & Product Lookup APIs](#️-barcode--product-lookup-apis)
+- [Data Sync & Replication APIs](#-data-sync--replication-apis)
+- [Environmental Monitoring APIs](#️-environmental-monitoring-apis)
+- [Advertising & Ad Tech APIs](#-advertising--ad-tech-apis)
+- [Medical Imaging APIs](#-medical-imaging-apis)
+- [Bioinformatics & Protein APIs](#-bioinformatics--protein-apis)
+- [Random Data & Generator APIs](#-random-data--generator-apis)
+- [Serverless & FaaS APIs](#️-serverless--faas-apis)
+- [CAD & 3D Modeling APIs](#-cad--3d-modeling-apis)
+- [Ocean & Marine Data APIs](#-ocean--marine-data-apis)
+- [Brain-Computer Interface APIs](#-brain-computer-interface-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -3916,6 +3964,784 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Blackbaud SKY API](https://developer.sky.blackbaud.com/) | Open REST API for K-12 school management, enrollment, and student records | 🔴 OAuth | ✅ | ✅⭐ |
 | [Canvas LMS](https://developerdocs.instructure.com/services/canvas) | Learning management system REST API with SIS integration and grade passback | 🔴 OAuth | ✅ | ✅⭐ |
 | [Schoology](https://developers.schoology.com/api/) | LMS API for courses, assignments, grades, and SIS rostering integration | 🔴 OAuth | ✅ | ✅⭐ |
+
+---
+
+## 🔧 API Gateway & Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Kong Gateway Admin API](https://docs.konghq.com/gateway/api/admin-oss/latest/) | Open-source API gateway with RESTful admin API for full gateway control | 🟡 API Key | ✅ | ✅ |
+| [AWS API Gateway](https://docs.aws.amazon.com/apigateway/latest/api/API_Operations.html) | Fully managed gateway for creating and managing REST/WebSocket APIs | 🟡 API Key | ✅ | ✅ |
+| [Tyk Gateway API](https://tyk.io/docs/tyk-gateway-api/) | Open-source API gateway with REST API for managing APIs, keys, and policies | 🟡 API Key | ✅ | ✅ |
+| [Apache APISIX Admin API](https://apisix.apache.org/docs/apisix/admin-api/) | High-performance cloud-native API gateway processing 1T+ API calls daily | 🟡 API Key | ✅ | ✅ |
+| [KrakenD API Gateway](https://www.krakend.io/docs/overview/) | Ultra-high-performance stateless API gateway with declarative config | 🟢 No | ✅ | ✅⭐ |
+| [Traefik API](https://doc.traefik.io/traefik/) | Cloud-native API gateway with automatic service discovery | 🟡 API Key | ✅ | ✅ |
+| [Zuplo API Gateway](https://zuplo.com/docs) | Programmable API gateway with built-in developer portal | 🟡 API Key | ✅ | ✅ |
+| [Gravitee Management API](https://documentation.gravitee.io/apim/management-api-reference) | Open-source API management platform with RESTful management endpoints | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🎨 Design & Prototyping APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Figma REST API](https://developers.figma.com/) | Access Figma files, comments, components, and design tokens | 🔴 OAuth | ✅ | ✅⭐ |
+| [Canva Connect API](https://www.canva.dev/docs/connect/) | Create, manage, and sync designs, assets, and comments in Canva | 🔴 OAuth | ✅ | ✅ |
+| [Penpot API](https://help.penpot.app/plugins/api/) | Open-source design platform with webhooks and access token-based API | 🟡 API Key | ✅ | ✅⭐ |
+| [IconScout API](https://iconscout.com/developers) | Access millions of icons, illustrations, and 3D assets via API | 🟡 API Key | ✅ | ✅⭐ |
+| [Lottie Files API](https://lottiefiles.com/developers) | Search, retrieve, and manage Lottie animations programmatically | 🟡 API Key | ✅ | ✅⭐ |
+| [Zeplin API](https://docs.zeplin.dev/reference) | Access design specs, style guides, and components for developer handoff | 🔴 OAuth | ✅ | ✅ |
+| [Framer Developer API](https://www.framer.com/developers/reference) | Build apps that interact with the Framer Editor and CMS content | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔌 IoT Platform & Device Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [AWS IoT Core API](https://docs.aws.amazon.com/iot/latest/apireference/Welcome.html) | Secure bi-directional communication between IoT devices and AWS cloud | 🟡 API Key | ✅ | ✅ |
+| [ThingSpeak API](https://thingspeak.com/docs) | Free open-source IoT analytics platform for sensor data | 🟡 API Key | ✅ | ✅⭐ |
+| [Home Assistant REST API](https://developers.home-assistant.io/docs/api/rest/) | Open-source home automation platform with RESTful and WebSocket APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [ThingsBoard API](https://thingsboard.io/docs/reference/rest-api/) | Open-source IoT platform with device management and data collection | 🟡 API Key | ✅ | ✅⭐ |
+| [Adafruit IO API](https://io.adafruit.com/api/docs/) | Cloud service for storing, sharing, and visualizing IoT sensor data | 🟡 API Key | ✅ | ✅⭐ |
+| [Particle Cloud API](https://docs.particle.io/reference/cloud-apis/api/) | Secure IoT connectivity platform with comprehensive device management | 🔴 OAuth | ✅ | ✅ |
+| [Tuya IoT Open API](https://developer.tuya.com/en/docs/iot/open-apis?id=Kaiuyvvxud2le) | Manage smart home devices and IoT hardware across Tuya's ecosystem | 🟡 API Key | ✅ | ✅ |
+| [Blynk API](https://docs.blynk.io/en/) | Low-code IoT platform supporting 400+ hardware boards | 🟡 API Key | ✅ | ✅ |
+| [Balena API](https://docs.balena.io/reference/api/overview/) | IoT fleet management with OData-based REST API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📡 Telecommunications APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Twilio API](https://www.twilio.com/docs/usage/api) | Industry-leading APIs for SMS, voice, video, and WhatsApp messaging | 🟡 API Key | ✅ | ✅⭐ |
+| [Vonage (Nexmo) API](https://developer.vonage.com/) | Communication APIs for SMS, MMS, voice across 225 countries | 🟡 API Key | ✅ | ✅ |
+| [Plivo API](https://www.plivo.com/docs/) | Budget-friendly SMS and voice APIs with 1,600+ global operators | 🟡 API Key | ✅ | ✅ |
+| [Sinch API](https://developers.sinch.com/) | REST APIs for voice, SMS, and messaging with native SDK support | 🟡 API Key | ✅ | ✅ |
+| [Bandwidth API](https://dev.bandwidth.com/docs/) | Voice, messaging, and 911 APIs with dedicated US telephony | 🟡 API Key | ✅ | ✅ |
+| [Telnyx API](https://developers.telnyx.com/) | Low-latency voice, SMS, fax, and IP services with global network | 🟡 API Key | ✅ | ✅ |
+| [Infobip API](https://www.infobip.com/docs/api) | CPaaS APIs for SMS, voice, email, WhatsApp, and Viber | 🟡 API Key | ✅ | ✅ |
+| [Africa's Talking API](https://developers.africastalking.com/) | Communication APIs for SMS, voice, USSD, and airtime built for Africa | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🏋️ Fitness & Gym APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Strava API](https://developers.strava.com/docs/reference/) | Access athlete activities, routes, clubs, gear, and segment data | 🔴 OAuth | ✅ | ✅⭐ |
+| [Terra Fitness API](https://docs.tryterra.co/) | Unified API aggregating 500+ health data sources from wearables | 🟡 API Key | ✅ | ✅⭐ |
+| [Mindbody API](https://developers.mindbodyonline.com/) | Fitness studio API for scheduling, client management, and payments | 🔴 OAuth | ✅ | ✅ |
+| [Peloton API](https://peloton.readthedocs.io/en/latest/api-guide/) | Workout and membership data from Peloton connected fitness | 🟡 API Key | ✅ | ✅ |
+| [Polar AccessLink API](https://www.polar.com/accesslink-api/) | Access training, activity, and physical data from Polar wearables | 🔴 OAuth | ✅ | ✅ |
+| [Garmin Health API](https://developer.garmin.com/health-api/overview/) | Historical and real-time fitness data with webhook delivery | 🔴 OAuth | ✅ | ⚠️ |
+
+---
+
+## 📰 Newsletter & Content APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Mailchimp Marketing API](https://mailchimp.com/developer/marketing/api/) | Full-featured email marketing API for campaigns, lists, and automation | 🔴 OAuth | ✅ | ✅⭐ |
+| [SendGrid API](https://docs.sendgrid.com/api-reference) | Scalable email API for transactional and marketing email delivery | 🟡 API Key | ✅ | ✅⭐ |
+| [Ghost Content API](https://docs.ghost.org/) | Headless CMS with Content and Admin APIs for posts and members | 🟡 API Key | ✅ | ✅⭐ |
+| [Buttondown API](https://docs.buttondown.com/api-introduction) | Simple RESTful newsletter API for emails and subscribers | 🟡 API Key | ✅ | ✅⭐ |
+| [Postmark API](https://postmarkapp.com/developer) | Fast transactional email delivery with detailed analytics | 🟡 API Key | ✅ | ✅⭐ |
+| [Mailgun API](https://documentation.mailgun.com/docs/mailgun/api-reference/) | Powerful email API for sending, receiving, and tracking at scale | 🟡 API Key | ✅ | ✅⭐ |
+| [ConvertKit (Kit) API](https://developers.kit.com/welcome) | Creator-focused email API for forms, sequences, and subscribers | 🟡 API Key | ✅ | ✅ |
+| [Beehiiv API](https://www.beehiiv.com/features/api-and-integrations) | RESTful newsletter API for subscribers and publication management | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🎤 Event & Conference APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Full REST API for creating, managing, and searching events | 🔴 OAuth | ✅ | ✅⭐ |
+| [Bizzabo API](https://bizzabo.stoplight.io/docs/bizzabo-rest-api/) | Event experience OS API for registration and attendee management | 🟡 API Key | ✅ | ✅ |
+| [Cvent Developer API](https://developers.cvent.com/docs) | Enterprise event management API with CRM integration | 🔴 OAuth | ✅ | ✅ |
+| [Luma API](https://help.luma.com/p/luma-api) | Event management API for creating and automating events | 🟡 API Key | ✅ | ✅ |
+| [Meetup API](https://www.meetup.com/api/) | Access Meetup groups, events, venues, and RSVP data | 🔴 OAuth | ✅ | ✅ |
+| [Zoom Meetings API](https://developers.zoom.us/docs/api/) | Create, manage, and customize Zoom meetings and webinars | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🔬 Laboratory & LIMS APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Benchling API](https://benchling.com/api/reference) | Life science data management with CRUD for notebooks and sequences | 🔴 OAuth | ✅ | ✅⭐ |
+| [elabFTW API](https://doc.elabftw.net/api.html) | Open-source electronic lab notebook with full REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Sapio Sciences API](https://www.sapiosciences.com/) | Unified LIMS + ELN platform with workflow designers and REST APIs | 🟡 API Key | ✅ | ✅ |
+| [Scispot API](https://www.scispot.com/) | API-first lab platform with uniform schema across ELN and LIMS | 🟡 API Key | ✅ | ✅ |
+| [eLabNext Developer API](https://developer.elabnext.com/) | RESTful API for electronic lab notebook and LIMS modules | 🟡 API Key | ✅ | ✅ |
+| [CloudLIMS API](https://cloudlims.com/) | REST API for samples, subjects, and inventory management | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏨 Hospitality & Hotel Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Mews Open API](https://www.mews.com/en/developers) | Modern hospitality cloud API for payments and guest experience | 🟡 API Key | ✅ | ✅⭐ |
+| [Apaleo Open API](https://apaleo.dev/index.html) | API-first open hospitality PMS with self-provisioned API keys | 🔴 OAuth | ✅ | ✅⭐ |
+| [Amadeus Hotel API](https://developers.amadeus.com/self-service/category/hotels) | Hotel search, booking, and content APIs powered by GDS data | 🟡 API Key | ✅ | ✅⭐ |
+| [Cloudbeds API](https://developers.cloudbeds.com/) | PMS, channel manager, and booking engine API with 300+ endpoints | 🔴 OAuth | ✅ | ✅ |
+| [Expedia Rapid API](https://developers.expediagroup.com/docs) | Access 600,000+ hotel properties with booking and content APIs | 🟡 API Key | ✅ | ✅ |
+| [TripAdvisor Content API](https://www.tripadvisor.com/developers) | Access traveler reviews, ratings, photos, and destination content | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🚗 Automotive & Vehicle APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NHTSA Vehicle API](https://vpic.nhtsa.dot.gov/api/) | Free government API for VIN decoding and vehicle specs | 🟢 No | ✅ | ✅⭐ |
+| [Smartcar API](https://smartcar.com/docs/api/) | Connected car API to read data and send commands to 40+ OEM brands | 🔴 OAuth | ✅ | ✅⭐ |
+| [CarAPI](https://carapi.app/) | Year/make/model/trim data and 9,000+ OBD codes | 🟡 API Key | ✅ | ✅⭐ |
+| [Fueleconomy.gov API](https://www.fueleconomy.gov/feg/ws/index.shtml) | Free US government API for vehicle fuel economy and emissions data | 🟢 No | ✅ | ✅⭐ |
+| [Edmunds API](https://developer.edmunds.com/api-documentation/overview/) | Vehicle specs, pricing, reviews, and VIN decoding since 1990 | 🟡 API Key | ✅ | ✅ |
+| [PlateRecognizer API](https://guides.platerecognizer.com/) | Automatic license plate recognition via cloud and on-premise APIs | 🟡 API Key | ✅ | ✅ |
+| [CarsXE API](https://api.carsxe.com/) | VIN decoding, vehicle history, recalls, market value, and plate lookup | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🎪 Ticketing & Venue APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Search events, attractions, and venues with 5,000 calls/day free | 🟡 API Key | ✅ | ✅⭐ |
+| [SeatGeek Platform API](https://platform.seatgeek.com/) | RESTful API for events, performers, venues, and recommendations | 🟡 API Key | ✅ | ✅⭐ |
+| [TicketsData API](https://ticketsdata.com/docs) | Unified API normalizing data from Ticketmaster, StubHub, SeatGeek | 🟡 API Key | ✅ | ✅⭐ |
+| [StubHub API](https://developer.stubhub.com/docs/overview/introduction/) | Search events, purchase and list tickets on largest resale marketplace | 🔴 OAuth | ✅ | ✅ |
+| [Ticket Tailor API](https://developers.tickettailor.com/) | Self-service event ticketing API with seat maps and box office | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🛒 Grocery & Food Delivery APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [DoorDash Drive API](https://developer.doordash.com/en-US/api/drive/) | White-label delivery API using DoorDash courier network | 🟡 API Key | ✅ | ✅⭐ |
+| [Spoonacular API](https://spoonacular.com/food-api) | 360,000+ recipes, 80,000+ food products, meal plans, and nutrition | 🟡 API Key | ✅ | ✅⭐ |
+| [Open Food Facts API](https://world.openfoodfacts.org/data) | Free open-source food product database with nutrition and barcodes | 🟢 No | ✅ | ✅⭐ |
+| [Edamam API](https://developer.edamam.com/) | Nutrition analysis, recipe search, food database, and meal planning | 🟡 API Key | ✅ | ✅⭐ |
+| [Kroger API](https://developer.kroger.com/reference/) | Grocery shopping API for products, carts, and store locations | 🔴 OAuth | ✅ | ✅ |
+| [Uber Direct API](https://developer.uber.com/docs/deliveries/overview) | White-label delivery-as-a-service using Uber's courier network | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🧮 Accounting Tax Compliance APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Avalara AvaTax](https://developer.avalara.com/) | Sales tax calculation, compliance, and filing with 1,200+ integrations | 🟡 API Key | ✅ | ✅⭐ |
+| [TaxJar](https://developers.taxjar.com/api/) | Developer-friendly REST API for sales tax calculation and reporting | 🟡 API Key | ✅ | ✅⭐ |
+| [Stripe Tax](https://docs.stripe.com/tax) | Automatic tax calculation built into Stripe payment flows | 🟡 API Key | ✅ | ✅⭐ |
+| [TaxCloud](https://taxcloud.com/for-developers/) | Free-tier sales tax API for US-based small businesses | 🟡 API Key | ✅ | ✅⭐ |
+| [Quaderno](https://developers.quaderno.io/) | Cross-border tax calculation, VAT/GST validation, and invoicing | 🟡 API Key | ✅ | ✅⭐ |
+| [Fonoa](https://docs.fonoa.com/) | Tax automation API for real-time tax determination and e-invoicing | 🟡 API Key | ✅ | ✅ |
+| [Vertex Cloud](https://developer.vertexinc.com/) | Enterprise tax calculation, address cleansing, and returns | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📞 Contact Center & CCaaS APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Genesys Cloud](https://developer.genesys.cloud/) | Enterprise CCaaS platform API with full REST and SDK support | 🔴 OAuth | ✅ | ✅⭐ |
+| [Twilio Flex](https://www.twilio.com/docs/flex) | Programmable cloud contact center with full UI and API customization | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Connect](https://docs.aws.amazon.com/connect/latest/APIReference/Welcome.html) | AWS cloud contact center service with comprehensive REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Talkdesk](https://docs.talkdesk.com/) | CCaaS API with industry-specific solutions and embedded contact center | 🟡 API Key | ✅ | ✅⭐ |
+| [Aircall](https://developer.aircall.io/) | Cloud-based phone system API for call center integrations | 🟡 API Key | ✅ | ✅⭐ |
+| [Five9](https://www.five9.com/products/capabilities/call-center-apis-and-sdks) | Cloud contact center APIs and SDKs for voice, chat, and AI | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏗️ BIM & Architecture APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Autodesk Platform Services](https://aps.autodesk.com/) | 3D viewing, data management, design automation (formerly Forge) | 🔴 OAuth | ✅ | ✅⭐ |
+| [Speckle](https://speckle.systems/) | Open-source AEC data platform with GraphQL and REST APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Procore](https://developers.procore.com/) | Construction management REST API for projects, financials, and docs | 🔴 OAuth | ✅ | ✅⭐ |
+| [xeokit SDK](https://xeokit.io/) | Open-source 3D BIM viewer SDK with JavaScript API | 🟢 No | ✅ | ✅⭐ |
+| [IFC.js / That Open Engine](https://github.com/ThatOpenCompany) | Open-source JavaScript library for loading and editing IFC models | 🟢 No | ✅ | ✅⭐ |
+| [Bentley iTwin Platform](https://developer.bentley.com/) | Digital twin APIs for infrastructure with iModel services | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🎓 Online Learning Platform APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Canvas LMS API](https://canvas.instructure.com/doc/api/) | Full REST API for course management, grading, and user admin | 🔴 OAuth | ✅ | ✅⭐ |
+| [Moodle Web Services](https://docs.moodle.org/en/Web_services) | Open-source LMS with extensive REST/SOAP/XML-RPC APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Classroom API](https://developers.google.com/workspace/classroom/reference/rest) | Manage classes, rosters, invitations, and coursework | 🔴 OAuth | ✅ | ✅⭐ |
+| [CourseKit](https://coursekit.dev/) | Headless course platform with flexible API-first architecture | 🟡 API Key | ✅ | ✅⭐ |
+| [Thinkific Admin API](https://developers.thinkific.com/api/api-documentation) | Manage courses, users, enrollments, and orders programmatically | 🟡 API Key | ✅ | ✅⭐ |
+| [Skilljar API](https://api.skilljar.com/docs/) | Customer education LMS with REST API for courses and analytics | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 💎 Luxury & Fashion APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Retailed API](https://docs.retailed.io/) | Live product data from StockX, GOAT, Chrono24, and luxury markets | 🟡 API Key | ✅ | ✅⭐ |
+| [KicksDB (Sneakers API)](https://kicks.dev/) | Structured sneaker data from StockX, GOAT, and Shopify stores | 🟡 API Key | ✅ | ✅⭐ |
+| [Lykdat Fashion Search](https://apidocs.lykdat.com/) | Fashion image search, visual similarity, and deep tagging API | 🟡 API Key | ✅ | ✅⭐ |
+| [Algolia Product Search](https://www.algolia.com/doc/) | AI-powered search API used by luxury fashion e-commerce | 🟡 API Key | ✅ | ✅⭐ |
+| [StockX API](https://developer.stockx.com/) | Sneaker and luxury resale marketplace product and pricing data | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🏋️‍♂️ Sports Data & Odds APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sportradar](https://developer.sportradar.com/) | Premium sports data, odds, and imagery for global leagues | 🟡 API Key | ✅ | ✅⭐ |
+| [The Odds API](https://the-odds-api.com/) | Live and upcoming sports betting odds from 70+ bookmakers | 🟡 API Key | ✅ | ✅⭐ |
+| [API-Football](https://www.api-football.com/) | RESTful football/soccer API with fixtures, standings, and stats | 🟡 API Key | ✅ | ✅⭐ |
+| [balldontlie](https://www.balldontlie.io/) | NBA, NFL, MLB, NHL, EPL, MMA stats and historical data | 🟡 API Key | ✅ | ✅⭐ |
+| [TheSportsDB](https://www.thesportsdb.com/documentation) | Free sports data API with live scores, stats, and team info | 🟡 API Key | ✅ | ✅⭐ |
+| [Football-Data.org](https://www.football-data.org/) | Free football API with competitions, matches, and standings | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🌿 Cannabis & CBD APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Otreeba (Open Cannabis API)](https://otreeba.com/) | Open cannabis data API for strains, brands, products, and studies | 🟡 API Key | ✅ | ✅⭐ |
+| [Cannabis Reports API](https://www.cannabisreports.com/api) | Open database of 20,000+ strains, products, and dispensaries | 🟡 API Key | ✅ | ✅⭐ |
+| [METRC Open API](https://www.metrc.com/track-and-trace-technology/open-api/) | State-mandated seed-to-sale cannabis tracking and compliance | 🟡 API Key | ✅ | ✅ |
+| [Dutchie Plus API](https://business.dutchie.com/integrations) | Cannabis e-commerce and POS platform with developer-first APIs | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔋 Battery & Energy Storage APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Tesla Fleet API (Energy)](https://developer.tesla.com/docs/fleet-api/endpoints/energy) | Control and monitor Tesla Powerwall and solar systems | 🔴 OAuth | ✅ | ✅⭐ |
+| [Enphase Enlighten API](https://developer-v4.enphase.com/) | Solar and battery monitoring API with real-time and historical data | 🟡 API Key | ✅ | ✅⭐ |
+| [Enode API](https://developers.enode.com/api) | Unified API connecting to 1,000+ energy devices (solar, battery, EV) | 🔴 OAuth | ✅ | ✅⭐ |
+| [Sunvoy API](https://sunvoy.com/api) | Multi-brand energy device API: Enphase, SolarEdge, Tesla, and more | 🟡 API Key | ✅ | ✅⭐ |
+| [NREL PVWatts API](https://developer.nrel.gov/docs/solar/pvwatts/) | Estimate PV energy production for grid-connected systems | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🎰 Casino & iGaming APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [SOFTSWISS Game Aggregator](https://www.softswiss.com/game-aggregator/) | 40,000+ games from 300+ studios via single API integration | 🟡 API Key | ✅ | ✅ |
+| [SoftGamings Casino API](https://www.softgamings.com/casino-api/) | 10,000+ games from 250+ providers with unified API | 🟡 API Key | ✅ | ✅ |
+| [Slotegrator APIgrator](https://slotegrator.pro/apigrator.html) | 30,000+ certified games from 180+ licensed developers | 🟡 API Key | ✅ | ✅ |
+| [NuxGame Casino API](https://nuxgame.com/casino-api) | 16,500+ games from 130+ providers through single integration | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📸 Computer Vision & Object Detection APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Roboflow Inference API](https://roboflow.com/) | Deploy custom CV models with pre-built detection, segmentation, OCR | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision/docs) | Image labeling, OCR, face detection, and landmark recognition | 🟡 API Key | ✅ | ✅⭐ |
+| [Ultralytics YOLO (HUB)](https://hub.ultralytics.com/) | Train and deploy YOLO models via cloud with API endpoints | 🟡 API Key | ✅ | ✅⭐ |
+| [Eden AI](https://www.edenai.co/) | Unified API aggregating Google, AWS, Azure, and other CV services | 🟡 API Key | ✅ | ✅⭐ |
+| [Hugging Face Inference API](https://huggingface.co/docs/api-inference/) | 150,000+ pre-trained models including object detection | 🟡 API Key | ✅ | ✅⭐ |
+| [Imagga](https://docs.imagga.com/) | Image tagging, categorization, color extraction, and face recognition | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧊 Cold Chain & Temperature Monitoring APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Tive API](https://developers.tive.com/) | Real-time shipment tracking with GPS and temperature sensors | 🟡 API Key | ✅ | ✅⭐ |
+| [Particle IoT](https://docs.particle.io/) | IoT device cloud with REST API for sensor data and fleet management | 🟡 API Key | ✅ | ✅⭐ |
+| [Controlant API](https://api-docs.controlant.com/) | Pharma cold chain as a service with REST API | 🟡 API Key | ✅ | ✅ |
+| [SafetyCulture (iAuditor)](https://developer.safetyculture.com/) | Inspection and monitoring platform with temperature sensor API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏛️ Museum & Cultural Heritage APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Europeana API](https://apis.europeana.eu/) | 50M+ items from 4,000+ European cultural institutions | 🟡 API Key | ✅ | ✅⭐ |
+| [Smithsonian Open Access API](https://www.si.edu/openaccess/devtools) | 2.8M open-access items across all Smithsonian museums (CC0) | 🟡 API Key | ✅ | ✅⭐ |
+| [Metropolitan Museum of Art API](https://metmuseum.github.io/) | 470,000+ artworks with images, metadata, and search | 🟢 No | ✅ | ✅⭐ |
+| [Rijksmuseum API](https://data.rijksmuseum.nl/) | 500,000+ art objects with search and OAI-PMH APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Art Institute of Chicago API](https://www.artic.edu/open-access/public-api) | Unified API for collections, publications, events, and more | 🟢 No | ✅ | ✅⭐ |
+| [Library of Congress API](https://www.loc.gov/apis/) | Digital collections, maps, photos, newspapers in JSON | 🟢 No | ✅ | ✅⭐ |
+| [Harvard Art Museums API](https://harvardartmuseums.org/collections/api) | REST API for exploring extensive art collections | 🟡 API Key | ✅ | ✅⭐ |
+| [Victoria & Albert Museum API](https://developers.vam.ac.uk/) | 1M+ collection records and 500K+ images with v2 REST API | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🔐 Encryption & Key Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [AWS KMS](https://docs.aws.amazon.com/kms/latest/APIReference/Welcome.html) | Fully managed encryption key creation, rotation, and control on AWS | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud KMS](https://cloud.google.com/security/products/security-key-management) | Cloud-hosted key management with HSM and external key manager support | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure Key Vault](https://learn.microsoft.com/en-us/rest/api/keyvault/) | Safeguard cryptographic keys, certificates, and secrets on Azure | 🔴 OAuth | ✅ | ✅⭐ |
+| [HashiCorp Vault](https://developer.hashicorp.com/vault/api-docs) | Open-source secrets management, encryption-as-a-service, and key management | 🟡 API Key | ✅ | ✅⭐ |
+| [Doppler](https://docs.doppler.com/reference/api) | Centralized cloud-based secrets and environment variable management | 🟡 API Key | ✅ | ✅⭐ |
+| [1Password Secrets Automation](https://developer.1password.com/docs/connect/api-reference/) | Programmatic access to secrets stored in 1Password vaults via REST API | 🟡 API Key | ✅ | ✅ |
+| [CyberArk Conjur](https://docs.conjur.org/Latest/en/Content/Developer/lp_REST_API.htm) | Enterprise secrets management with policy-based access control | 🟡 API Key | ✅ | ✅ |
+| [Akeyless](https://docs.akeyless.io/) | Vaultless secrets management with dynamic secrets and encryption | 🟡 API Key | ✅ | ✅ |
+| [Google Tink](https://developers.google.com/tink) | Open-source multi-language cryptographic API library by Google | 🟢 No | ✅ | ✅ |
+| [Virtru](https://developer.virtru.com/docs/cpp-encryption) | Data-centric encryption SDKs with granular access controls (TDF standard) | 🟡 API Key | ✅ | ⚠️ |
+| [Fortanix SDKMS](https://support.fortanix.com/docs/) | Runtime encryption and cloud key management with HSM-grade security | 🟡 API Key | ✅ | ✅ |
+| [Thales CipherTrust](https://thalesdocs.com/ctp/cm/latest/reference/index.html) | Enterprise data discovery, classification, encryption, and key management | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🏥 EHR (Electronic Health Records) APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Epic on FHIR](https://fhir.epic.com/) | FHIR R4 APIs for Epic EHR with 750+ free endpoints and sandbox access | 🔴 OAuth | ✅ | ✅⭐ |
+| [Oracle Health / Cerner FHIR](https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/r4_overview.html) | FHIR R4 APIs for Oracle Health (formerly Cerner) Millennium platform | 🔴 OAuth | ✅ | ✅⭐ |
+| [Veradigm / Allscripts FHIR](https://developer.veradigm.com/) | FHIR-enabled APIs for Veradigm EHR and Practice Fusion systems | 🔴 OAuth | ✅ | ✅ |
+| [SMART on FHIR](https://docs.smarthealthit.org/) | Open standard framework for FHIR app authorization and launch | 🔴 OAuth | ✅ | ✅⭐ |
+| [HL7 FHIR](https://www.hl7.org/fhir/) | The foundational healthcare interoperability standard specification (R4/R5) | 🟢 No | ✅ | ✅⭐ |
+| [CMS Blue Button 2.0](https://bluebutton.cms.gov/developers/) | Medicare beneficiary claims data via FHIR for 60M+ patients | 🔴 OAuth | ✅ | ✅⭐ |
+| [Apple Health Records API](https://developer.apple.com/documentation/healthkit) | Access FHIR clinical records from participating institutions via HealthKit | 🔴 OAuth | ✅ | ✅ |
+| [1up Health](https://1up.health/developers) | Unified FHIR API connecting to 300+ EHR systems for health data | 🔴 OAuth | ✅ | ✅ |
+| [Redox](https://developer.redoxengine.com/) | Healthcare integration platform connecting apps to 2500+ EHR endpoints | 🟡 API Key | ✅ | ✅ |
+| [Flexpa](https://www.flexpa.com/docs) | Patient-authorized access to health plan FHIR APIs for claims data | 🔴 OAuth | ✅ | ✅ |
+| [Open Dental API](https://www.opendental.com/site/apiservice.html) | REST API for Open Dental practice management and clinical data | 🟡 API Key | ✅ | ✅ |
+| [athenahealth API](https://docs.athenahealth.com/api/) | APIs for athenaOne EHR including clinical, scheduling, and billing data | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 📚 Data Catalog & Metadata APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Google Cloud Data Catalog](https://docs.cloud.google.com/data-catalog/docs/reference/rest) | Fully managed metadata management and data discovery on GCP | 🔴 OAuth | ✅ | ✅⭐ |
+| [OpenMetadata](https://docs.open-metadata.org/latest/main-concepts/metadata-standard/apis) | Open-source unified metadata platform with REST APIs for discovery and governance | 🟡 API Key | ✅ | ✅⭐ |
+| [Apache Atlas](https://atlas.apache.org/api/v2/index.html) | Open-source metadata management and governance framework for Hadoop ecosystems | 🟡 API Key | ✅ | ✅ |
+| [Collibra](https://developer.collibra.com/api) | Enterprise data intelligence platform with REST and GraphQL APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Alation](https://developer.alation.com/dev) | Data catalog with REST APIs for metadata, lineage, and governance | 🟡 API Key | ✅ | ✅ |
+| [Atlan](https://developer.atlan.com/) | Active metadata platform with open API architecture and SDK support | 🟡 API Key | ✅ | ✅⭐ |
+| [Informatica Catalog](https://developer.informatica.com/) | Enterprise metadata management with REST APIs for profiling and governance | 🟡 API Key | ✅ | ✅ |
+| [Snowflake Horizon](https://docs.snowflake.com/en/developer-guide/snowflake-rest-api/reference) | Native Snowflake cataloging and governance layer with REST API access | 🟡 API Key | ✅ | ✅ |
+| [AWS Glue Data Catalog](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api.html) | Managed metadata repository for data lake analytics on AWS | 🟡 API Key | ✅ | ✅⭐ |
+| [Amundsen](https://www.amundsen.io/amundsen/) | Open-source data discovery and metadata engine by LyftOSS | 🟡 API Key | ✅ | ✅ |
+| [DataHub](https://datahubproject.io/docs/api/restli/restli-overview) | Open-source metadata platform (LinkedIn) with REST and GraphQL APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Secoda](https://docs.secoda.co/secoda-api) | AI-powered data catalog and documentation with REST API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧹 Data Quality & Cleansing APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Great Expectations](https://docs.greatexpectations.io/docs/home/) | Open-source Python framework for data validation and quality testing | 🟢 No | ✅ | ✅⭐ |
+| [Soda Core](https://docs.soda.io/) | Open-source data quality testing with CLI and Python API (SodaCL DSL) | 🟢 No | ✅ | ✅⭐ |
+| [Melissa Global Address](https://docs.melissa.com/cloud-api/global-address-verification/global-address-verification-index.html) | Address verification, cleansing, and enrichment for 240+ countries | 🟡 API Key | ✅ | ✅⭐ |
+| [Precisely](https://developer.precisely.com/) | Data integrity APIs for address verification, geocoding, and enrichment | 🟡 API Key | ✅ | ✅ |
+| [Informatica Data Quality](https://docs.informatica.com/data-governance-and-quality-cloud/data-quality.html) | Cloud data quality with profiling, standardization, and matching APIs | 🟡 API Key | ✅ | ✅ |
+| [Alteryx / Trifacta](https://api.trifacta.com/) | Data wrangling and quality platform with REST API for data prep pipelines | 🟡 API Key | ✅ | ✅ |
+| [Talend Data Quality](https://help.talend.com/r/en-US/8.0/data-quality-user-guide) | Open-source and enterprise data quality with profiling and cleansing | 🟡 API Key | ✅ | ⚠️ |
+| [Ataccama ONE](https://docs.ataccama.com/one/latest/) | AI-powered data quality, catalog, and governance unified platform | 🟡 API Key | ✅ | ✅ |
+| [ZoomInfo](https://developer.zoominfo.com/) | B2B data intelligence with automated data cleansing and enrichment | 🟡 API Key | ✅ | ✅ |
+| [Clearbit (HubSpot)](https://dashboard.clearbit.com/docs) | Real-time company and contact data enrichment and verification APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenRefine](https://openrefine.org/docs) | Open-source tool for messy data cleansing and transformation | 🟢 No | ✅ | ⚠️ |
+| [Deequ](https://github.com/awslabs/deequ) | Open-source data quality library for Spark by AWS Labs | 🟢 No | ✅ | ⚠️ |
+
+---
+
+## 🧩 Low-Code & No-Code APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Bubble](https://manual.bubble.io/core-resources/api) | Full-stack no-code platform with Data API and Workflow API | 🟡 API Key | ✅ | ✅⭐ |
+| [Retool](https://docs.retool.com/api/) | Low-code platform for building internal tools with REST API management | 🟡 API Key | ✅ | ✅⭐ |
+| [Zapier](https://zapier.com/developer-platform) | Automation platform connecting 8,000+ apps with developer platform APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [n8n](https://docs.n8n.io/api/) | Open-source workflow automation with public REST API and code nodes | 🟡 API Key | ✅ | ✅⭐ |
+| [Appsmith](https://docs.appsmith.com/) | Open-source low-code framework for internal tools with REST/GraphQL support | 🟡 API Key | ✅ | ✅⭐ |
+| [ToolJet](https://docs.tooljet.com/docs/tooljet-api/) | Open-source low-code platform with REST API for building business apps | 🟡 API Key | ✅ | ✅ |
+| [Microsoft Power Automate](https://learn.microsoft.com/en-us/power-automate/web-api) | Enterprise workflow automation with connectors and REST APIs | 🔴 OAuth | ✅ | ✅ |
+| [Mendix](https://docs.mendix.com/apidocs-mxsdk/apidocs/) | Enterprise low-code platform with comprehensive REST and OData APIs | 🟡 API Key | ✅ | ✅ |
+| [Airtable](https://airtable.com/developers/web/api/introduction) | Spreadsheet-database hybrid with full REST API for CRUD operations | 🟡 API Key | ✅ | ✅⭐ |
+| [Make (Integromat)](https://www.make.com/en/api-documentation) | Visual automation platform with API for building integration scenarios | 🟡 API Key | ✅ | ✅ |
+| [Directus](https://docs.directus.io/reference/introduction.html) | Open-source headless CMS with auto-generated REST and GraphQL APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Superblocks](https://docs.superblocks.com/) | Developer platform for building internal apps with API-first workflows | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🗣️ Text-to-Speech (TTS) APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [ElevenLabs](https://elevenlabs.io/docs/api-reference/text-to-speech/convert) | Ultra-realistic AI voices with voice cloning; 32 languages, ~75ms latency | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) | GPT-4o mini TTS with 11+ built-in voices and real-time streaming | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud TTS](https://cloud.google.com/text-to-speech) | 300+ voices in 50+ languages with WaveNet and Neural2 models | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Polly](https://docs.aws.amazon.com/polly/latest/dg/API_Reference.html) | AWS neural TTS with 60+ voices across 30+ languages and SSML support | 🟡 API Key | ✅ | ✅⭐ |
+| [Microsoft Azure Speech](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech) | 129 neural voices spanning 54 languages with on-premise container support | 🟡 API Key | ✅ | ✅⭐ |
+| [Deepgram Aura](https://developers.deepgram.com/docs/text-to-speech) | Ultra-low latency TTS (~90ms) designed for real-time voice AI agents | 🟡 API Key | ✅ | ✅⭐ |
+| [Murf AI](https://murf.ai/api/docs) | 150+ AI voices across 35+ languages with speech customization controls | 🟡 API Key | ✅ | ✅ |
+| [Play.ht](https://docs.play.ht/reference/api-getting-started) | AI voice generation with voice cloning and streaming via REST and SDK | 🟡 API Key | ✅ | ✅ |
+| [Resemble AI](https://docs.app.resemble.ai/) | Voice cloning and speech synthesis with real-time streaming API | 🟡 API Key | ✅ | ✅ |
+| [IBM Watson TTS](https://cloud.ibm.com/apidocs/text-to-speech) | Enterprise TTS with expressive neural voices and customization | 🟡 API Key | ✅ | ✅ |
+| [Speechify API](https://docs.sws.speechify.com/) | TTS API with lifelike AI voices for content reading and accessibility | 🟡 API Key | ✅ | ✅ |
+| [Cartesia](https://docs.cartesia.ai/) | Sonic model TTS with sub-100ms latency and multi-language streaming | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📱 App Store & Mobile Analytics APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Apple App Store Connect](https://developer.apple.com/documentation/appstoreconnectapi/analytics) | Official Apple API with 50+ analytics reports for App Store performance | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Play Developer](https://developers.google.com/android-publisher) | Official Google API for Play Store stats, reviews, and financial reports | 🔴 OAuth | ✅ | ✅⭐ |
+| [Appfigures](https://docs.appfigures.com/) | App store analytics API for sales, ranks, reviews, and competitor data | 🟡 API Key | ✅ | ✅⭐ |
+| [Sensor Tower](https://sensortower.com/product/connect) | Mobile intelligence API for download/revenue estimates and market trends | 🟡 API Key | ✅ | ✅ |
+| [data.ai (App Annie)](https://helpcenter.data.ai/community/s/article/API-Introduction) | App market intelligence with usage, download, and revenue estimates | 🟡 API Key | ✅ | ✅ |
+| [AppFollow](https://appfollow.io/appfollow-api) | Review management, keyword tracking, and ranking analysis API | 🟡 API Key | ✅ | ✅ |
+| [Mixpanel](https://developer.mixpanel.com/reference/overview) | Product analytics with event tracking, funnels, and retention analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [AppsFlyer](https://dev.appsflyer.com/hc/docs/api) | Mobile attribution and marketing analytics with server-to-server APIs | 🟡 API Key | ✅ | ✅ |
+| [Adjust](https://dev.adjust.com/en/api/) | Mobile measurement and fraud prevention with reporting and campaign APIs | 🟡 API Key | ✅ | ✅ |
+| [Firebase Analytics](https://firebase.google.com/docs/analytics) | Free app analytics with automatic event tracking and BigQuery export | 🟡 API Key | ✅ | ✅⭐ |
+| [UXCam](https://developer.uxcam.com/) | Mobile app analytics with session replay, heatmaps, and user data APIs | 🟡 API Key | ✅ | ✅ |
+| [Amplitude](https://www.docs.developers.amplitude.com/analytics/) | Product analytics platform with event tracking and experiment APIs | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🏢 Coworking & Office Space APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Nexudus](https://developers.nexudus.com/reference/getting-started-with-your-api-1) | Coworking management REST API with 60+ integrations and SDK support | 🟡 API Key | ✅ | ✅⭐ |
+| [OfficeRnD](https://www.officernd.com/developers/) | Flex space management platform with developer hub and REST APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Cobot](https://dev.cobot.me/api-docs) | Coworking management API for bookings, members, invoices, and access control | 🔴 OAuth | ✅ | ✅⭐ |
+| [LiquidSpace](https://developer.liquidspace.com/) | Workspace search and reservation booking API for flexible offices | 🟡 API Key | ✅ | ✅ |
+| [Spacebring](https://developer.spacebring.com/) | Coworking software REST API with webhooks for event-driven automation | 🟡 API Key | ✅ | ✅ |
+| [Robin](https://docs.robinpowered.com/docs/getting-started) | Workplace platform API for desk booking, room scheduling, and presence | 🟡 API Key | ✅ | ✅⭐ |
+| [Deskbird](https://developer.deskbird.com/welcome-to-the-deskbird-public-api-857686m0) | Desk and room booking API with scheduling, check-in, and analytics | 🟡 API Key | ✅ | ✅ |
+| [Skedda](https://www.skedda.com/booking-system-api) | Space scheduling and booking system with REST API and webhook support | 🟡 API Key | ✅ | ✅ |
+| [Envoy](https://developers.envoy.com/) | Workplace platform API for visitor management and room booking | 🔴 OAuth | ✅ | ✅ |
+| [Archie](https://archieapp.co/integrations) | Workspace management with open API for coworking and hybrid spaces | 🟡 API Key | ✅ | ⚠️ |
+| [Optix](https://www.optixapp.com/) | Coworking management software with integration APIs and Zapier support | 🟡 API Key | ✅ | ⚠️ |
+| [OfficeSpace Software](https://support.officespacesoftware.com/s/article/Using-the-OfficeSpace-API-HC) | Office space management API for floor plans, moves, and desk booking | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧪 A/B Testing & Experimentation APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Optimizely](https://docs.developers.optimizely.com/web-experimentation/docs/rest-api-introduction) | Enterprise experimentation with REST API, OpenAPI spec, and Postman collection | 🔴 OAuth | ✅ | ✅⭐ |
+| [LaunchDarkly](https://apidocs.launchdarkly.com/) | Feature flags and controlled rollouts with comprehensive REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [Statsig](https://docs.statsig.com/http-api/) | High-scale experimentation platform (1T+ events/day) with HTTP and Console APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [GrowthBook](https://docs.growthbook.io/api/) | Open-source feature flagging and A/B testing with full REST API | 🟡 API Key | ✅ | ✅⭐ |
+| [PostHog](https://posthog.com/docs/api/experiments) | Open-source product analytics with experimentation and feature flags APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [VWO FullStack](https://developers.vwo.com/reference/introduction-1) | Server-side testing and feature management with REST API and SDKs | 🟡 API Key | ✅ | ✅ |
+| [Split.io](https://docs.split.io/reference/introduction) | Feature delivery platform with experimentation REST API and event streaming | 🟡 API Key | ✅ | ✅ |
+| [Amplitude Experiment](https://www.docs.developers.amplitude.com/experiment/) | Experimentation with statistical engine tied to Amplitude analytics | 🟡 API Key | ✅ | ✅ |
+| [Flagsmith](https://docs.flagsmith.com/clients/rest/) | Open-source feature flag and remote config service with REST API | 🟡 API Key | ✅ | ✅ |
+| [Convert Experiences](https://www.convert.com/features/ab-testing/api/) | Privacy-first enterprise A/B testing with secure HMAC-authenticated API | 🟡 API Key | ✅ | ✅ |
+| [Unleash](https://docs.getunleash.io/reference/api/legacy/unleash) | Open-source feature flag management with client and admin APIs | 🟡 API Key | ✅ | ✅ |
+| [Eppo](https://docs.geteppo.com/api) | Warehouse-native experimentation platform with REST API and SDKs | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔗 URL & Link Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Bitly](https://dev.bitly.com/api-reference) | Industry-leading URL shortener with analytics, QR codes, and 99.9% uptime | 🟡 API Key | ✅ | ✅⭐ |
+| [Rebrandly](https://developers.rebrandly.com/docs/api-custom-url-shortener) | Custom branded short links with link editing, expiration, and retargeting | 🟡 API Key | ✅ | ✅⭐ |
+| [Short.io](https://developers.short.io/docs/cre) | Link shortener with bulk API (1000 links/call), analytics, and webhooks | 🟡 API Key | ✅ | ✅⭐ |
+| [Dub.co](https://dub.co/docs/api-reference/introduction) | Modern open-source link management with analytics, conversions, and SDKs | 🟡 API Key | ✅ | ✅⭐ |
+| [Cuttly](https://cutt.ly/api-documentation/cuttly-links-api) | URL shortener with QR codes, branded domains, and link analytics API | 🟡 API Key | ✅ | ✅ |
+| [TinyURL](https://tinyurl.com/app/dev) | Classic URL shortener with developer API for link creation and management | 🟡 API Key | ✅ | ✅ |
+| [BL.INK](https://app.bl.ink/developer) | Enterprise branded link management with analytics and team APIs | 🟡 API Key | ✅ | ✅ |
+| [Kutt.it](https://github.com/thedevs-network/kutt) | Open-source modern URL shortener with API and custom domain support | 🟡 API Key | ✅ | ✅ |
+| [T.LY](https://t.ly/docs/api) | URL shortener API with link tracking, bulk creation, and smart links | 🟡 API Key | ✅ | ✅ |
+| [Shrtco.de](https://shrtco.de/docs) | Free URL shortening API with no authentication required | 🟢 No | ✅ | ✅⭐ |
+| [Firebase Dynamic Links](https://firebase.google.com/docs/dynamic-links) | Deep links that work across platforms (iOS, Android, web) with analytics | 🟡 API Key | ✅ | ✅ |
+| [Branch.io](https://help.branch.io/developers-hub/docs/deep-linking-api) | Deep linking and attribution platform with link creation and analytics API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🐳 Container & Kubernetes APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Kubernetes API](https://kubernetes.io/docs/reference/kubernetes-api/) | Official Kubernetes REST API for managing all cluster resources and objects | 🟡 API Key | ✅ | ✅⭐ |
+| [Docker Engine API](https://docs.docker.com/reference/api/engine/) | RESTful API for managing containers, images, volumes, and networks | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon EKS](https://docs.aws.amazon.com/eks/latest/APIReference/Welcome.html) | AWS managed Kubernetes service API for cluster lifecycle management | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/docs/reference/rest) | GKE REST API for managing GCP Kubernetes clusters and workloads | 🔴 OAuth | ✅ | ✅⭐ |
+| [Azure AKS](https://learn.microsoft.com/en-us/rest/api/aks/) | Azure Kubernetes Service REST API for cluster management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Portainer](https://docs.portainer.io/api/docs) | Container management REST API (Docker, K8s, Podman) with reverse-proxy | 🟡 API Key | ✅ | ✅⭐ |
+| [Rancher](https://ranchermanager.docs.rancher.com/api/api-reference) | Multi-cluster Kubernetes management API using native K8s CRDs | 🟡 API Key | ✅ | ✅ |
+| [Helm](https://helm.sh/docs/) | Kubernetes package manager for defining, installing, and upgrading apps | 🟢 No | ✅ | ✅⭐ |
+| [Red Hat OpenShift](https://docs.openshift.com/container-platform/latest/rest_api/index.html) | Enterprise Kubernetes platform with extended REST API endpoints | 🔴 OAuth | ✅ | ✅ |
+| [Northflank](https://northflank.com/docs/v1/api) | Developer platform API for deploying containers with built-in CI/CD | 🟡 API Key | ✅ | ✅ |
+| [DigitalOcean Kubernetes](https://docs.digitalocean.com/reference/api/api-reference/#tag/Kubernetes) | Managed Kubernetes API for cluster provisioning and node pool management | 🟡 API Key | ✅ | ✅⭐ |
+| [Spacelift](https://docs.spacelift.io/vendors/kubernetes) | Infrastructure orchestration for Terraform and Kubernetes with GraphQL API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📈 Stock Market & Trading APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Alpaca](https://docs.alpaca.markets/docs/trading-api) | Commission-free stock and crypto trading API with paper trading sandbox | 🟡 API Key | ✅ | ✅⭐ |
+| [Polygon.io](https://polygon.io/docs/stocks) | Real-time and historical market data for stocks, options, forex, and crypto | 🟡 API Key | ✅ | ✅⭐ |
+| [Alpha Vantage](https://www.alphavantage.co/) | Free stock APIs with 50+ technical indicators in JSON and CSV formats | 🟡 API Key | ✅ | ✅⭐ |
+| [Finnhub](https://finnhub.io/) | Free real-time stock, forex, and crypto data with company fundamentals | 🟡 API Key | ✅ | ✅⭐ |
+| [Twelve Data](https://twelvedata.com/) | Stock, forex, and crypto data from 50+ exchanges with 100+ indicators | 🟡 API Key | ✅ | ✅⭐ |
+| [Interactive Brokers](https://www.interactivebrokers.com/campus/ibkr-api-page/ibkr-api-home/) | Full brokerage API (Web, TWS, FIX) for stocks, options, futures, and forex | 🟡 API Key | ✅ | ✅ |
+| [Tradier](https://docs.tradier.com/) | Brokerage API for equities and options with real-time data and paper trading | 🟡 API Key | ✅ | ✅⭐ |
+| [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) | Stock screener, financial statements, and real-time data with 99.9% uptime | 🟡 API Key | ✅ | ✅⭐ |
+| [EODHD](https://eodhd.com/financial-apis/) | End-of-day, intraday, and fundamental data for global exchanges | 🟡 API Key | ✅ | ✅ |
+| [Finage](https://finage.co.uk/) | Ultra-low latency market data processing 600M+ API calls daily | 🟡 API Key | ✅ | ✅ |
+| [Yahoo Finance (via RapidAPI)](https://rapidapi.com/sparior/api/yahoo-finance15) | Stock quotes, historical data, and financial news via unofficial API | 🟡 API Key | ✅ | ✅ |
+| [Marketstack](https://marketstack.com/documentation) | Free REST API for real-time and historical stock market data worldwide | 🟡 API Key | ✅ | ✅⭐ |
+| [IEX Cloud](https://iexcloud.io/docs/) | Financial data platform with stock data, news, and analytics APIs | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🎵 Music Streaming & Licensing APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Spotify Web API](https://developer.spotify.com/documentation/web-api) | Access Spotify catalog data, manage playlists, control playback | 🔴 OAuth | ✅ | ✅⭐ |
+| [Apple Music API](https://developer.apple.com/documentation/applemusicapi/) | Stream Apple Music catalog, manage libraries, get recommendations | 🟡 API Key | ✅ | ✅⭐ |
+| [Deezer API](https://developers.deezer.com/) | Search tracks, artists, albums; access playlists and user data | 🔴 OAuth | ✅ | ✅⭐ |
+| [Last.fm API](https://www.last.fm/api) | Scrobbling, music recommendations, artist/track metadata | 🟡 API Key | ✅ | ✅⭐ |
+| [SoundCloud API](https://developers.soundcloud.com/docs) | Access tracks, playlists, user profiles on the SoundCloud platform | 🔴 OAuth | ✅ | ✅ |
+| [Musixmatch API](https://developer.musixmatch.com/) | World's largest lyrics catalog; search songs, retrieve lyrics | 🟡 API Key | ✅ | ✅⭐ |
+| [Genius API](https://docs.genius.com/) | Song lyrics, annotations, and artist metadata | 🔴 OAuth | ✅ | ✅ |
+| [Jamendo API](https://developer.jamendo.com/v3.0) | Half-million royalty-free tracks; music discovery and radios | 🔴 OAuth | ✅ | ✅⭐ |
+| [Freesound API](https://freesound.org/docs/api/) | Browse, search, and download Creative Commons licensed sounds | 🔴 OAuth | ✅ | ✅⭐ |
+| [MusicAPI](https://musicapi.com/) | Unified API integrating 10+ streaming services (Spotify, Apple Music, Tidal, etc.) | 🟡 API Key | ✅ | ✅⭐ |
+| [Songlink/Odesli API](https://odesli.co/) | Generate universal smart links across all major streaming platforms | 🟢 No | ✅ | ✅⭐ |
+| [Feed.fm Music API](https://www.feed.fm/music-streaming-api) | Licensed commercial music streaming for apps with automated compliance | 🟡 API Key | ✅ | ✅ |
+| [Mubert API](https://mubert.com/use-cases/developers) | AI-generated royalty-free music for apps, games, and livestreams | 🟡 API Key | ✅ | ✅ |
+| [Soundcharts API](https://soundcharts.com/en/blog/music-data-api) | Music industry analytics, chart tracking, and social data | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📊 Barcode & Product Lookup APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Barcode Lookup API](https://www.barcodelookup.com/api) | Product data lookup by UPC, EAN, or ISBN barcode numbers | 🟡 API Key | ✅ | ✅⭐ |
+| [Go-UPC Product API](https://go-upc.com/) | Access to over 1 billion products across six continents by barcode | 🟡 API Key | ✅ | ✅⭐ |
+| [UPCitemdb API](https://devs.upcitemdb.com/) | RESTful lookup and search across 495M+ products by UPC/EAN | 🟡 API Key | ✅ | ✅⭐ |
+| [Open Food Facts API](https://openfoodfacts.github.io/openfoodfacts-server/api/) | Open-source collaborative food database with barcode lookup (2.8M+ products) | 🟢 No | ✅ | ✅⭐ |
+| [Barcode Spider API](https://www.barcodespider.com/) | Fast barcode database access via UPC, EAN, ISBN, or ASIN in JSON/CSV | 🟡 API Key | ✅ | ✅⭐ |
+| [GS1 US APIs](https://www.gs1us.org/tools/gs1-us-data-hub/gs1-us-apis) | Official GTIN/GLN data lookup for supply chain and inventory management | 🟡 API Key | ✅ | ✅ |
+| [Nutritionix API](https://developer.nutritionix.com/) | Nutrition data for 800K+ packaged products and restaurant menu items | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Food Database API](https://developer.edamam.com/food-database-api) | 900K+ foods with nutrition labeling, diet, and allergy data | 🟡 API Key | ✅ | ✅⭐ |
+| [Zyla EAN Lookup API](https://zylalabs.com/api-marketplace/data/ean+lookup+api/1411) | Search products by EAN barcode or name; retrieve pricing and descriptions | 🟡 API Key | ✅ | ✅ |
+| [Cloudmersive Barcode API](https://cloudmersive.com/barcode-api) | Generate and read 1D/2D barcodes (QR, UPC-A, EAN-13, etc.) | 🟡 API Key | ✅ | ✅⭐ |
+| [Scandit Barcode SDK](https://www.scandit.com/developers/) | High-performance barcode scanning SDK for mobile and web apps | 🟡 API Key | ✅ | ✅ |
+| [Brocade.io](https://github.com/EventideSystems/brocade.io) | Free and open GTIN/barcode and product database | 🟢 No | ✅ | ✅ |
+
+---
+
+## 🔄 Data Sync & Replication APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Airbyte API](https://docs.airbyte.com/api-documentation/) | Open-source data integration platform with 600+ connectors; programmatic pipeline management | 🟡 API Key | ✅ | ✅⭐ |
+| [Fivetran REST API](https://fivetran.com/docs/rest-api) | Automated data replication; manage connectors, sync jobs, and pipelines | 🟡 API Key | ✅ | ✅⭐ |
+| [CData Sync API](https://www.cdata.com/sync/docs/) | OData 4.0 compliant REST API for data replication across 100s of sources | 🟡 API Key | ✅ | ✅ |
+| [Firebase Realtime Database REST API](https://firebase.google.com/docs/database/rest/start) | Cloud-hosted JSON database with real-time sync to all connected clients | 🔴 OAuth | ✅ | ✅⭐ |
+| [Supabase Realtime API](https://supabase.com/docs/guides/api) | Listen to PostgreSQL inserts, updates, deletes via websockets in real-time | 🟡 API Key | ✅ | ✅⭐ |
+| [Ably Realtime API](https://ably.com/docs/api) | Pub/sub messaging platform for real-time data synchronization at scale | 🟡 API Key | ✅ | ✅⭐ |
+| [Liveblocks API](https://liveblocks.io/docs/products/realtime-apis) | Real-time collaboration engine with Yjs support for sync and conflict resolution | 🟡 API Key | ✅ | ✅⭐ |
+| [Debezium](https://debezium.io/documentation/reference/stable/features.html) | Open-source CDC platform streaming database changes to Apache Kafka | 🟢 No | ✅ | ⚠️ |
+| [Hevo Data API](https://api-docs.hevodata.com/reference/introduction) | No-code data pipeline platform; REST API for managing pipelines and ingestion | 🟡 API Key | ✅ | ✅ |
+| [PlanetScale API](https://planetscale.com/docs) | Serverless MySQL platform with branching, deploy requests, and schema management | 🟡 API Key | ✅ | ✅⭐ |
+| [Yjs](https://github.com/yjs/yjs) | Open-source CRDT framework for building collaborative real-time apps | 🟢 No | ✅ | ⚠️ |
+| [Stacksync](https://www.stacksync.com/blog/9-data-replication-tools-you-need-2025) | Real-time bi-directional sync with sub-second latency and conflict resolution | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🌍 Environmental Monitoring APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [AQICN API](https://aqicn.org/api/) | Real-time air quality index data from global monitoring stations | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Air Quality API](https://developers.google.com/maps/documentation/air-quality/overview) | Real-time, historical, and forecast AQ data at 500m resolution for 100+ countries | 🟡 API Key | ✅ | ✅⭐ |
+| [Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api) | Free air quality forecasts for PM, gases, and pollen worldwide | 🟢 No | ✅ | ✅⭐ |
+| [IQAir AirVisual API](https://www.iqair.com/commercial-air-quality-monitors/api) | Air quality data from 80+ countries; current conditions and forecasts | 🟡 API Key | ✅ | ✅⭐ |
+| [Ambee Air Quality API](https://www.getambee.com/api/air-quality) | Hyperlocal air quality data with pollen, fire, and soil monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [PurpleAir API](https://community.purpleair.com/c/data/api/18) | Real-time data from a global network of low-cost air quality sensors | 🟡 API Key | ✅ | ✅ |
+| [OpenWeatherMap Air Pollution API](https://openweathermap.org/api/air-pollution) | Current, forecast, and historical air pollution data (CO, NO2, O3, PM) | 🟡 API Key | ✅ | ✅⭐ |
+| [Plume Labs API](https://plumelabs.com/en/forecast-api/) | Accurate live and forecast air quality data with street-level resolution | 🟡 API Key | ✅ | ✅ |
+| [EPA AirNow API](https://docs.airnowapi.org/) | US EPA official air quality observations and forecasts for the United States | 🟡 API Key | ✅ | ✅⭐ |
+| [Visual Crossing Weather API](https://www.visualcrossing.com/resources/blog/air-quality-data-iot-integration-for-smarter-environmental-monitoring-systems/) | Weather and environmental data including IoT sensor integration | 🟡 API Key | ✅ | ✅⭐ |
+| [Weatherbit Air Quality API](https://www.weatherbit.io/api/airquality-current) | Detailed air pollution data integrated with weather information | 🟡 API Key | ✅ | ✅⭐ |
+| [Copernicus Atmosphere Monitoring Service](https://atmosphere.copernicus.eu/) | European-scale air quality forecasts and reanalysis data | 🟢 No | ✅ | ⚠️ |
+
+---
+
+## 📢 Advertising & Ad Tech APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Google Ads API](https://developers.google.com/google-ads/api) | Programmatic management of Google Ads campaigns, bidding, and reporting | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google Ad Manager API](https://developers.google.com/ad-manager) | Manage ad inventory, create orders, pull reports for publishers | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google AdMob API](https://developers.google.com/admob/api/reference/rest) | Mobile app monetization; manage ad units, mediation groups, and reports | 🔴 OAuth | ✅ | ✅⭐ |
+| [Meta Marketing API](https://developers.facebook.com/docs/marketing-apis) | Create/manage Facebook and Instagram ad campaigns programmatically | 🔴 OAuth | ✅ | ✅⭐ |
+| [X (Twitter) Ads API](https://developer.x.com/en/docs/x-ads-api) | Programmatically create, schedule, and manage ad campaigns on X | 🔴 OAuth | ✅ | ✅ |
+| [Snapchat Ads API](https://developers.snap.com/api/marketing-api/Ads-API/introduction) | Full advertising lifecycle management on Snapchat | 🔴 OAuth | ✅ | ✅ |
+| [Amazon Advertising API](https://advertising.amazon.com/API/docs/en-us/reference/api-overview) | Plan, activate, and measure programmatic ad strategies on Amazon | 🔴 OAuth | ✅ | ✅⭐ |
+| [The Trade Desk API](https://partner.thetradedesk.com/v3/portal/api/doc/ApiPlatformGetStarted) | Enterprise DSP API for programmatic media buying on the open internet | 🟡 API Key | ✅ | ✅ |
+| [Criteo API](https://developers.criteo.com/marketing-solutions/docs/developer-support) | Retargeting and commerce media; reporting and audience management | 🔴 OAuth | ✅ | ✅ |
+| [AdRoll API](https://developers.adroll.com/) | Manage retargeting campaigns, bulk import creatives, and generate reports | 🟡 API Key | ✅ | ✅ |
+| [StackAdapt](https://www.stackadapt.com/) | AI-powered programmatic advertising platform for multi-channel campaigns | 🟡 API Key | ✅ | ⚠️ |
+| [ironSource/Unity LevelPlay](https://developers.is.com/ironsource-mobile/unity/unity-plugin/) | Mobile ad mediation SDK supporting 20+ ad networks for monetization | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🩻 Medical Imaging APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Google Cloud Healthcare API (DICOM)](https://cloud.google.com/healthcare-api/docs/concepts/dicom) | Store, retrieve, and search DICOM instances via DICOMweb standard on GCP | 🔴 OAuth | ✅ | ✅⭐ |
+| [Orthanc REST API](https://www.orthanc-server.com/) | Open-source lightweight DICOM server with RESTful API (JSON/PNG output) | 🟢 No | ✅ | ✅⭐ |
+| [OHIF Viewer](https://docs.ohif.org/) | Open-source web-based medical imaging viewer with extension API system | 🟢 No | ✅ | ✅⭐ |
+| [Cornerstone.js](https://www.cornerstonejs.org/) | JavaScript library for rendering DICOM images in browsers with GPU acceleration | 🟢 No | ✅ | ✅⭐ |
+| [3D Slicer API](https://slicer.readthedocs.io/en/latest/developer_guide/api.html) | Open-source platform for medical image analysis with Python/C++ API | 🟢 No | ✅ | ✅ |
+| [DICOMweb Standard](https://www.dicomstandard.org/using/dicomweb) | RESTful services for web-based medical imaging (WADO-RS, STOW-RS, QIDO-RS) | 🟡 API Key | ✅ | ✅⭐ |
+| [Medicai API](https://www.medicai.io/products/medicai-api) | Cloud PACS with REST API; HL7/FHIR compliant medical imaging integration | 🟡 API Key | ✅ | ✅ |
+| [Merge DICOM Toolkit](https://www.merative.com/merge-imaging/dicom-toolkit) | Comprehensive API conforming to latest DICOM standards for any modality | 🟡 API Key | ✅ | ⚠️ |
+| [Pydicom](https://pydicom.github.io/) | Pure Python library for reading, modifying, and writing DICOM files | 🟢 No | ✅ | ✅⭐ |
+| [PDBe API (Structural)](https://www.ebi.ac.uk/pdbe/pdbe-rest-api) | Protein Data Bank in Europe REST API for macromolecular structure data | 🟢 No | ✅ | ✅⭐ |
+| [MONAI Label](https://github.com/Project-MONAI/MONAILabel) | AI-assisted annotation platform for medical image labeling with API | 🟢 No | ✅ | ✅ |
+| [Autodesk Platform Services (Medical)](https://aps.autodesk.com/developer/overview/autocad) | Cloud-based 3D visualization including medical model rendering | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🧬 Bioinformatics & Protein APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [UniProt REST API](https://www.uniprot.org/help/api) | Access 250M+ protein sequences, functional annotations, and cross-references | 🟢 No | ✅ | ✅⭐ |
+| [RCSB PDB Data API](https://data.rcsb.org/) | Retrieve 3D macromolecular structure data from the Protein Data Bank in JSON | 🟢 No | ✅ | ✅⭐ |
+| [AlphaFold API](https://www.alphafold.ebi.ac.uk/api-docs) | Access 200M+ AI-predicted protein structures from DeepMind | 🟢 No | ✅ | ✅⭐ |
+| [NCBI E-utilities API](https://www.ncbi.nlm.nih.gov/home/develop/api/) | Programmatic access to PubMed, Gene, Protein, and all Entrez databases | 🟡 API Key | ✅ | ✅⭐ |
+| [EMBL-EBI Proteins API](https://www.ebi.ac.uk/proteins/api/doc/) | Integrated protein data from UniProt and Large Scale Studies | 🟢 No | ✅ | ✅⭐ |
+| [Ensembl REST API](https://rest.ensembl.org/) | Access genes, variants, orthologs, genomic alignments across species | 🟢 No | ✅ | ✅⭐ |
+| [InterPro API](https://www.ebi.ac.uk/interpro/api/) | Protein families, domains, and functional sites classification data | 🟢 No | ✅ | ✅⭐ |
+| [STRING API](https://string-db.org/help/api/) | Protein-protein interaction networks and functional enrichment analysis | 🟢 No | ✅ | ✅⭐ |
+| [Reactome Content Service](https://reactome.org/ContentService/) | Biological pathway knowledge base with REST API (Open API/Swagger) | 🟢 No | ✅ | ✅⭐ |
+| [KEGG REST API](https://www.kegg.jp/kegg/rest/keggapi.html) | Kyoto Encyclopedia of Genes and Genomes pathway and molecular data | 🟢 No | ✅ | ✅⭐ |
+| [PubChem PUG REST](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest) | Chemical compound information, bioactivity, and substance data | 🟢 No | ✅ | ✅⭐ |
+| [RCSB PDB Search API](https://search.rcsb.org/) | Advanced search across PDB structures with attribute and sequence queries | 🟢 No | ✅ | ✅⭐ |
+| [PDBe REST API](https://www.ebi.ac.uk/pdbe/pdbe-rest-api) | Protein Data Bank in Europe; structural data and validation reports | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🎲 Random Data & Generator APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Random.org API](https://api.random.org/json-rpc/4/basic) | True random numbers generated from atmospheric noise via JSON-RPC | 🟡 API Key | ✅ | ✅⭐ |
+| [Random User Generator](https://randomuser.me/) | Generate random realistic user profiles (names, photos, addresses) | 🟢 No | ✅ | ✅⭐ |
+| [Faker.js](https://fakerjs.dev/api/) | Generate massive amounts of realistic fake data (names, addresses, finance) | 🟢 No | ✅ | ✅⭐ |
+| [Mockaroo](https://www.mockaroo.com/) | Custom datasets in JSON/CSV/SQL/Excel with 200+ data types and formulas | 🟡 API Key | ✅ | ✅⭐ |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake REST API with posts, comments, users, and photos for testing | 🟢 No | ✅ | ✅⭐ |
+| [Randommer](https://randommer.io/) | Generate random names, addresses, phones, text, and social numbers via REST | 🟡 API Key | ✅ | ✅⭐ |
+| [Chance.js](https://chancejs.com/) | JavaScript random data generator for strings, names, addresses, dice, etc. | 🟢 No | ✅ | ✅⭐ |
+| [Random Data API](https://random-data-api.com/documentation) | Generate random users, addresses, beers, banks, and more via REST | 🟢 No | ✅ | ✅⭐ |
+| [RandomAPI](https://randomapi.com/) | Create custom APIs that return random data using user-defined snippets | 🟡 API Key | ✅ | ✅ |
+| [UUID Generator API](https://www.uuidtools.com/docs) | Generate UUIDs v1-v5 programmatically via simple REST endpoints | 🟢 No | ✅ | ✅⭐ |
+| [Generate-Random.org API](https://generate-random.org/) | 50+ generators (passwords, numbers, strings, coordinates) with JSON responses | 🟢 No | ✅ | ✅⭐ |
+| [Fun Generators UUID API](https://fungenerators.com/api/uuid/) | RFC 4122 UUID generation including non-standard v6 UUIDs via REST | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## ⚡ Serverless & FaaS APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [AWS Lambda](https://docs.aws.amazon.com/lambda/) | Pioneer FaaS platform; event-driven compute with 15-minute max execution | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/) | Microsoft serverless compute with Durable Functions for stateful workflows | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Functions](https://cloud.google.com/functions/docs) | Lightweight FaaS with HTTP endpoints by default; ideal for event-driven backends | 🟡 API Key | ✅ | ✅⭐ |
+| [Cloudflare Workers](https://developers.cloudflare.com/workers/) | Edge serverless on 300+ data centers with V8 isolates and sub-5ms cold starts | 🟡 API Key | ✅ | ✅⭐ |
+| [Vercel Functions](https://vercel.com/docs/functions) | Serverless and edge functions tightly integrated with Next.js framework | 🟡 API Key | ✅ | ✅⭐ |
+| [Netlify Functions](https://docs.netlify.com/functions/overview/) | Serverless functions built on AWS Lambda for JAMstack applications | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenFaaS](https://docs.openfaas.com/) | Open-source serverless framework for Kubernetes; any language, any binary | 🟢 No | ✅ | ✅⭐ |
+| [Knative](https://knative.dev/docs/) | Kubernetes-native serverless platform with scale-to-zero and eventing | 🟢 No | ✅ | ✅ |
+| [Nuclio](https://docs.nuclio.io/) | High-performance serverless for data-intensive and real-time AI workloads | 🟢 No | ✅ | ✅ |
+| [Deno Deploy](https://deno.com/deploy) | Global edge serverless for TypeScript/JavaScript with zero config | 🟡 API Key | ✅ | ✅⭐ |
+| [Supabase Edge Functions](https://supabase.com/docs/guides/functions) | Deno-based serverless functions integrated with Supabase Postgres backend | 🟡 API Key | ✅ | ✅⭐ |
+| [IBM Cloud Functions](https://cloud.ibm.com/functions/) | Apache OpenWhisk-based serverless platform on IBM Cloud | 🟡 API Key | ✅ | ✅ |
+| [Fastly Compute](https://developer.fastly.com/learning/compute/) | Edge compute platform running WebAssembly with sub-millisecond startup | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏗️ CAD & 3D Modeling APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Onshape API](https://onshape-public.github.io/) | Full-featured cloud CAD REST API with OAuth2; models, assemblies, drawings | 🔴 OAuth | ✅ | ✅⭐ |
+| [Autodesk Platform Services (Fusion)](https://aps.autodesk.com/developer/overview/autodesk-fusion-api) | Cloud API for Fusion 360 CAD models, viewing, translation, and data management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Trimble Connect API](https://developer.trimble.com/docs/connect/) | RESTful API for managing 3D BIM projects, files, views, and collaboration | 🔴 OAuth | ✅ | ✅ |
+| [ShapeDiver API](https://help.shapediver.com/doc/apis-and-sdks) | Parametric 3D model computation and visualization via Grasshopper backend | 🟡 API Key | ✅ | ✅⭐ |
+| [Speckle API](https://docs.speckle.systems/) | Open-source 3D data platform for AEC with GraphQL API and webhooks | 🟡 API Key | ✅ | ✅⭐ |
+| [Three.js](https://threejs.org/docs/) | Widely-used JavaScript 3D library for WebGL rendering in browsers | 🟢 No | ✅ | ✅⭐ |
+| [rhino3dm.js](https://mcneel.github.io/rhino3dm/javascript/api/) | McNeel OpenNURBS geometry library compiled to WebAssembly for browser use | 🟢 No | ✅ | ✅ |
+| [That Open Engine (IFC.js)](https://docs.thatopen.com/Tutorials/Components/Core/IfcLoader) | Open-source BIM/IFC loader and viewer built on Three.js for web apps | 🟢 No | ✅ | ✅⭐ |
+| [xeokit SDK](https://xeokit.io/) | Open-source SDK for high-performance 3D BIM visualization in the browser | 🟢 No | ✅ | ✅ |
+| [IfcOpenShell](https://ifcopenshell.org/) | Open-source toolkit for working with IFC building data (Python/C++) | 🟢 No | ✅ | ✅ |
+| [Tech Soft 3D (HOOPS)](https://www.techsoft3d.com/solutions/) | Commercial SDKs for 3D visualization, file conversion, and publishing | 🟡 API Key | ✅ | ⚠️ |
+| [Tripo AI Text-to-CAD API](https://3dprintingindustry.com/news/tripo-ai-launches-new-text-to-cad-api-for-3d-model-generation-237984/) | AI-powered 3D model generation from text prompts via REST API | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🌊 Ocean & Marine Data APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NOAA CO-OPS Tides & Currents API](https://api.tidesandcurrents.noaa.gov/api/prod/) | Official US tidal predictions, water levels, currents, and meteorological data | 🟢 No | ✅ | ✅⭐ |
+| [NOAA ERDDAP](https://www.ncei.noaa.gov/erddap/) | RESTful access to gridded and tabular oceanographic/environmental datasets | 🟢 No | ✅ | ✅⭐ |
+| [Copernicus Marine Toolbox](https://marine.copernicus.eu/access-data/) | Free open marine data: ocean temperature, salinity, currents, and forecasts | 🟡 API Key | ✅ | ✅⭐ |
+| [Global Fishing Watch API](https://globalfishingwatch.org/our-apis/documentation) | Vessel tracking, fishing activity, port visits, and marine infrastructure data | 🟡 API Key | ✅ | ✅⭐ |
+| [Storm Glass API](https://stormglass.io/) | Marine weather data: wave height, swell, wind, tides from 20+ sources | 🟡 API Key | ✅ | ✅⭐ |
+| [WorldTides API](https://www.worldtides.info/apidocs) | Global tidal predictions and heights for any location worldwide | 🟡 API Key | ✅ | ✅⭐ |
+| [EMODnet Bathymetry REST API](https://rest.emodnet-bathymetry.eu/) | European marine bathymetry data; depth samples along profiles and locations | 🟢 No | ✅ | ✅⭐ |
+| [GEBCO Gridded Bathymetry](https://www.gebco.net/data-products/gridded-bathymetry-data) | Authoritative global ocean floor elevation data at 15 arc-second resolution | 🟢 No | ✅ | ⚠️ |
+| [Argovis API](https://argovis.colorado.edu/) | Access Argo float profiles: ocean temperature, salinity, and BGC data | 🟢 No | ✅ | ✅⭐ |
+| [ADMIRALTY Marine APIs](https://www.admiralty.co.uk/access-data/apis) | UK Hydrographic Office tidal, navigation, and marine chart data | 🟡 API Key | ✅ | ✅ |
+| [IODE Ocean Data Portal](https://iode.org/) | International Oceanographic Data Exchange network for 100+ countries | 🟢 No | ✅ | ⚠️ |
+| [OceanSync API](https://oceansync.com) | Cloud infrastructure for ocean data storage and API access | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧠 Brain-Computer Interface APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [BrainFlow](https://brainflow.readthedocs.io/) | Hardware-agnostic library for EEG/EMG/ECG biosensor data in 9+ languages | 🟢 No | ✅ | ✅⭐ |
+| [EMOTIV Cortex API](https://emotiv.gitbook.io/cortex-api) | JSON/WebSocket API for EMOTIV headsets; BCI, mental commands, facial expressions | 🟡 API Key | ✅ | ✅⭐ |
+| [NeuroSky Developer Tools](https://developer.neurosky.com/) | SDK and API for ThinkGear brainwave sensor; attention and meditation metrics | 🟡 API Key | ✅ | ✅ |
+| [OpenBCI Developer Tools](https://docs.openbci.com/ForDevelopers/SoftwareDevelopment/) | Open-source EEG/EMG hardware with SDKs in Python, Java, and Node.js | 🟢 No | ✅ | ✅⭐ |
+| [MNE-Python](https://mne.tools/stable/index.html) | Comprehensive Python library for EEG/MEG signal processing and analysis | 🟢 No | ✅ | ✅⭐ |
+| [MNE-LSL](https://mne.tools/mne-lsl/) | Real-time brain signal streaming framework integrated with MNE-Python via LSL | 🟢 No | ✅ | ✅ |
+| [Lab Streaming Layer (LSL)](https://labstreaminglayer.org/) | Open-source middleware for synchronized streaming of neural/physiological data | 🟢 No | ✅ | ✅ |
+| [OpenNeuro API](https://docs.openneuro.org/api.html) | Free platform for sharing and accessing neuroimaging datasets (BIDS format) | 🟡 API Key | ✅ | ✅⭐ |
+| [BrainAccess SDK](https://www.brainaccess.ai/) | EEG hardware and Python SDK for cognitive monitoring and neurofeedback apps | 🟡 API Key | ✅ | ✅ |
+| [NeuroMore Studio](https://github.com/neuromore/studio) | Open-source biofeedback and neurofeedback platform with visual signal processing | 🟢 No | ✅ | ⚠️ |
+| [NextMind SDK](https://github.com/Snapchat/NextMind) | Attention-based BCI SDK with Unity integration for mind-controlled apps | 🟢 No | ✅ | ⚠️ |
+| [PyEEG / EEGLib](https://github.com/forrestbao/pyeeg) | Python library for EEG feature extraction and analysis for BCI pipelines | 🟢 No | ✅ | ⚠️ |
 
 ---
 
