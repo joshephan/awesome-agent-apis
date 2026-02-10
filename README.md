@@ -543,6 +543,54 @@
 - [Interior Design & Home Staging APIs](#-interior-design--home-staging-apis)
 - [Iris Recognition & Eye Tracking APIs](#-iris-recognition--eye-tracking-apis)
 - [Island & Archipelago Tourism APIs](#-island--archipelago-tourism-apis)
+- [Ivory & Antique Trade Regulation APIs](#-ivory--antique-trade-regulation-apis)
+- [Jam & Preserve Making APIs](#-jam--preserve-making-apis)
+- [Japanese Garden & Zen Design APIs](#-japanese-garden--zen-design-apis)
+- [Jazz & Blues Music APIs](#-jazz--blues-music-apis)
+- [Jet Ski & Personal Watercraft APIs](#-jet-ski--personal-watercraft-apis)
+- [Jewelry & Gemstone Appraisal APIs](#-jewelry--gemstone-appraisal-apis)
+- [Jigsaw Puzzle & Board Game APIs](#-jigsaw-puzzle--board-game-apis)
+- [Jousting & Medieval Reenactment APIs](#-jousting--medieval-reenactment-apis)
+- [Juice Bar & Smoothie APIs](#-juice-bar--smoothie-apis)
+- [Junkyard & Salvage APIs](#-junkyard--salvage-apis)
+- [Jury Duty & Court System APIs](#-jury-duty--court-system-apis)
+- [Karate & Martial Arts APIs](#-karate--martial-arts-apis)
+- [Kayak & Canoe APIs](#-kayak--canoe-apis)
+- [Kennel & Dog Boarding APIs](#-kennel--dog-boarding-apis)
+- [Kite & Wind Sport APIs](#-kite--wind-sport-apis)
+- [Knitting & Crochet APIs](#-knitting--crochet-apis)
+- [Korean BBQ & Fermented Food APIs](#-korean-bbq--fermented-food-apis)
+- [Lacrosse & Field Sport APIs](#-lacrosse--field-sport-apis)
+- [Lampworking & Glass Bead Art APIs](#-lampworking--glass-bead-art-apis)
+- [Land Surveying & Topography APIs](#-land-surveying--topography-apis)
+- [Landfill & Waste Management APIs](#-landfill--waste-management-apis)
+- [Laser Cutting & CNC Machining APIs](#-laser-cutting--cnc-machining-apis)
+- [Laundromat & Dry Cleaning APIs](#-laundromat--dry-cleaning-apis)
+- [Lawn Bowling & Bocce APIs](#-lawn-bowling--bocce-apis)
+- [Lead Abatement & Environmental Remediation APIs](#-lead-abatement--environmental-remediation-apis)
+- [Leather Crafting & Tanning APIs](#-leather-crafting--tanning-apis)
+- [Lego & Brick Building APIs](#-lego--brick-building-apis)
+- [Lemon & Citrus Farming APIs](#-lemon--citrus-farming-apis)
+- [Library & Book Lending APIs](#-library--book-lending-apis)
+- [Lighthouse & Maritime Heritage APIs](#-lighthouse--maritime-heritage-apis)
+- [Limousine & Chauffeur Service APIs](#-limousine--chauffeur-service-apis)
+- [Linen & Textile Rental APIs](#-linen--textile-rental-apis)
+- [Lithography & Printmaking APIs](#-lithography--printmaking-apis)
+- [Livestock Auction & Trading APIs](#-livestock-auction--trading-apis)
+- [Llama & Alpaca Farming APIs](#-llama--alpaca-farming-apis)
+- [Locksmith & Security Hardware APIs](#-locksmith--security-hardware-apis)
+- [Log Cabin & Timber Construction APIs](#-log-cabin--timber-construction-apis)
+- [Long-Distance Running & Marathon APIs](#-long-distance-running--marathon-apis)
+- [Lost & Found APIs](#-lost--found-apis)
+- [Lottery & Sweepstakes APIs](#-lottery--sweepstakes-apis)
+- [Luggage & Travel Gear APIs](#-luggage--travel-gear-apis)
+- [Lumber & Forestry APIs](#-lumber--forestry-apis)
+- [Luxury Watch & Horology APIs](#-luxury-watch--horology-apis)
+- [Macrame & Fiber Art APIs](#-macrame--fiber-art-apis)
+- [Magic & Illusion Performance APIs](#-magic--illusion-performance-apis)
+- [Magnetic Levitation & Maglev APIs](#-magnetic-levitation--maglev-apis)
+- [Mango & Tropical Fruit APIs](#-mango--tropical-fruit-apis)
+- [Mannequin & Visual Merchandising APIs](#-mannequin--visual-merchandising-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -11197,6 +11245,918 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Sherpa Visa & Travel API](https://docs.joinsherpa.io/) | Visa and entry requirements for island nations with passport rules and travel restriction data | 🟡 API Key | ✅ | ✅ |
 | [REST Countries API](https://restcountries.com/) | Country data for island nations including currencies, languages, population, and geographic info | 🟢 No | ✅ | ✅⭐ |
 | [ExchangeRate-API](https://www.exchangerate-api.com/) | Currency conversion for 165 currencies covering island nation currencies for travel budgeting | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🦏 Ivory & Antique Trade Regulation APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [CITES Species+](https://www.speciesplus.net/) | Global database of CITES-listed species with trade regulations and appendix listings for 40,900+ species | 🟡 API Key | ✅ | ✅⭐ |
+| [CITES Checklist](https://checklist.cites.org/) | Official CITES checklist of species regulated under international wildlife trade agreements | 🟢 No | ✅ | ✅ |
+| [CITES Trade Database](https://trade.cites.org/) | Searchable database of international trade records in CITES-listed species since 1975 | 🟢 No | ✅ | ✅ |
+| [IUCN Red List API](https://api.iucnredlist.org/) | Conservation status data for species worldwide including habitat, population, and extinction risk | 🟡 API Key | ✅ | ✅⭐ |
+| [GBIF Species API](https://www.gbif.org/developer/species) | Global Biodiversity Information Facility species taxonomy and occurrence data for millions of species | 🟡 API Key | ✅ | ✅⭐ |
+| [ECOS FWS Data Services](https://ecos.fws.gov/ecp/services) | U.S. Fish & Wildlife Service REST API for endangered species data, critical habitat, and ESA listings | 🟢 No | ✅ | ✅ |
+| [LiveAuctioneers](https://www.liveauctioneers.com/auction-results) | Access 29 million+ antique and collectible auction results with historical pricing data since 1999 | 🟡 API Key | ✅ | ⚠️ |
+| [WorthPoint](https://www.worthpoint.com/data-partners) | Antiques and collectibles pricing database with nearly 2 decades of historical auction price data | 🟡 API Key | ✅ | ⚠️ |
+| [Invaluable Price Archive](https://www.invaluable.com/) | Fine art and antique auction price lookup from 15+ years of auction data across 50 collectible categories | 🟡 API Key | ✅ | ⚠️ |
+| [CBP ACE Trade API](https://www.cbp.gov/trade/automated) | U.S. Customs and Border Protection Automated Commercial Environment for import/export compliance | 🔴 OAuth | ✅ | ⚠️ |
+| [eBird API](https://documenter.getpostman.com/view/664302/S1ENwy59) | Cornell Lab bird observation database API with species sightings, useful for wildlife trade monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [Prices4Antiques](https://www.prices4antiques.com/search) | Searchable database of past auction prices for antiques and collectibles with 700,000+ item histories | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🍓 Jam & Preserve Making APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Spoonacular Food API](https://spoonacular.com/food-api) | 365,000+ recipes with nutrition data, ingredient substitutions, and meal planning for preserves and jams | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Recipe API](https://developer.edamam.com/edamam-recipe-api) | 2 million+ recipe search API with 28 macro/micronutrient breakdowns and diet label classification | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Nutrition API](https://developer.edamam.com/edamam-nutrition-api) | NLP-powered nutrition analysis from ingredient lists with detailed macro and micronutrient data | 🟡 API Key | ✅ | ✅⭐ |
+| [TheMealDB](https://www.themealdb.com/api.php) | Free open crowd-sourced recipe database with meal categories, ingredients, and step-by-step instructions | 🟡 API Key | ✅ | ✅ |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide/) | Official USDA nutrition database with 380,000+ foods, detailed nutrient profiles, and public domain data | 🟡 API Key | ✅ | ✅⭐ |
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Open-source food products database with ingredients, nutrition, and packaging data for millions of items | 🟢 No | ✅ | ✅⭐ |
+| [Nutritionix API](https://developer.nutritionix.com/) | 800,000+ branded and restaurant foods with detailed nutritional information for calorie tracking | 🟡 API Key | ✅ | ✅ |
+| [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Free drink recipe API with 636 drinks and 489 ingredients, adaptable for fruit preserve cocktails | 🟡 API Key | ✅ | ✅ |
+| [Calendarific API](https://calendarific.com/) | Global holiday and harvest season calendar for 230+ countries, useful for seasonal preserving schedules | 🟡 API Key | ✅ | ✅ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather and climate data for monitoring fruit growing conditions and harvest timing for preserves | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | High-quality free images API with food photography for jam and preserve recipe presentation | 🔴 OAuth | ✅ | ✅ |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api/) | 50+ years of historical weather data and 15-day forecasts for agricultural planning and fruit seasons | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## ⛩️ Japanese Garden & Zen Design APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Trefle Plants API](https://trefle.io/) | Botanical REST API with data on 400,000+ plant species including growth conditions and habitats | 🟡 API Key | ✅ | ✅⭐ |
+| [Perenual Plant API](https://perenual.com/) | Comprehensive plant API with care guides, growth stages, hardiness zones, images, and disease data | 🟡 API Key | ✅ | ✅⭐ |
+| [Pl@ntNet API](https://my.plantnet.org/) | AI-powered plant identification from images covering 77,748 species in 60 languages | 🟡 API Key | ✅ | ✅⭐ |
+| [Plant.id by Kindwise](https://www.kindwise.com/plant-id) | ML-based plant identification API covering 35,000+ species with health assessment and disease detection | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Real-time weather data for garden microclimate monitoring including humidity and precipitation | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-resolution photography including Japanese garden, zen, and landscape imagery | 🔴 OAuth | ✅ | ✅ |
+| [Mapbox API](https://docs.mapbox.com/api/) | Map visualization and terrain data for garden layout design and landscape architecture planning | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for Japanese gardens, botanical gardens, and zen centers worldwide with reviews and photos | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | 100M+ POI database for finding gardens, parks, and design studios across 200+ countries | 🟡 API Key | ✅ | ✅ |
+| [USDA Plants Database](https://plants.usda.gov/) | Standardized plant data for U.S. species including distribution, characteristics, and growing requirements | 🟢 No | ✅ | ✅ |
+| [FloraAPI](https://floraapi.com/) | Native plant species API for the US with 30,000+ plants, state and county-level distribution data | 🟡 API Key | ✅ | ✅ |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api/) | Historical weather and forecasts for garden planning with seasonal temperature and rainfall patterns | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🎷 Jazz & Blues Music APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API) | Open music encyclopedia REST API with comprehensive artist, release, recording, and label metadata | 🟢 No | ✅ | ✅⭐ |
+| [Discogs API](https://www.discogs.com/developers/) | 15M+ releases database with artist discographies, label info, and marketplace data for vinyl collectors | 🔴 OAuth | ✅ | ✅⭐ |
+| [Spotify Web API](https://developer.spotify.com/documentation/web-api) | Music streaming API for catalog search, artist data, album info, playlists, and audio features analysis | 🔴 OAuth | ✅ | ✅⭐ |
+| [Last.fm API](https://www.last.fm/api) | Music recommendation and scrobbling API with similar artist discovery and listening history data | 🟡 API Key | ✅ | ✅⭐ |
+| [TheAudioDB](https://www.theaudiodb.com/free_music_api) | Community music database with free API for artist bios, album art, track data, and music videos | 🟡 API Key | ✅ | ✅ |
+| [Genius API](https://docs.genius.com/) | Song lyrics, annotations, and interpretations API for exploring jazz and blues song meanings | 🔴 OAuth | ✅ | ✅ |
+| [Musixmatch API](https://developer.musixmatch.com/) | World's largest lyrics database with 14M+ lyrics in 50+ languages and track metadata matching | 🟡 API Key | ✅ | ✅ |
+| [Setlist.fm API](https://api.setlist.fm/) | Live concert setlist database with 6M+ past and upcoming concerts, venues, and tour data | 🟡 API Key | ✅ | ✅⭐ |
+| [Songkick API](https://www.songkick.com/developer) | Live music event discovery with upcoming concert data, venue details, and artist tour schedules | 🟡 API Key | ✅ | ✅ |
+| [Deezer API](https://developers.deezer.com/) | Music streaming platform API with catalog search, artist data, playlists, and track previews | 🔴 OAuth | ✅ | ✅ |
+| [Jamendo API](https://developer.jamendo.com/v3.0) | 500,000+ Creative Commons licensed tracks with music discovery, search, and radio streaming features | 🟡 API Key | ✅ | ✅⭐ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Millions of events including jazz and blues concerts, festivals, and club performances worldwide | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🚤 Jet Ski & Personal Watercraft APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NOAA Tides & Currents](https://api.tidesandcurrents.noaa.gov/api/prod/) | Real-time and predicted water levels, tides, currents, and wind data from NOAA coastal stations | 🟢 No | ✅ | ✅⭐ |
+| [Stormglass Marine Weather](https://stormglass.io/) | Global marine weather API with wave height, wind speed, water temperature, and tide predictions | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Current weather and forecasts including wind speed, visibility, and marine conditions for watercraft | 🟡 API Key | ✅ | ✅⭐ |
+| [WorldTides API](https://www.worldtides.info/apidocs) | Tidal prediction API combining satellite, gauge data, and harmonic analysis for 8,000+ locations | 🟡 API Key | ✅ | ✅ |
+| [MarineTraffic AIS API](https://servicedocs.marinetraffic.com/) | Real-time vessel tracking with AIS data, port calls, ship particulars, and maritime intelligence | 🟡 API Key | ✅ | ✅ |
+| [NHTSA vPIC API](https://vpic.nhtsa.dot.gov/api/) | Free VIN decoder for vehicles and watercraft with manufacturer data and safety information | 🟢 No | ✅ | ✅⭐ |
+| [Windy API](https://api.windy.com/) | Wind, temperature, and precipitation data with animated weather maps for 20+ parameters | 🟡 API Key | ✅ | ✅⭐ |
+| [ADMIRALTY Tidal API](https://www.admiralty.co.uk/access-data/apis) | UK Hydrographic Office tidal predictions for British Isles coastline from 600+ tidal stations | 🟡 API Key | ✅ | ✅ |
+| [Datalastic Maritime API](https://datalastic.com/) | Real-time AIS vessel tracking and maritime traffic data with historical vessel positions | 🟡 API Key | ✅ | ✅ |
+| [VesselFinder](https://www.vesselfinder.com/) | Free AIS vessel tracking showing real-time ship positions and marine traffic globally | 🟢 No | ✅ | ⚠️ |
+| [MyShipTracking API](https://api.myshiptracking.com/) | Vessel tracking API with current position, speed, course, and voyage data in JSON/XML format | 🟡 API Key | ✅ | ✅ |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api/) | 50+ years of historical weather data with marine forecasts for watercraft trip planning | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 💎 Jewelry & Gemstone Appraisal APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [GIA Report Results API](https://www.gia.edu/report-results-api) | Verify and download GIA diamond grading reports with cut, color, clarity, carat data and asset PDFs | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | High-quality free jewelry and gemstone photography for appraisal documentation and catalogs | 🔴 OAuth | ✅ | ✅ |
+| [OpenSea API](https://docs.opensea.io/) | NFT and digital collectibles marketplace API for tokenized jewelry certificates and provenance | 🟡 API Key | ✅ | ✅ |
+| [LiveAuctioneers](https://www.liveauctioneers.com/auction-results) | 29 million auction results for jewelry, fine art, and collectibles with historical price data | 🟡 API Key | ✅ | ⚠️ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for jewelers, appraisers, and gemstone dealers with ratings, reviews, and contact details | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Find jewelry stores, gem labs, and appraisal services from 100M+ global points of interest | 🟡 API Key | ✅ | ✅ |
+| [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/) | Forward and reverse geocoding for locating jewelry appraisers and gemstone dealers by address | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Find gem shows, jewelry exhibitions, and appraisal events using event search and discovery | 🔴 OAuth | ✅ | ✅ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Worldwide geocoding using open data for locating jewelry appraisal offices and gem laboratories | 🟡 API Key | ✅ | ✅ |
+| [Calendarific API](https://calendarific.com/) | Holiday calendar for scheduling appraisals around business days in 230+ countries | 🟡 API Key | ✅ | ✅ |
+| [PredictHQ Events API](https://docs.predicthq.com/) | Global real-world events data including gem shows, trade fairs, and jewelry industry conferences | 🔴 OAuth | ✅ | ✅ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Business search for jewelers and appraisers with detailed reviews, ratings, and operating hours | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🧩 Jigsaw Puzzle & Board Game APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Board Game Atlas API](https://www.boardgameatlas.com/api/docs) | Board game catalog with mechanics, player counts, playtime, review scores, and pricing data | 🟡 API Key | ✅ | ✅⭐ |
+| [BoardGameGeek API](https://bgg-json.azurewebsites.net/) | Board games, RPG, and videogames database with user collections, reviews, and top-rated rankings | 🟢 No | ✅ | ✅⭐ |
+| [Shadify API](https://shadify.dev/) | REST API for generating puzzles including Sudoku, word search, Takuzu, Minesweeper, and anagrams | 🟢 No | ✅ | ✅⭐ |
+| [PuzzleMe API](https://amuselabs.com/docs/api/) | Digital puzzle platform API for crossword, sudoku, word search, and jigsaw puzzle publishing | 🟡 API Key | ✅ | ✅ |
+| [Dosuku Sudoku API](https://sudoku-api.vercel.app/) | Free Sudoku puzzle generator and solver API that creates puzzles of varying difficulty levels | 🟢 No | ✅ | ✅⭐ |
+| [Razzle Puzzles API](https://api.razzlepuzzles.com/) | Free online puzzle generation API for printable puzzles including crosswords and word games | 🟢 No | ✅ | ✅ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Event discovery for board game conventions, puzzle competitions, and tabletop gaming events | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Search for board game meetups, puzzle competitions, and tabletop gaming events worldwide | 🔴 OAuth | ✅ | ✅ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-quality images of board games, puzzles, and tabletop gaming for app and web design | 🔴 OAuth | ✅ | ✅ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Find board game cafes, puzzle shops, and hobby stores with reviews and business details | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover game stores, hobby shops, and board game cafes from 100M+ global points of interest | 🟡 API Key | ✅ | ✅ |
+| [IPDb Puzzle Database](https://ipdb.plus/) | Collaborative jigsaw puzzle database where users catalog and manage puzzle collections | 🟢 No | ✅ | ⚠️ |
+
+---
+
+## ⚔️ Jousting & Medieval Reenactment APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Find medieval fairs, jousting tournaments, and renaissance festivals from millions of global events | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Search for reenactment events, medieval festivals, HEMA tournaments, and historical workshops | 🔴 OAuth | ✅ | ✅ |
+| [PredictHQ Events API](https://docs.predicthq.com/) | Real-world event intelligence with 18 categories covering festivals, fairs, and community events | 🔴 OAuth | ✅ | ✅ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Find castles, historical sites, medieval museums, and reenactment venues with reviews and photos | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover castles, historic sites, and medieval-themed venues from a 100M+ POI global database | 🟡 API Key | ✅ | ✅ |
+| [Mapbox API](https://docs.mapbox.com/api/) | Map visualization for plotting medieval sites, castle locations, and reenactment event routes | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather forecasts for planning outdoor jousting tournaments and medieval fair attendance | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-quality medieval, castle, and historical imagery for reenactment apps and websites | 🔴 OAuth | ✅ | ✅ |
+| [Calendarific API](https://calendarific.com/) | Global holiday and observance data for medieval-related celebrations and saint feast days | 🟡 API Key | ✅ | ✅ |
+| [NPS API](https://www.nps.gov/subjects/developer/api-documentation.htm) | U.S. National Park Service data for historical forts, battlefields, and heritage sites | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Worldwide geocoding for locating historical castles, forts, and reenactment venues by address | 🟡 API Key | ✅ | ✅ |
+| [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API) | Open music metadata for medieval and early music recordings, minstrel groups, and period instruments | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🥤 Juice Bar & Smoothie APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Spoonacular Food API](https://spoonacular.com/food-api) | 365,000+ recipes with smoothie and juice searches, nutrient analysis, and ingredient substitutions | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Recipe API](https://developer.edamam.com/edamam-recipe-api) | 2M+ recipe search with diet filters (vegan, paleo, keto) ideal for smoothie and juice recipes | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Nutrition API](https://developer.edamam.com/edamam-nutrition-api) | NLP-powered nutrition analysis returning 28 nutrients from any smoothie or juice ingredient list | 🟡 API Key | ✅ | ✅⭐ |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide/) | Official U.S. government nutrition database with 380,000+ foods for accurate juice ingredient data | 🟡 API Key | ✅ | ✅⭐ |
+| [Nutritionix API](https://developer.nutritionix.com/) | 800,000+ branded foods and restaurant items for tracking smoothie bar menu nutritional content | 🟡 API Key | ✅ | ✅ |
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Open-source database of packaged food products with ingredients and nutrition for bottled juices | 🟢 No | ✅ | ✅⭐ |
+| [TheCocktailDB](https://www.thecocktaildb.com/api.php) | Drink recipe database with 636 recipes including smoothie-style and juice-based beverages | 🟡 API Key | ✅ | ✅ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find juice bars and smoothie shops with ratings, reviews, photos, and operating hours | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for juice bars, smoothie shops, and health food stores worldwide with detailed business data | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover juice bars and health food venues with ratings, tips, and real-time popularity data | 🟡 API Key | ✅ | ✅ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-resolution fruit, smoothie, and juice photography for menu design and app interfaces | 🔴 OAuth | ✅ | ✅ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Worldwide geocoding to locate and map juice bar locations using open geographic data | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔧 Junkyard & Salvage APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NHTSA vPIC API](https://vpic.nhtsa.dot.gov/api/) | Free 24/7 VIN decoder with 25+ APIs for vehicle identification, specs, and manufacturer data | 🟢 No | ✅ | ✅⭐ |
+| [Car API](https://carapi.app/) | Developer-friendly vehicle database REST API with year, make, model, and trim data | 🟡 API Key | ✅ | ✅⭐ |
+| [API-Car Auto Parts](https://api-car.com/) | Database of auto parts by vehicle make and model for salvage yard inventory and part matching | 🟡 API Key | ✅ | ✅ |
+| [Vehicle Databases Auto Parts](https://vehicledatabases.com/auto-parts) | OEM car parts catalogs accessible by VIN with part names, numbers, and technical drawings | 🟡 API Key | ✅ | ✅ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for junkyards, salvage yards, auto dismantlers, and scrap dealers with reviews and locations | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find auto salvage yards and junkyards with customer reviews, ratings, and operating hours | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Locate scrapyards, auto wreckers, and salvage operations from 100M+ global POI database | 🟡 API Key | ✅ | ✅ |
+| [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/) | Forward and reverse geocoding for mapping junkyard and salvage yard locations | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Worldwide geocoding using open data for locating salvage yards and metal recycling facilities | 🟡 API Key | ✅ | ✅ |
+| [Open Brewery DB](https://www.openbrewerydb.org/) | Open-source business location model adaptable for salvage yard directory and location data patterns | 🟢 No | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather data for planning outdoor salvage yard visits and understanding rust/corrosion conditions | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-resolution images of vehicles, auto parts, and industrial salvage for app interfaces | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## ⚖️ Jury Duty & Court System APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [CourtListener API](https://free.law/projects/courtlistener/) | 9M+ legal opinions from 2,000+ courts with full-text search, judge data, and federal filings | 🟡 API Key | ✅ | ✅⭐ |
+| [PACER Case Locator API](https://pacer.uscourts.gov/file-case/developer-resources) | Federal court case index API for programmatic search of civil, criminal, and bankruptcy cases | 🟡 API Key | ✅ | ✅ |
+| [Caselaw Access Project API](https://case.law/about/) | Harvard Law School's free 6.7M case database spanning 360 years of U.S. legal history | 🟡 API Key | ✅ | ✅⭐ |
+| [MiCOURT Case Search API](https://developer.micourt.courts.michigan.gov/docs/case-search) | Michigan court case lookup API by case number or participant name with filtering capabilities | 🟡 API Key | ✅ | ✅ |
+| [UniCourt Legal Data API](https://unicourt.com/solutions/enterprise-api) | Enterprise API for court records, case analytics, and legal data from state and federal courts | 🟡 API Key | ✅ | ✅ |
+| [CNS Case Portal API](https://help.cnscaseportal.com/) | Federal court case search API returning structured data for civil lawsuits and bankruptcy cases | 🟡 API Key | ✅ | ✅ |
+| [Calendarific API](https://calendarific.com/) | Court holidays and government observance calendar for 230+ countries for scheduling compliance | 🟡 API Key | ✅ | ✅ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for courthouses, legal offices, and government buildings with addresses and operating hours | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Geocoding for locating courthouses and government buildings by address worldwide | 🟡 API Key | ✅ | ✅ |
+| [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/) | Map courthouse locations with forward and reverse geocoding and building-level precision | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Find courthouses, law offices, and government buildings from a 100M+ global POI database | 🟡 API Key | ✅ | ✅ |
+| [PredictHQ Events API](https://docs.predicthq.com/) | Track government events, public hearings, and civic activities that may affect court schedules | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🥋 Karate & Martial Arts APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for dojos, martial arts studios, and training centers with reviews, ratings, and photos | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find karate dojos and martial arts schools with detailed reviews, ratings, and business information | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover martial arts venues, gyms, and training centers from 100M+ global POI with check-in data | 🟡 API Key | ✅ | ✅ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Find martial arts tournaments, MMA fights, and combat sports events from millions of global events | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Search for martial arts workshops, seminars, belt testing events, and self-defense classes | 🔴 OAuth | ✅ | ✅ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-quality martial arts, karate, and combat sports photography for dojo apps and websites | 🔴 OAuth | ✅ | ✅ |
+| [Mapbox API](https://docs.mapbox.com/api/) | Map visualization for plotting dojo locations, tournament venues, and martial arts training routes | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Geocoding for locating dojos and martial arts facilities by address worldwide | 🟡 API Key | ✅ | ✅ |
+| [Nutritionix API](https://developer.nutritionix.com/) | Exercise and calorie tracking for martial arts training sessions and fitness management | 🟡 API Key | ✅ | ✅ |
+| [Spoonacular Food API](https://spoonacular.com/food-api) | Nutrition and meal planning API for martial arts athletes with diet-specific recipe searches | 🟡 API Key | ✅ | ✅⭐ |
+| [Calendarific API](https://calendarific.com/) | Global holiday calendar to schedule martial arts events and training around observances worldwide | 🟡 API Key | ✅ | ✅ |
+| [PredictHQ Events API](https://docs.predicthq.com/) | Real-world event data for martial arts competitions, exhibitions, and sports events globally | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🛶 Kayak & Canoe APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [RIDB API](https://ridb.recreation.gov/docs) | Federal recreation data for camping, water trails, boat launches, and paddling across U.S. public lands | 🟡 API Key | ✅ | ✅⭐ |
+| [NPS API](https://www.nps.gov/subjects/developer/api-documentation.htm) | National Park Service data for kayak trails, water access points, and park alerts in 400+ parks | 🟡 API Key | ✅ | ✅⭐ |
+| [NOAA Tides & Currents](https://api.tidesandcurrents.noaa.gov/api/prod/) | Real-time water levels, tidal predictions, and current data critical for safe paddling conditions | 🟢 No | ✅ | ✅⭐ |
+| [Stormglass Marine Weather](https://stormglass.io/) | Marine weather API with wave height, wind speed, water temperature, and tide data for paddlers | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather forecasts with wind, rain, and temperature data for planning kayak and canoe outings | 🟡 API Key | ✅ | ✅⭐ |
+| [WorldTides API](https://www.worldtides.info/apidocs) | Global tidal prediction API for coastal kayaking with data from 8,000+ locations worldwide | 🟡 API Key | ✅ | ✅ |
+| [Windy API](https://api.windy.com/) | Animated weather maps with wind, wave, and precipitation data for route planning on water | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox API](https://docs.mapbox.com/api/) | Map visualization with terrain and satellite imagery for plotting paddling routes and water trails | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for kayak rental shops, canoe outfitters, and boat launches with reviews and locations | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find kayak rental services, paddle shops, and outfitters with customer reviews and ratings | 🟡 API Key | ✅ | ✅⭐ |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api/) | Historical and forecast weather for analyzing seasonal paddling conditions and trip planning | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover boat launches, marinas, kayak rental spots, and waterfront venues worldwide | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🐕 Kennel & Dog Boarding APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Petfinder API](https://www.petfinder.com/developers/) | Hundreds of thousands of adoptable pets and shelter organizations with breed, location, and photo data | 🔴 OAuth | ✅ | ✅⭐ |
+| [RescueGroups API](https://rescuegroups.org/services/adoptable-pet-data-api/) | Live adoptable pet data with radius searches, breed filters, and shelter contact info since 2006 | 🟡 API Key | ✅ | ✅⭐ |
+| [TheDogAPI](https://thedogapi.com/) | Dog breed information API with 340+ breeds, 20 breed groups, images, and fun facts | 🟡 API Key | ✅ | ✅⭐ |
+| [Dog API](https://dog.ceo/dog-api/) | Free open-source dog image API with breed-specific random image generation and listing | 🟢 No | ✅ | ✅⭐ |
+| [Dog API by Kinduff](https://dogapi.dog/) | Dog breeds API with 340+ breeds, breed groups, and fun facts with JSON REST endpoints | 🟢 No | ✅ | ✅⭐ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for kennels, dog boarding, pet hotels, and veterinarians with reviews and operating hours | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find dog boarding facilities, kennels, and pet sitters with detailed reviews and ratings | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover pet boarding facilities, dog parks, and veterinary clinics from 100M+ global POI | 🟡 API Key | ✅ | ✅ |
+| [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/) | Geocoding for locating kennels and boarding facilities with map integration capabilities | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Open data geocoding for mapping pet boarding locations and kennel addresses worldwide | 🟡 API Key | ✅ | ✅ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather data for outdoor dog exercise planning and kennel facility climate management | 🟡 API Key | ✅ | ✅⭐ |
+| [Calendarific API](https://calendarific.com/) | Holiday calendar for pet boarding scheduling around peak travel seasons in 230+ countries | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🪁 Kite & Wind Sport APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Windy API](https://api.windy.com/) | Animated weather maps with wind, temperature, and precipitation for 20+ parameters worldwide | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Real-time wind speed, gusts, and direction data for kiteboarding and wind sport conditions | 🟡 API Key | ✅ | ✅⭐ |
+| [Stormglass Marine Weather](https://stormglass.io/) | Marine weather from multiple sources with wave height, wind data, and 10-day forecasts for kiters | 🟡 API Key | ✅ | ✅⭐ |
+| [Visual Crossing Weather](https://www.visualcrossing.com/weather-api/) | 50+ years of historical wind data and 15-day forecasts for kite sport location analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [Windfinder API](https://www.windfinder.com/about/windfinder-for-businesses.htm) | Wind forecasts, live reports, and statistics for 45,000+ locations tailored for wind sports | 🟡 API Key | ✅ | ✅ |
+| [Windguru Station API](https://stations.windguru.cz/json_api_stations.html) | Weather station data API with wind speed, direction, and gust measurements for kite spots | 🟡 API Key | ✅ | ✅ |
+| [NOAA Tides & Currents](https://api.tidesandcurrents.noaa.gov/api/prod/) | NOAA coastal wind observations and forecasts from national weather stations for beach kiting | 🟢 No | ✅ | ✅⭐ |
+| [WorldTides API](https://www.worldtides.info/apidocs) | Tidal data for 8,000+ coastal locations critical for kite launch timing and beach conditions | 🟡 API Key | ✅ | ✅ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for kite shops, wind sport schools, and beach locations with reviews and contact details | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox API](https://docs.mapbox.com/api/) | Map visualization with satellite imagery for spotting kite launch zones and wind sport beaches | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find kite shops, kiteboarding schools, and wind sport rental services with reviews and ratings | 🟡 API Key | ✅ | ✅⭐ |
+| [ADMIRALTY Tidal API](https://www.admiralty.co.uk/access-data/apis) | UK coastal tidal predictions from 600+ stations for kitesurfing in British and Irish waters | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧶 Knitting & Crochet APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ravelry API](https://www.ravelry.com/pro/developer) | Social knitting platform API with 300,000+ patterns, yarn data, designer info, and shop locations | 🟡 API Key | ✅ | ✅⭐ |
+| [Unsplash API](https://unsplash.com/developers) | Free high-quality images of yarn, knitting, crochet projects, and fiber arts for creative apps | 🔴 OAuth | ✅ | ✅ |
+| [Etsy Open API](https://developer.etsy.com/) | Marketplace API for handmade knitting and crochet items, patterns, yarn, and craft supplies | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview) | Search for yarn shops, knitting circles, and craft stores with reviews, photos, and business details | 🟡 API Key | ✅ | ✅⭐ |
+| [Yelp Fusion API](https://docs.developer.yelp.com/) | Find yarn stores, knitting groups, and fiber arts shops with customer reviews and ratings | 🟡 API Key | ✅ | ✅⭐ |
+| [Foursquare Places API](https://docs.foursquare.com/developer/reference/places-api-overview) | Discover yarn shops, craft stores, and fiber arts venues from 100M+ global points of interest | 🟡 API Key | ✅ | ✅ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Search for knitting workshops, crochet classes, fiber arts fairs, and yarn festival events | 🔴 OAuth | ✅ | ✅ |
+| [Calendarific API](https://calendarific.com/) | Worldwide holiday calendar for scheduling craft fairs and fiber arts events around observances | 🟡 API Key | ✅ | ✅ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Weather data for seasonal knitting project planning and outdoor craft fair scheduling | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox Geocoding API](https://docs.mapbox.com/api/search/geocoding/) | Geocoding for mapping yarn shops, craft stores, and knitting group meeting locations | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Worldwide open geocoding for locating knitting supply shops and fiber arts venues by address | 🟡 API Key | ✅ | ✅ |
+| [PredictHQ Events API](https://docs.predicthq.com/) | Real-world event intelligence for discovering craft fairs, fiber festivals, and knitting conventions | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🥘 Korean BBQ & Fermented Food APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Spoonacular](https://spoonacular.com/food-api/) | Recipe & food API with cuisine filters including Korean; 365K+ recipes with nutrition data | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Recipe Search](https://developer.edamam.com/edamam-recipe-api) | 2M+ recipe database with nutrition analysis; supports Korean cuisine and fermented food queries | 🟡 API Key | ✅ | ✅⭐ |
+| [TheMealDB](https://www.themealdb.com/api.php) | Free open recipe database and JSON API with international meals and ingredient lookup | 🟡 API Key | ✅ | ✅⭐ |
+| [Edamam Food Database](https://developer.edamam.com/food-database-api-docs) | Nutrition lookup for tens of thousands of foods including international fermented ingredients | 🟡 API Key | ✅ | ✅ |
+| [Nutritionix](https://developer.nutritionix.com/docs/v2) | Natural language food tracking API with 600K+ foods; restaurant and grocery nutrition data | 🟡 API Key | ✅ | ✅⭐ |
+| [FatSecret Platform](https://platform.fatsecret.com/platform-api) | Global food and nutrition database in 24 languages covering 56 countries; 1.9M+ verified foods | 🟡 API Key | ✅ | ✅ |
+| [Open Food Facts](https://world.openfoodfacts.org/data) | Collaborative open database of food products with ingredients, allergens, and nutrition facts | 🟢 No | ✅ | ✅⭐ |
+| [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide.html) | Official USDA food composition database API with detailed nutrient profiles for thousands of foods | 🟡 API Key | ✅ | ✅ |
+| [Tasty API](https://rapidapi.com/apidojo/api/tasty/) | Recipe database from Tasty/BuzzFeed with step-by-step instructions and video content | 🟡 API Key | ✅ | ✅ |
+| [Chomp Food Database](https://chompthis.com/api/) | Branded food and nutrition API with barcode lookup and detailed ingredient analysis | 🟡 API Key | ✅ | ✅ |
+| [Yummly](https://developer.yummly.com/) | Recipe search API with dietary and allergy filters, cuisine tagging, and meal planning support | 🟡 API Key | ✅ | ⚠️ |
+| [Cocktail DB](https://www.thecocktaildb.com/api.php) | Drink and cocktail recipe database API; complements food APIs for fermented beverages like makgeolli | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🥍 Lacrosse & Field Sport APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sportradar](https://developer.sportradar.com/) | Premium sports data API covering dozens of sports with play-by-play, stats, and odds | 🟡 API Key | ✅ | ✅⭐ |
+| [SportsDataIO](https://sportsdata.io/developers) | Enterprise-class sports data platform with unlimited API calls for scores, odds, and projections | 🟡 API Key | ✅ | ✅⭐ |
+| [API-Sports](https://api-sports.io/) | RESTful sports data API covering 2,000+ competitions with 15+ years of historical data | 🟡 API Key | ✅ | ✅⭐ |
+| [TheSportsDB](https://www.thesportsdb.com/free_sports_api) | Free community-built sports data API with team, player, and event information across many sports | 🟡 API Key | ✅ | ✅ |
+| [MySportsFeeds](https://www.mysportsfeeds.com/) | Affordable live sports data feed API with multiple delivery options; free for personal use | 🟡 API Key | ✅ | ✅ |
+| [Genius Sports](https://www.geniussports.com/engage/official-sports-data-api/) | Official data partner of NFL and NCAA; serves 400+ leagues with real-time and historical stats | 🟡 API Key | ✅ | ⚠️ |
+| [Data Sports Group](https://datasportsgroup.com/products-api/) | Sports data API covering 80+ different sports globally with XML and JSON feeds | 🟡 API Key | ✅ | ✅ |
+| [Enetpulse](https://enetpulse.com/sports-data-api/) | Live sports data API with pre-match and in-play data for fixtures, results, and standings | 🟡 API Key | ✅ | ✅ |
+| [Scoreholio](https://scoreholio.com/) | Tournament bracket and scoring platform for recreational sports including bocce and cornhole | 🟡 API Key | ✅ | ⚠️ |
+| [Sportsipy](https://sportsreference.readthedocs.io/en/stable/) | Free open-source Python API for pulling sports reference stats for multiple leagues | 🟢 No | ✅ | ✅ |
+| [PLL Stats](https://stats.premierlacrosseleague.com/) | Official Premier Lacrosse League statistics portal with player and team performance data | 🟢 No | ✅ | ⚠️ |
+| [Stattleship](https://developers.stattleship.com/) | Sports data API with player stats, game logs, and team data for professional North American leagues | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔥 Lampworking & Glass Bead Art APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for handmade and craft items; manage listings, orders, and inventory for glass art | 🔴 OAuth | ✅ | ✅⭐ |
+| [Shopify Storefront API](https://shopify.dev/docs/api/storefront/latest) | Build custom storefronts for craft supply shops; product search, cart, and checkout | 🟡 API Key | ✅ | ✅⭐ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | Full ecommerce API for product management, orders, and inventory in craft supply stores | 🟡 API Key | ✅ | ✅⭐ |
+| [Pinterest API](https://developers.pinterest.com/) | Access pins and boards for glass art inspiration; visual search for lampworking designs | 🔴 OAuth | ✅ | ✅ |
+| [YouTube Data API](https://developers.google.com/youtube/v3) | Search and display lampworking tutorial videos; manage playlists for glass art education | 🟡 API Key | ✅ | ✅⭐ |
+| [Instructables API](https://www.instructables.com/) | Access maker and craft tutorials including glass bead making how-to guides | 🟢 No | ✅ | ⚠️ |
+| [eBay Browse API](https://developer.ebay.com/api-docs/buy/browse/overview.html) | Search and retrieve listings for glass art supplies, beads, and lampworking equipment | 🔴 OAuth | ✅ | ✅ |
+| [Amazon Product Advertising API](https://webservices.amazon.com/paapi5/documentation/) | Product search and details for lampworking tools, glass rods, and kiln supplies | 🟡 API Key | ✅ | ✅ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing for glass art studios and online craft supply stores | 🟡 API Key | ✅ | ✅⭐ |
+| [Shippo](https://docs.goshippo.com/) | Multi-carrier shipping API for fulfilling glass art and bead supply orders safely | 🟡 API Key | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/) | Print-on-demand and fulfillment API for custom glass art merchandise and branding | 🟡 API Key | ✅ | ✅ |
+| [Square API](https://developer.squareup.com/) | Point-of-sale and ecommerce API for glass art studios; payments, inventory, and invoicing | 🔴 OAuth | ✅ | ✅⭐ |
+
+---
+
+## 📐 Land Surveying & Topography APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [USGS Elevation Point Query (EPQS)](https://epqs.nationalmap.gov/v1/docs) | Returns interpolated elevations from 3DEP dynamic elevation service including 1m lidar DEMs | 🟢 No | ✅ | ✅⭐ |
+| [OpenTopography](https://opentopography.org/developers) | API access to USGS 3DEP rasters, SRTM, ALOS, and Copernicus global elevation datasets | 🟡 API Key | ✅ | ✅⭐ |
+| [ArcGIS Elevation Service](https://developers.arcgis.com/rest/elevation/) | Esri elevation API returning topobathy values for single or multiple locations seamlessly | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox Tilequery (Terrain)](https://docs.mapbox.com/data/tilesets/reference/mapbox-terrain-v2/) | Vector and raster terrain tilesets with elevation contours, hillshades, and landcover data | 🟡 API Key | ✅ | ✅⭐ |
+| [Open-Meteo Elevation API](https://open-meteo.com/en/docs/elevation-api) | Free elevation API based on Copernicus DEM GLO-90 with 90m resolution; no API key needed | 🟢 No | ✅ | ✅⭐ |
+| [Open-Elevation](https://open-elevation.com/) | Free open-source alternative to Google Elevation API with worldwide coverage | 🟢 No | ✅ | ✅ |
+| [Open Topo Data](https://www.opentopodata.org/) | Self-hostable elevation API with free public instance; supports multiple DEM datasets | 🟢 No | ✅ | ✅⭐ |
+| [GPXZ Elevation API](https://www.gpxz.io/) | High-quality elevation data merging ocean depth, land elevation, and hi-res lidar datasets | 🟡 API Key | ✅ | ✅ |
+| [Copernicus Data Space](https://dataspace.copernicus.eu/analyse/apis) | Access Copernicus satellite data including GLO-30 and GLO-90 digital elevation models | 🟡 API Key | ✅ | ✅ |
+| [Meteomatics Topography API](https://www.meteomatics.com/en/api/available-parameters/topography-and-land-usage/) | Topography and land usage data including elevation, slope, and aspect for any location | 🟡 API Key | ✅ | ✅ |
+| [DEM-Net Elevation API](https://elevationapi.com/) | Generate 3D terrain models and elevation profiles from multiple DEM sources worldwide | 🟢 No | ✅ | ✅ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Forward and reverse geocoding using open data; useful for converting survey coordinates | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🗑️ Landfill & Waste Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Waste Management API](https://api.wm.com/) | Official WM API for balance due, contract details, invoice history, and pickup status data | 🟡 API Key | ✅ | ✅⭐ |
+| [EPA Envirofacts API](https://www.epa.gov/enviro/envirofacts-data-service-api) | RESTful access to EPA environmental data tables including waste facilities and TRI data | 🟢 No | ✅ | ✅⭐ |
+| [EPA I-WASTE API](https://iwaste.epa.gov/developers) | Treatment and disposal facility location data for hazardous waste management planning | 🟡 API Key | ✅ | ✅ |
+| [EPA ECHO Web Services](https://echo.epa.gov/tools/web-services) | Enforcement and compliance data for 1M+ regulated facilities; REST services in JSON/XML | 🟢 No | ✅ | ✅⭐ |
+| [SmartWaste API](https://bregroup.com/products/smartwaste/solutions/integration-with-smartwaste-api) | BRE Group waste management portal integration for tracking construction and demolition waste | 🟡 API Key | ✅ | ✅ |
+| [UK Waste Services API](https://communitiesuk.github.io/waste-service-standards/apis/waste_services.html) | Standard API for local council waste and recycling service data in the UK | 🟢 No | ✅ | ✅ |
+| [OpenAQ](https://docs.openaq.org/) | World's largest open air quality database; real-time and historical PM2.5, PM10, and pollutant data | 🟡 API Key | ✅ | ✅⭐ |
+| [IQAir AirVisual API](https://api-docs.iqair.com/) | Real-time air quality data from 30,000+ sensors worldwide for environmental monitoring | 🟡 API Key | ✅ | ✅ |
+| [EPA CTX APIs](https://www.epa.gov/comptox-tools/computational-toxicology-and-exposure-apis) | Computational toxicology and chemical exposure data for hazardous substance analysis | 🟡 API Key | ✅ | ✅ |
+| [EPA TRI (via Envirofacts)](https://www.epa.gov/enviro/tri-overview) | Toxics Release Inventory data for 800+ chemicals from reporting facilities since 1987 | 🟢 No | ✅ | ✅ |
+| [Tookan Delivery API](https://tookanapi.docs.apiary.io/) | Delivery management and dispatch API for scheduling waste collection and route optimization | 🟡 API Key | ✅ | ✅ |
+| [Sendcloud Shipping API](https://www.sendcloud.com/shipping-api/) | Shipping and logistics API connecting to 160+ carriers for waste equipment delivery management | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## ⚙️ Laser Cutting & CNC Machining APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Xometry Developer API](https://developer.xometry.com/docs/getting-started) | Real-time instant quoting, DFM analysis, and ordering for CNC, 3D printing, and sheet metal | 🟡 API Key | ✅ | ✅⭐ |
+| [Sculpteo API](https://www.sculpteo.com/en/developer/webapi/) | Automate 3D printing and manufacturing workflows; upload files, get instant quotes, track orders | 🟡 API Key | ✅ | ✅⭐ |
+| [DigiFabster API](https://digifabster.com/products/custom-workflow/) | Manufacturing quoting automation for 3D printing, laser cutting, CNC, and sheet metal | 🟡 API Key | ✅ | ✅ |
+| [Ponoko Personal Factory API](https://www.ponoko.com/blog/ponoko/apps-for-creating-custom-products-ponoko-releases-personal-factory-api-version-2/) | Laser cutting API for file checking, fabrication quotes, and custom part ordering | 🟡 API Key | ✅ | ✅ |
+| [SeekMake API](https://seekmake.com/developers-portal/api-docs) | World's largest manufacturing network API for 3D printing, laser cutting, and CNC services | 🟡 API Key | ✅ | ✅ |
+| [Autodesk Fusion API](https://aps.autodesk.com/developer/overview/autodesk-fusion-api) | Cloud-based CAD/CAM automation API for CNC programming and manufacturing workflows | 🔴 OAuth | ✅ | ✅⭐ |
+| [Autodesk Platform Services](https://aps.autodesk.com/) | Design automation, model viewing, and data management APIs for manufacturing applications | 🔴 OAuth | ✅ | ✅ |
+| [OnShape API](https://onshape-public.github.io/docs/) | Cloud CAD platform REST API for parametric 3D modeling with full design automation | 🔴 OAuth | ✅ | ✅⭐ |
+| [Opencascade (OCCT)](https://dev.opencascade.org/) | Open-source 3D CAD kernel SDK for building custom CAD/CAM applications | 🟢 No | ✅ | ⚠️ |
+| [GrabCAD API](https://grabcad.com/community) | Access 3D CAD model library with millions of community-contributed designs for manufacturing | 🟡 API Key | ✅ | ⚠️ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing for CNC machining shops; invoicing, subscriptions, and order payments | 🟡 API Key | ✅ | ✅⭐ |
+| [Shippo](https://docs.goshippo.com/) | Multi-carrier shipping API for fulfilling manufactured parts with tracking and label creation | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 👔 Laundromat & Dry Cleaning APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [CleanCloud API](https://cleancloudapp.com/api) | Dry cleaning and laundry software API for customer, order management, and real-time tracking | 🟡 API Key | ✅ | ✅⭐ |
+| [Tookan API](https://tookanapi.docs.apiary.io/) | Delivery management and dispatch system API for laundry pickup and drop-off scheduling | 🟡 API Key | ✅ | ✅⭐ |
+| [Starchup](https://starchup.com/) | Laundry and dry cleaning POS system with delivery management apps and customer ordering | 🟡 API Key | ✅ | ✅ |
+| [Zoho Creator](https://www.zoho.com/creator/apps/laundry-management-software.html) | Low-code platform with free laundry management app template and REST API access | 🟡 API Key | ✅ | ✅ |
+| [Square API](https://developer.squareup.com/) | POS, payments, and invoicing API for laundromats and dry cleaners; loyalty and gift cards | 🔴 OAuth | ✅ | ✅⭐ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing with recurring billing for laundry subscription services and memberships | 🟡 API Key | ✅ | ✅⭐ |
+| [Shippo](https://docs.goshippo.com/) | Shipping and tracking API for laundry delivery services; multi-carrier label generation | 🟡 API Key | ✅ | ✅⭐ |
+| [Twilio API](https://www.twilio.com/docs/usage/api) | SMS and messaging API for sending laundry order updates, pickup reminders, and notifications | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Maps Platform](https://developers.google.com/maps) | Geolocation, directions, and distance matrix APIs for laundry pickup/delivery route planning | 🟡 API Key | ✅ | ✅⭐ |
+| [Jobber API](https://apitracker.io/a/jobber) | Field service management API for scheduling, dispatching, and invoicing laundry services | 🔴 OAuth | ✅ | ✅ |
+| [QuickBooks API](https://developer.intuit.com/app/developer/qbo/docs/get-started) | Accounting API for laundry business bookkeeping; invoicing, expenses, and financial reporting | 🔴 OAuth | ✅ | ✅ |
+| [Xero API](https://developer.xero.com/documentation/api/accounting/overview) | Cloud accounting API for managing laundromat finances, payroll, and automated invoicing | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🎳 Lawn Bowling & Bocce APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sportradar](https://developer.sportradar.com/) | Premium sports data API covering dozens of sports with live scoring and historical statistics | 🟡 API Key | ✅ | ✅⭐ |
+| [API-Sports](https://api-sports.io/) | RESTful sports data for 2,000+ competitions; extensible to recreational and club sports | 🟡 API Key | ✅ | ✅⭐ |
+| [TheSportsDB](https://www.thesportsdb.com/free_sports_api) | Open community sports database with teams, players, and events for niche and mainstream sports | 🟡 API Key | ✅ | ✅ |
+| [Scoreholio](https://scoreholio.com/) | Tournament bracket and scoring app for recreational sports; supports multiple game formats | 🟡 API Key | ✅ | ✅ |
+| [Google Maps Platform](https://developers.google.com/maps) | Find nearby lawn bowling greens and bocce courts; directions and place details API | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Current and forecast weather API for planning outdoor lawn bowling and bocce matches | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management and ticketing API for organizing lawn bowling tournaments and meetups | 🟡 API Key | ✅ | ✅ |
+| [Meetup API](https://www.meetup.com/api/) | Discover and manage local lawn bowling and bocce group events and memberships | 🔴 OAuth | ✅ | ✅ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing for league fees, tournament entries, and club memberships | 🟡 API Key | ✅ | ✅⭐ |
+| [LeaguePals](https://www.leaguepals.com/) | League management software for organizing standings, schedules, and player statistics | 🟡 API Key | ✅ | ⚠️ |
+| [Foursquare Places API](https://developer.foursquare.com/) | Venue search and discovery for finding bocce courts and lawn bowling clubs worldwide | 🟡 API Key | ✅ | ✅ |
+| [YouTube Data API](https://developers.google.com/youtube/v3) | Search and embed lawn bowling and bocce instructional videos and tournament highlights | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## ☣️ Lead Abatement & Environmental Remediation APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [EPA Envirofacts API](https://www.epa.gov/enviro/envirofacts-data-service-api) | RESTful access to EPA environmental databases including facility compliance and hazardous waste | 🟢 No | ✅ | ✅⭐ |
+| [EPA ECHO Web Services](https://echo.epa.gov/tools/web-services) | Enforcement and compliance history for 1M+ facilities; Clean Air, Water, and RCRA data | 🟢 No | ✅ | ✅⭐ |
+| [EPA CTX APIs](https://www.epa.gov/comptox-tools/computational-toxicology-and-exposure-apis) | Computational toxicology API for hazardous substance data; free API key available | 🟡 API Key | ✅ | ✅⭐ |
+| [EPA SEMS (Superfund)](https://www.epa.gov/enviro/sems-overview) | Superfund Enterprise Management System data for contaminated site assessment and remediation | 🟢 No | ✅ | ✅ |
+| [EPA TRI (via Envirofacts)](https://www.epa.gov/enviro/tri-overview) | Toxics Release Inventory tracking 800+ chemicals from industrial facilities since 1987 | 🟢 No | ✅ | ✅ |
+| [OpenAQ](https://docs.openaq.org/) | Global open air quality data from reference-grade monitors and low-cost sensors | 🟡 API Key | ✅ | ✅⭐ |
+| [IQAir AirVisual API](https://api-docs.iqair.com/) | Real-time air quality and pollution data from 30,000+ stations with forecast capabilities | 🟡 API Key | ✅ | ✅ |
+| [USGS Water Services](https://waterservices.usgs.gov/) | Real-time and historical water quality data including lead and contaminant measurements | 🟢 No | ✅ | ✅⭐ |
+| [EPA I-WASTE API](https://iwaste.epa.gov/developers) | Interactive waste management decision support for treatment and disposal facility location | 🟡 API Key | ✅ | ✅ |
+| [ATSDR Substance Priority List](https://www.atsdr.cdc.gov/programs/substance-priority-list.html) | Agency for Toxic Substances priority rankings for hazardous substances at Superfund sites | 🟢 No | ✅ | ⚠️ |
+| [Google Maps Platform](https://developers.google.com/maps) | Geocoding and mapping APIs for locating remediation sites and planning abatement projects | 🟡 API Key | ✅ | ✅⭐ |
+| [Data.gov Open Data](https://catalog.data.gov/) | Federal open data catalog with datasets on Superfund sites, lead exposure, and EPA enforcement | 🟢 No | ✅ | ✅ |
+
+---
+
+## 🐄 Leather Crafting & Tanning APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for handmade leather goods; listing management, orders, and shop analytics | 🔴 OAuth | ✅ | ✅⭐ |
+| [Shopify Storefront API](https://shopify.dev/docs/api/storefront/latest) | Build custom leather goods storefronts with product search, cart, and checkout functionality | 🟡 API Key | ✅ | ✅⭐ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | Full ecommerce API for leather supply shops; products, orders, inventory, and customers | 🟡 API Key | ✅ | ✅⭐ |
+| [eBay Browse API](https://developer.ebay.com/api-docs/buy/browse/overview.html) | Search and retrieve leather crafting tool and supply listings from the eBay marketplace | 🔴 OAuth | ✅ | ✅ |
+| [Amazon Product Advertising API](https://webservices.amazon.com/paapi5/documentation/) | Product search for leather tools, hides, dyes, and tanning supplies with affiliate links | 🟡 API Key | ✅ | ✅ |
+| [Pinterest API](https://developers.pinterest.com/) | Visual discovery API for leather crafting patterns, designs, and project inspiration | 🔴 OAuth | ✅ | ✅ |
+| [YouTube Data API](https://developers.google.com/youtube/v3) | Search and embed leather crafting tutorials, tanning techniques, and tooling demonstrations | 🟡 API Key | ✅ | ✅⭐ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing for leather workshops and online supply stores; recurring billing support | 🟡 API Key | ✅ | ✅⭐ |
+| [Square API](https://developer.squareup.com/) | POS and ecommerce API for leather craft studios; inventory management and loyalty programs | 🔴 OAuth | ✅ | ✅⭐ |
+| [Shippo](https://docs.goshippo.com/) | Multi-carrier shipping API for fulfilling leather goods orders with tracking and insurance | 🟡 API Key | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/) | Print-on-demand fulfillment for custom leather brand merchandise and product mockups | 🟡 API Key | ✅ | ✅ |
+| [Sendcloud API](https://www.sendcloud.com/shipping-api/) | European shipping automation connecting to 160+ carriers for leather goods delivery | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧱 Lego & Brick Building APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Rebrickable API](https://rebrickable.com/api/) | Comprehensive LEGO database API for sets, parts, colors, and minifigs with inventory data | 🟡 API Key | ✅ | ✅⭐ |
+| [BrickLink API](https://www.bricklink.com/v2/api/welcome.page) | World's largest LEGO marketplace API for inventory management, orders, and pricing data | 🔴 OAuth | ✅ | ✅⭐ |
+| [Brickset API v3](https://brickset.com/article/52664/api-version-3-documentation) | LEGO set database API with themes, years, piece counts, and collection management in JSON | 🟡 API Key | ✅ | ✅⭐ |
+| [Brick Owl API](https://www.brickowl.com/api_docs) | LEGO marketplace API for inventory synchronization, catalog access, and order management | 🟡 API Key | ✅ | ✅ |
+| [Rebrickable Downloads](https://rebrickable.com/downloads/) | Daily-updated CSV database downloads of every official LEGO set, part, color, and inventory | 🟢 No | ✅ | ✅ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for custom LEGO creations, MOC instructions, and brick-built art | 🔴 OAuth | ✅ | ✅ |
+| [YouTube Data API](https://developers.google.com/youtube/v3) | Search and embed LEGO building tutorials, reviews, and MOC showcase videos | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify Storefront API](https://shopify.dev/docs/api/storefront/latest) | Build custom storefronts for LEGO resellers and custom brick businesses | 🟡 API Key | ✅ | ✅⭐ |
+| [Stripe API](https://stripe.com/docs/api) | Payment processing for LEGO stores, MOC instruction sales, and subscription boxes | 🟡 API Key | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/) | Print-on-demand for custom LEGO-themed merchandise, posters, and apparel | 🟡 API Key | ✅ | ✅ |
+| [GoBricks API](https://github.com/mnemocron/GoBricksPart-API) | Conversion table and API for GoBricks vs LEGO part ID numbers using backend API | 🟢 No | ✅ | ⚠️ |
+| [LEGO Database (Kaggle)](https://www.kaggle.com/datasets/rtatman/lego-database) | Downloadable relational database of LEGO sets, parts, and colors for data analysis | 🟢 No | ✅ | ✅ |
+
+---
+
+## 🍋 Lemon & Citrus Farming APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [USDA NASS QuickStats API](https://quickstats.nass.usda.gov/api) | Official USDA agricultural statistics API with citrus crop data; production, yield, and acreage | 🟡 API Key | ✅ | ✅⭐ |
+| [USDA ERS Data APIs](https://www.ers.usda.gov/developer/data-apis) | Economic Research Service APIs for food prices, farm income, and agricultural commodity data | 🟡 API Key | ✅ | ✅⭐ |
+| [FAOSTAT](https://www.fao.org/faostat/) | UN FAO global food and agriculture statistics for 245+ countries; crop production since 1961 | 🟢 No | ✅ | ✅ |
+| [Agromonitoring API](https://agromonitoring.com/api) | Satellite imagery, NDVI vegetation indices, and weather data for crop monitoring | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap](https://openweathermap.org/api) | Current weather, forecasts, and historical data critical for citrus frost protection planning | 🟡 API Key | ✅ | ✅⭐ |
+| [Open-Meteo](https://open-meteo.com/) | Free weather and climate API with hourly soil temperature and moisture for orchard management | 🟢 No | ✅ | ✅⭐ |
+| [Agrio Agriculture API](https://agrio.app/Agriculture-API/) | Crop disease identification and pest management recommendations powered by AI | 🟡 API Key | ✅ | ✅ |
+| [Farmonaut API](https://farmonaut.com/farmonaut-satellite-weather-api-developer-docs) | Satellite-based crop health monitoring with weather data for precision farming | 🟡 API Key | ✅ | ✅ |
+| [USGS Water Services](https://waterservices.usgs.gov/) | Real-time streamflow and water quality data for irrigation management in citrus groves | 🟢 No | ✅ | ✅⭐ |
+| [Copernicus Data Space](https://dataspace.copernicus.eu/analyse/apis) | Sentinel satellite data and APIs for agricultural land monitoring and vegetation analysis | 🟡 API Key | ✅ | ✅ |
+| [EOS Data Analytics Agriculture API](https://eos.com/agriculture-api/) | Satellite crop monitoring API with soil moisture, weather, and vegetation indices for orchards | 🟡 API Key | ✅ | ✅ |
+| [Mapbox](https://docs.mapbox.com/) | Mapping and terrain APIs for visualizing farm plots, irrigation systems, and field boundaries | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 📚 Library & Book Lending APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Open Library API](https://openlibrary.org/developers/api) | Comprehensive book data API with search, works, editions, covers, authors, and lending data | 🟢 No | ✅ | ✅⭐ |
+| [Google Books API](https://developers.google.com/books) | Search and retrieve book info, viewability, eBook availability; supports ISBN lookup | 🟡 API Key | ✅ | ✅⭐ |
+| [ISBNdb API](https://isbndb.com/api-documentation) | World's largest book database with 107M+ titles; 19 data points per book including ISBN lookup | 🟡 API Key | ✅ | ✅⭐ |
+| [OverDrive API](https://developer.overdrive.com/) | Digital library ebook and audiobook lending API with search, availability, and metadata | 🟡 API Key | ✅ | ✅ |
+| [OCLC WorldCat Search API](https://www.oclc.org/developer/api/oclc-apis/worldcat-search-api.en.html) | Search WorldCat global union catalog; find which libraries hold copies of specific items | 🟡 API Key | ✅ | ✅ |
+| [LibraryThing API](https://www.librarything.com/services/webservices.php) | Book cataloging API with Talpa Search for finding books; REST interface returning JSON or XML | 🟡 API Key | ✅ | ⚠️ |
+| [Hardcover API](https://docs.hardcover.app/api/getting-started/) | Modern GraphQL book API as Goodreads alternative; ratings, reviews, genres, and reading lists | 🟡 API Key | ✅ | ✅⭐ |
+| [Open Library Search API](https://openlibrary.org/dev/docs/api/search) | Full-text search across Open Library's book database with faceted filtering by author and year | 🟢 No | ✅ | ✅⭐ |
+| [Open Library Covers API](https://openlibrary.org/dev/docs/api/covers) | Fetch book cover images by ISBN, OCLC, or Open Library ID in small, medium, or large sizes | 🟢 No | ✅ | ✅ |
+| [Internet Archive API](https://archive.org/developers/) | Access digitized books, lending library, and public domain texts from the Internet Archive | 🟢 No | ✅ | ✅ |
+| [CrossRef API](https://api.crossref.org/) | Scholarly metadata API with DOI lookup for academic books, journals, and citations | 🟢 No | ✅ | ✅⭐ |
+| [OpenAlex API](https://docs.openalex.org/) | Free open catalog of scholarly works, authors, and institutions replacing Microsoft Academic | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## 🗼 Lighthouse & Maritime Heritage APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NOAA CO-OPS Data API](https://api.tidesandcurrents.noaa.gov/api/prod/) | Tides, currents, water levels, and meteorological observations from NOAA coastal stations | 🟢 No | ✅ | ✅⭐ |
+| [NOAA CO-OPS Metadata API](https://api.tidesandcurrents.noaa.gov/mdapi/prod/) | Station metadata for NOAA's tide and current monitoring stations along US coasts | 🟢 No | ✅ | ✅⭐ |
+| [MarineTraffic API](https://servicedocs.marinetraffic.com/) | AIS vessel tracking with port calls, ship data, and maritime intelligence from global stations | 🟡 API Key | ✅ | ✅⭐ |
+| [VesselFinder API](https://api.vesselfinder.com/docs/) | Real-time AIS ship positions, voyage data, and vessel particulars in JSON or XML | 🟡 API Key | ✅ | ✅ |
+| [US Lighthouses Interactive Map](https://www.lighthouses.app/) | Database of 59,000+ active US Coast Guard lighthouses and navigational aids with light data | 🟢 No | ✅ | ⚠️ |
+| [NOAA nowCOAST](https://nowcoast.noaa.gov/) | Real-time coastal weather, ocean, and maritime observation data via GIS web services | 🟢 No | ✅ | ✅ |
+| [AISHub](https://www.aishub.net/) | Free AIS data sharing service with real-time ship positions via JSON and XML feeds | 🟡 API Key | ✅ | ✅ |
+| [Searoutes Vessel API](https://searoutes.com/vessel-api/) | Maritime route calculations and vessel tracking with satellite and terrestrial AIS data | 🟡 API Key | ✅ | ✅ |
+| [Datalastic Maritime API](https://datalastic.com/) | Vessel tracking and ship database API with port calls, routes, and maritime intelligence | 🟡 API Key | ✅ | ✅ |
+| [OpenCage Geocoding](https://opencagedata.com/api) | Forward and reverse geocoding for converting lighthouse coordinates to place names | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapbox](https://docs.mapbox.com/) | Mapping and navigation APIs for visualizing lighthouse locations on interactive maritime maps | 🟡 API Key | ✅ | ✅⭐ |
+| [NOAA AccessAIS](https://coast.noaa.gov/digitalcoast/tools/ais.html) | Historical US vessel traffic data for marine spatial planning and maritime heritage research | 🟢 No | ✅ | ⚠️ |
+
+---
+
+## 🚙 Limousine & Chauffeur Service APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Blacklane API](https://www.blacklane.com/en/business-integrations/) | Global chauffeur service API with GDS integration; real-time pricing and booking in 50+ countries | 🟡 API Key | ✅ | ✅⭐ |
+| [Karhoo Mobility API](https://developer.karhoo.com/) | Mobility marketplace API and SDK for booking taxis and chauffeur services; trip management | 🟡 API Key | ✅ | ✅⭐ |
+| [Mozio API](https://www.mozio.com/business-partners) | Ground transportation aggregator API connecting airlines and OTAs with transfer providers in 180 countries | 🟡 API Key | ✅ | ✅⭐ |
+| [Limo Anywhere API](https://limoanywhere.docs.apiary.io/) | Leading limo software API for reservation management, dispatch, billing, and driver tracking | 🟡 API Key | ✅ | ✅ |
+| [BookALimo API](https://www.bookalimo.com/developer-api/) | REST API for pricing, booking, and managing luxury ground transportation reservations | 🟡 API Key | ✅ | ✅ |
+| [DotTransfers API](https://developer.dottransfers.com/) | Global limo and transfer booking API with fixed rates in 350+ cities across 60+ countries | 🟡 API Key | ✅ | ✅ |
+| [FASTTRAK Partner API](https://developer.ifasttrak.com/) | Livery management API for reservations, customers, and corporate profiles via JSON REST | 🟡 API Key | ✅ | ✅ |
+| [LimoExpress API](https://limoexpress.app/faq/integrations-and-api-access) | Chauffeur management API for custom booking, dispatch, and SMS/email alert integration | 🟡 API Key | ✅ | ✅ |
+| [Limos4 API](https://www.limos4.com/integrations) | Global ground transportation API with GNet, Karhoo, and SummitQuest integration in 200+ cities | 🟡 API Key | ✅ | ✅ |
+| [GNet (GRiDD)](https://gnet.grdd.net/) | Open transportation network API connecting 4,800+ ground transportation companies worldwide | 🟡 API Key | ✅ | ✅ |
+| [Uber Ride Request API](https://developer.uber.com/products/ride-requests) | Ride-hailing API for integrating Uber black car and premium services into applications | 🔴 OAuth | ✅ | ✅⭐ |
+| [Tookan API](https://tookanapi.docs.apiary.io/) | On-demand delivery and dispatch management for scheduling chauffeur pickups and tracking | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🛏️ Linen & Textile Rental APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [CleanCloud API](https://cleancloudapp.com/api) | Laundry and linen service management API for orders, customers, and delivery tracking | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify Storefront API](https://shopify.dev/docs/api/storefront/latest) | Build online rental storefronts for linen and textile services with full ecommerce support | 🟡 API Key | ✅ | ✅⭐ |
+| [Square API](https://developer.squareup.com/) | POS, invoicing, and subscription billing API for linen rental service management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Stripe API](https://stripe.com/docs/api) | Recurring billing, invoicing, and payment processing for textile rental subscription models | 🟡 API Key | ✅ | ✅⭐ |
+| [QuickBooks API](https://developer.intuit.com/app/developer/qbo/docs/get-started) | Accounting API for linen rental businesses; invoicing, expense tracking, and financial reports | 🔴 OAuth | ✅ | ✅ |
+| [Xero API](https://developer.xero.com/documentation/api/accounting/overview) | Cloud accounting API for managing textile rental company finances and automated billing | 🔴 OAuth | ✅ | ✅ |
+| [Tookan API](https://tookanapi.docs.apiary.io/) | Delivery dispatch and route optimization API for scheduling linen pickup and delivery | 🟡 API Key | ✅ | ✅⭐ |
+| [Shippo](https://docs.goshippo.com/) | Multi-carrier shipping and tracking for textile rental fulfillment and distribution | 🟡 API Key | ✅ | ✅⭐ |
+| [Fleetio API](https://developer.fleetio.com/) | Fleet management API for delivery vehicles; maintenance logs, fuel tracking, and vehicle data | 🟡 API Key | ✅ | ✅ |
+| [Sendcloud API](https://www.sendcloud.com/shipping-api/) | European shipping automation for linen rental deliveries across 160+ carriers | 🟡 API Key | ✅ | ✅ |
+| [Twilio API](https://www.twilio.com/docs/usage/api) | SMS and messaging API for linen delivery notifications, pickup reminders, and service alerts | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Maps Platform](https://developers.google.com/maps) | Route optimization and geocoding APIs for planning efficient linen delivery and pickup routes | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🖨️ Lithography & Printmaking APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Rijksmuseum API](https://data.rijksmuseum.nl/) | Access 800K+ objects including prints & lithographs from the Rijksmuseum collection via search and OAI-PMH APIs | 🟡 API Key | ✅ | ✅⭐ |
+| [Metropolitan Museum of Art API](https://metmuseum.github.io/) | RESTful API with 470K+ artworks including prints and lithographs, CC0 licensed with high-res images | 🟢 No | ✅ | ✅⭐ |
+| [Art Institute of Chicago API](https://api.artic.edu/docs/) | Unified public API for the AIC collection data including prints, drawings, and lithographic works; no key needed | 🟢 No | ✅ | ✅⭐ |
+| [Harvard Art Museums API](https://harvardartmuseums.org/collections/api) | REST API with access to objects, people, exhibitions and publications from Harvard's diverse art collections | 🟡 API Key | ✅ | ✅⭐ |
+| [Cooper Hewitt Smithsonian API](https://collection.cooperhewitt.org/api/) | REST API for 215K+ design objects including prints and graphic arts from the Smithsonian Design Museum | 🔴 OAuth | ✅ | ✅ |
+| [Victoria & Albert Museum API](https://developers.vam.ac.uk/) | RESTful access to 1M+ collection records including prints and half a million images with IIIF support | 🟢 No | ✅ | ✅⭐ |
+| [Europeana API](https://apis.europeana.eu/) | Access 50M+ cultural heritage items including prints, drawings and lithographs from 3000+ European institutions | 🟡 API Key | ✅ | ✅⭐ |
+| [Artsy API](https://developers.artsy.net/) | Public API providing access to images of historic artwork and related information for educational and non-commercial use | 🟡 API Key | ✅ | ✅ |
+| [IIIF Image API](https://iiif.io/api/) | Open standard for delivering high-quality digital images from museums and libraries; used by major print collections worldwide | 🟢 No | ✅ | ✅⭐ |
+| [ArtPI](https://www.artpi.co/) | AI-powered art API trained on 1M+ artworks for visual search, style discovery, and collection indexing including prints | 🟡 API Key | ✅ | ✅ |
+| [Printful API](https://developers.printful.com/docs/) | RESTful API for custom print-on-demand products including art prints, posters and canvas; submit orders and generate mockups | 🟡 API Key | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | REST API for the Etsy marketplace with listing management, search, and product data for handmade prints and art | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🐂 Livestock Auction & Trading APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [USDA MyMarketNews API](https://mymarketnews.ams.usda.gov/mymarketnews-api) | Pull raw USDA market news data for livestock auctions including cattle, hogs, sheep and goat prices | 🟢 No | ✅ | ✅⭐ |
+| [USDA LMPR API](https://mpr.datamart.ams.usda.gov/) | Livestock Mandatory Price Reporting API with unrestricted access to JSON-formatted cattle and livestock market data | 🟢 No | ✅ | ✅⭐ |
+| [CME Group Market Data API](https://www.cmegroup.com/market-data/market-data-api.html) | Real-time and historical futures/options data for Live Cattle, Feeder Cattle, and Lean Hogs contracts via WebSocket | 🟡 API Key | ✅ | ✅ |
+| [USDA ARMS Data API](https://www.ers.usda.gov/developer/data-apis/arms-data-api) | Agricultural Resource Management Survey data API covering farm financial and crop/livestock production data | 🟡 API Key | ✅ | ✅ |
+| [FAOSTAT API](https://github.com/FAOSTAT/faostat-api) | Programmatic access to global food and agriculture statistics for 245+ countries including livestock production and trade | 🟢 No | ✅ | ✅⭐ |
+| [Commodities-API](https://commodities-api.com/) | Real-time and historical commodity prices with 60-second frequency and 2-decimal precision for livestock futures | 🟡 API Key | ✅ | ✅⭐ |
+| [FRED API](https://fred.stlouisfed.org/docs/api/fred/) | Federal Reserve Economic Data API with livestock price indices, producer prices, and agricultural economic indicators | 🟡 API Key | ✅ | ✅⭐ |
+| [FarmersBid API](https://www.farmersbid.com/en/features-software) | Livestock auction platform with API connectivity for integrating bidding systems with existing farm management software | 🟡 API Key | ✅ | ✅ |
+| [DVAuction](https://www.dvauction.com/) | Premier real-time broadcast platform for cattle and livestock auctions with live and timed event data | 🟡 API Key | ✅ | ⚠️ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management API useful for livestock auction event discovery, registration and attendee management | 🔴 OAuth | ✅ | ✅ |
+| [Samsara Fleet API](https://developers.samsara.com/) | REST API for fleet management, GPS tracking, and logistics used by livestock haulers and auction yards | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API used by livestock supply companies for product catalogs, orders and inventory management | 🔴 OAuth | ✅ | ✅⭐ |
+
+---
+
+## 🦙 Llama & Alpaca Farming APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [USDA ARMS Data API](https://www.ers.usda.gov/developer/data-apis/arms-data-api) | Agricultural Resource Management Survey API with farm financial and production data applicable to specialty livestock | 🟡 API Key | ✅ | ✅ |
+| [FAOSTAT API](https://github.com/FAOSTAT/faostat-api) | Global agriculture statistics for 245+ countries covering livestock production, trade, and commodity prices | 🟢 No | ✅ | ✅⭐ |
+| [OpenFarm API](https://github.com/openfarmcc/OpenFarm) | Free open-source farming and gardening knowledge database with RESTful API for growing guides and care instructions | 🟢 No | ✅ | ✅⭐ |
+| [Perenual Plant API](https://perenual.com/) | Botanical database API with 10K+ plant species data including pasture and forage plants for livestock feed | 🟡 API Key | ✅ | ✅⭐ |
+| [Trefle Plant API](https://trefle.io/) | Open-source botanical REST API for plant species data, useful for identifying forage plants and feed crops | 🟡 API Key | ✅ | ✅ |
+| [USDA MyMarketNews API](https://mymarketnews.ams.usda.gov/mymarketnews-api) | Market news data for specialty livestock including camelids with auction prices and market reports | 🟢 No | ✅ | ✅⭐ |
+| [Ravelry API](https://www.ravelry.com/pro/developer) | Fiber arts platform API with yarn data including alpaca fiber types, ratings, texture, and fiber content | 🟡 API Key | ✅ | ✅ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for searching and listing alpaca fiber products, yarns, and farm goods | 🔴 OAuth | ✅ | ✅ |
+| [Pl@ntNet API](https://my.plantnet.org/) | Plant identification API using image recognition to identify 30K+ plant species for pasture management | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for animal identification, livestock monitoring, and farm management applications | 🟡 API Key | ✅ | ✅⭐ |
+| [Garmin Connect API](https://developer.garmin.com/gc-developer-program/) | Activity and health data API useful for outdoor farming work tracking, GPS trail mapping, and terrain data | 🔴 OAuth | ✅ | ✅ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for mapping farm properties, pasture assessment, and rural land analysis | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔑 Locksmith & Security Hardware APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Seam API](https://docs.seam.co/) | Universal smart lock API supporting August, Yale, Schlage, Nuki, Kwikset and more; lock/unlock and access code management | 🟡 API Key | ✅ | ✅⭐ |
+| [Nuki Developer API](https://developer.nuki.io/) | REST API for managing Nuki Smart Locks, Smart Doors and Openers remotely with OAuth 2.0 authentication | 🔴 OAuth | ✅ | ✅⭐ |
+| [Tuya Smart Lock API](https://developer.tuya.com/en/docs/cloud/smart-door-lock) | Cloud-based smart lock API with Wi-Fi, Bluetooth, and Zigbee lock management, password and access control | 🟡 API Key | ✅ | ✅⭐ |
+| [TTLock Open Platform API](https://euopen.ttlock.com/) | Global smart lock solution API with cloud-based lock management, digital key distribution and access logs | 🟡 API Key | ✅ | ✅ |
+| [Allegion Developer API](https://developer.allegion.com/) | Schlage Home API and mobile credentials for Schlage Encode WiFi locks with OAuth authorization | 🔴 OAuth | ✅ | ✅ |
+| [RemoteLock API](https://developer.remotelock.com/api/docs) | RESTful API managing hundreds of smart lock models for vacation rental, multifamily and commercial access control | 🔴 OAuth | ✅ | ✅ |
+| [Kisi Access Control API](https://api.kisi.io/docs) | JSON-based API for managing organization users, locks, and access rights with 30+ resource types | 🟡 API Key | ✅ | ✅⭐ |
+| [SmartThings API](https://developer.smartthings.com/docs/api/public) | Samsung smart home platform API connecting 500K+ door locks from Yale, Schlage, U-tec, Aqara, and Nuki | 🔴 OAuth | ✅ | ✅ |
+| [August / Yale Developer API](https://developer.august.com/) | Official developer portal for August and Yale smart lock integration and control | 🔴 OAuth | ✅ | ⚠️ |
+| [Digital Keys API](https://www.digitalkeys.io/) | 5G IoT smart lock API for secure access control systems, digital key management, and access scheduling | 🟡 API Key | ✅ | ✅ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for security applications including key identification and lock hardware classification | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI platform for image recognition in security hardware identification and inventory management | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🪵 Log Cabin & Timber Construction APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Procore API](https://developers.procore.com/) | Construction project management API with 400+ integrations for managing building projects, RFIs, and submittals | 🔴 OAuth | ✅ | ✅⭐ |
+| [Autodesk Platform Services API](https://forge.autodesk.com/developer/documentation) | BIM 360 and construction cloud APIs for 3D model viewing, design automation and building project management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Trimble Connect API](https://developer.trimble.com/) | Cloud collaboration API for construction with BIM integration, project data management and 3D model access | 🟡 API Key | ✅ | ✅ |
+| [SketchUp Developer API](https://developer.sketchup.com/) | Extension development APIs for 3D modeling used extensively in timber frame and log cabin design | 🟡 API Key | ✅ | ✅ |
+| [Commodities-API](https://commodities-api.com/) | Real-time commodity prices including Random Length Lumber Futures with 60-second update frequency | 🟡 API Key | ✅ | ✅⭐ |
+| [FRED API](https://fred.stlouisfed.org/docs/api/fred/) | Federal Reserve Economic Data API with lumber and wood products price indices dating back to 1926 | 🟡 API Key | ✅ | ✅⭐ |
+| [Global Forest Watch API](https://data-api.globalforestwatch.org/) | Global forest monitoring data API with deforestation alerts, land use data, and geospatial forest analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [USDA FIA API](https://www.fia.fs.usda.gov/tools-data/index.php) | Forest Inventory and Analysis data with timber volume, species composition, and forest health statistics | 🟢 No | ✅ | ✅ |
+| [Timbeter API](https://timbeter.com/) | AI-powered log measurement and counting API using image processing for timber volume estimation and tracking | 🟡 API Key | ✅ | ✅ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API used by log cabin kit suppliers and timber product companies for online sales management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image classification for wood species identification, defect detection, and construction quality assessment | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for site surveys, rural land assessment and construction site documentation | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏃 Long-Distance Running & Marathon APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Strava API](https://developers.strava.com/) | Comprehensive fitness API with running activities, GPS tracks, segments, and athlete data; 200 req/15min limit | 🔴 OAuth | ✅ | ✅⭐ |
+| [RunSignup API](https://runsignup.com/API) | Open race management API for race creation, registration, results posting, and participant data management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Garmin Connect API](https://developer.garmin.com/gc-developer-program/) | Activity, health, training, and courses APIs providing detailed running data from Garmin wearable devices | 🔴 OAuth | ✅ | ✅⭐ |
+| [Fitbit Web API](https://dev.fitbit.com/build/reference/web-api/) | REST API for fitness tracker data including running activities, heart rate, steps, distance and GPS data | 🔴 OAuth | ✅ | ✅ |
+| [Polar AccessLink API](https://www.polar.com/accesslink-api/) | Open API for accessing Polar Flow exercise data including running metrics, heart rate, and training load | 🔴 OAuth | ✅ | ✅ |
+| [Suunto API](https://apizone.suunto.com/) | Developer API for workout data from Suunto sports watches including GPS tracks, heart rate, and lap data | 🟡 API Key | ✅ | ✅ |
+| [TrainingPeaks API](https://help.trainingpeaks.com/hc/en-us/articles/234441128-TrainingPeaks-API) | Approved developer API for athlete profile, workout data, and training plan management for endurance sports | 🔴 OAuth | ✅ | ⚠️ |
+| [RTRT.me](https://rtrt.me/) | Real-time race tracking platform with live push notifications, scoring, results hosting, and interactive course maps | 🟡 API Key | ✅ | ✅ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/) | Event search API for discovering marathon and running events with location, date, and availability filters | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management API for marathon event discovery, registration management, and attendee tracking | 🔴 OAuth | ✅ | ✅ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for mapping race courses, route visualization, and course documentation | 🟡 API Key | ✅ | ✅ |
+| [COROS API](https://support.coros.com/hc/en-us/articles/17085887816340) | Running watch data API with heart rate, VO2 max, pace, cadence, elevation and GPS data via webhooks | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 📦 Lost & Found APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Found Hero API](https://docs.joinfoundhero.com/) | REST API for building lost and found solutions with item logging, categorization, shipping via FedEx and Stripe | 🟡 API Key | ✅ | ✅⭐ |
+| [Deliverback API](https://deliverback.com/developers/docs/) | Hotel lost-and-found API with AI-powered item classification, multi-property management, and automated guest notifications | 🟡 API Key | ✅ | ✅⭐ |
+| [LostAndFound.com API](https://lostandfound.com/developers) | Platform API with mobile venue pages, transit organization feeds, and lost-and-found management for businesses | 🟡 API Key | ✅ | ✅ |
+| [Chargerback](https://www.chargerback.com/) | Cloud-based lost and found software with AI image recognition, PCI compliance, and patent-protected technology | 🟡 API Key | ✅ | ⚠️ |
+| [Faundit](https://faundit.com/) | Hotel lost and found software used by 200+ hotels with property management system integration and shipment tracking | 🟡 API Key | ✅ | ⚠️ |
+| [SITA BagJourney API](https://www.developer.aero/api-catalog/bag-journey-overview) | Real-time baggage tracking API for airlines and airports with end-to-end bag journey status monitoring | 🟡 API Key | ✅ | ✅ |
+| [SITA WorldTracer](https://www.sita.aero/worldtracer) | Industry-standard lost baggage tracing platform used by 500+ airlines and 2,800 airports worldwide | 🟡 API Key | ✅ | ⚠️ |
+| [NetTracer](https://nettracer.aero/) | SaaS solution for airline mishandled baggage management with self-service portals and system integrations | 🟡 API Key | ✅ | ⚠️ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for automatic item classification and matching in lost-and-found applications | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for item identification, categorization, and matching in lost property management systems | 🟡 API Key | ✅ | ✅ |
+| [Nyckel Classification API](https://www.nyckel.com/) | Custom image classification API for categorizing found items by type, material, brand, and condition | 🟡 API Key | ✅ | ✅ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API for building lost item return shipping and payment processing workflows | 🔴 OAuth | ✅ | ✅⭐ |
+
+---
+
+## 🎰 Lottery & Sweepstakes APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Lottery Results API](https://www.lotteryresultsapi.com/en/) | Free lottery results API covering 8+ lotteries in Europe, France, and US with Swagger documentation | 🟢 No | ✅ | ✅⭐ |
+| [magayo Lottery API](https://www.magayo.com/lottery-feeds/lottery-data-api/) | Comprehensive lottery API covering 1,000+ games worldwide with draw results, jackpots, and game info in JSON/XML | 🟡 API Key | ✅ | ✅⭐ |
+| [Downtack US Lotteries API](https://downtack.com/en/us-lottery-api.html) | US lottery data for all states including Puerto Rico and USVI with historical results, widgets, and XML feeds | 🟡 API Key | ✅ | ✅ |
+| [CollectAPI Lottery API](https://collectapi.com/api/chancegame/lottery-api) | Lottery API for querying latest winning numbers across multiple lottery games | 🟡 API Key | ✅ | ✅ |
+| [Powerball API on RapidAPI](https://rapidapi.com/avoratechnology/api/powerball) | Dedicated Powerball lottery results API with current and historical winning numbers | 🟡 API Key | ✅ | ✅ |
+| [NY Open Data Lottery API](https://data.ny.gov/developers) | New York State open data SODA API providing Powerball winning numbers from 2010 onwards | 🟢 No | ✅ | ✅⭐ |
+| [LotteryData.io](https://www.lotterydata.io/) | Real-time lottery APIs for Powerball, MegaMillions, EuroMillions with free tier at 50 requests/month | 🟡 API Key | ✅ | ✅ |
+| [APIVerve Lottery Numbers API](https://docs.apiverve.com/ref/lottery) | Lottery API supporting Powerball, Mega Millions, EuroMillions with historical data and free credits on signup | 🟡 API Key | ✅ | ✅ |
+| [LotteryFeed.com](https://lotteryfeed.com/) | Worldwide lottery results feed in JSON, XML, CSV and HTML formats with stats and frequency analysis | 🟡 API Key | ✅ | ✅ |
+| [Fun Generators Lottery API](https://fungenerators.com/api/lottery/) | Random lottery number generator API for multiple lottery formats and game configurations | 🟡 API Key | ✅ | ✅ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management API for sweepstakes event creation, registration, and winner management workflows | 🔴 OAuth | ✅ | ✅ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/) | Event search API for discovering sweepstakes and promotional events by location, date, and category | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🧳 Luggage & Travel Gear APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Duffel API](https://duffel.com/) | Travel API with built-in baggage management components for searching flights and adding ancillary luggage services | 🟡 API Key | ✅ | ✅⭐ |
+| [Amadeus Travel API](https://developers.amadeus.com/) | Self-service travel API with ancillary services including seat selection, baggage fees, and flight booking | 🟡 API Key | ✅ | ✅⭐ |
+| [SITA BagJourney API](https://www.developer.aero/api-catalog/bag-journey-overview) | Global baggage tracking API for real-time status of checked bags from check-in to arrival | 🟡 API Key | ✅ | ✅ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API powering luggage retailers with product catalog, inventory, and order management | 🔴 OAuth | ✅ | ✅⭐ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | Open-source e-commerce API for managing luggage and travel gear product catalogs, orders, and customers | 🟡 API Key | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for handmade and vintage travel accessories including leather luggage tags and organizers | 🔴 OAuth | ✅ | ✅ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for luggage identification, brand detection, and product image categorization | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for apparel and product recognition applicable to luggage and travel gear image classification | 🟡 API Key | ✅ | ✅ |
+| [Printful API](https://developers.printful.com/docs/) | Print-on-demand API for custom travel accessories including bags, pouches, and branded travel gear | 🟡 API Key | ✅ | ✅⭐ |
+| [SITA WorldTracer](https://www.sita.aero/worldtracer) | Industry-standard baggage tracing system used by 500+ airlines for mishandled luggage management | 🟡 API Key | ✅ | ⚠️ |
+| [Samsara Fleet API](https://developers.samsara.com/) | Fleet and logistics API for tracking luggage shipments, delivery vehicles, and warehouse operations | 🟡 API Key | ✅ | ✅⭐ |
+| [Found Hero API](https://docs.joinfoundhero.com/) | Lost luggage recovery API with shipping integration for reuniting travelers with misplaced baggage | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🌲 Lumber & Forestry APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Global Forest Watch API](https://data-api.globalforestwatch.org/) | Real-time forest monitoring data API with deforestation alerts, land use analysis, and geospatial data | 🟡 API Key | ✅ | ✅⭐ |
+| [USDA FIA DataMart](https://www.fia.fs.usda.gov/tools-data/index.php) | Forest Inventory and Analysis data with timber volume, species composition, biomass, and harvest statistics | 🟢 No | ✅ | ✅ |
+| [FRED API](https://fred.stlouisfed.org/docs/api/fred/) | Federal Reserve Economic Data with 139 lumber and wood product price series dating from 1926 | 🟡 API Key | ✅ | ✅⭐ |
+| [Commodities-API](https://commodities-api.com/) | Real-time lumber futures prices from 15+ data sources with 60-second frequency and REST endpoints | 🟡 API Key | ✅ | ✅⭐ |
+| [FAOSTAT API](https://github.com/FAOSTAT/faostat-api) | Global forestry statistics for 245+ countries covering roundwood, sawnwood, and forest product trade data | 🟢 No | ✅ | ✅⭐ |
+| [Timbeter API](https://timbeter.com/) | AI-powered log measurement, counting, and volume estimation API using image processing and machine learning | 🟡 API Key | ✅ | ✅ |
+| [Dryad Silvanet API](https://docs.dryad.app/) | IoT forest monitoring system with ultra-early wildfire detection sensors, deployed in multiple countries | 🟡 API Key | ✅ | ✅ |
+| [CME Group API](https://www.cmegroup.com/market-data/market-data-api.html) | Lumber futures and options market data with real-time streaming and historical commodity prices | 🟡 API Key | ✅ | ✅ |
+| [Samsara Fleet API](https://developers.samsara.com/) | Fleet management API for logging truck GPS tracking, driver management, and timber hauling logistics | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for forest road mapping, logging site documentation, and land survey support | 🟡 API Key | ✅ | ✅ |
+| [Pl@ntNet API](https://my.plantnet.org/) | Plant identification API identifying 30K+ species from photos; useful for tree species identification | 🟡 API Key | ✅ | ✅⭐ |
+| [Perenual Plant API](https://perenual.com/) | Botanical database API with 10K+ species including hardiness zones, growth data, and tree characteristics | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## ⌚ Luxury Watch & Horology APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [WatchCharts API](https://watchcharts.com/api) | REST API with trusted watch market data for 27K+ watches; pricing starts at $5K/year with Professional membership | 🟡 API Key | ✅ | ✅⭐ |
+| [WatchSignals API](https://api.watchsignals.com/) | REST API with luxury watch market data including serial numbers, appraisal data, and price history in JSON | 🟡 API Key | ✅ | ✅⭐ |
+| [WatchBase DataFeed API](https://datafeed.watchbase.com/) | Watch specifications API for 280+ brands with case size, movement details, and reference data in XML/JSON | 🟡 API Key | ✅ | ✅ |
+| [theWatchAPI](https://www.thewatchapi.com/) | Free watch data and price API covering 200+ brands with model references, production years, and movement info | 🟢 No | ✅ | ✅⭐ |
+| [WatchAnalytics API](https://watchanalytics.io/en-eur/api) | Historical market prices and data extraction for thousands of luxury watches via subscription API | 🟡 API Key | ✅ | ✅ |
+| [Chrono24 Listing API](https://apify.com/alania/chrono24-watch-scraper/api) | Watch listing data from the world's largest watch marketplace with price, brand, condition, and location | 🟡 API Key | ✅ | ✅ |
+| [Watch Database API on RapidAPI](https://rapidapi.com/makingdatameaningful/api/watch-database1) | Watch specifications database API with brand, model, reference number, and technical details | 🟡 API Key | ✅ | ✅ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for vintage and handmade watch listings, accessories, and horological tools | 🔴 OAuth | ✅ | ✅ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API used by luxury watch retailers for product management, inventory, and secure transactions | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition for watch authentication, brand identification, and condition assessment | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for luxury watch image classification, brand detection, and counterfeit identification | 🟡 API Key | ✅ | ✅ |
+| [Commodities-API](https://commodities-api.com/) | Real-time precious metals prices (gold, platinum) relevant to luxury watch materials and valuation | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🪢 Macrame & Fiber Art APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ravelry API](https://www.ravelry.com/pro/developer) | Fiber arts platform API for 9M+ users with pattern data, yarn databases, ratings, fiber content, and shop info | 🟡 API Key | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for macrame supplies, fiber art patterns, handmade items, and craft materials | 🔴 OAuth | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/docs/) | Print-on-demand API for custom fiber art merchandise including wall art prints and home decor products | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API for fiber art supply shops with product catalog, inventory, and order management | 🔴 OAuth | ✅ | ✅⭐ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | Open-source e-commerce API for managing macrame supply stores with products, orders, and customers | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition for fiber art pattern identification, material classification, and style matching | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for textile and fiber art image classification, material identification, and design categorization | 🟡 API Key | ✅ | ✅ |
+| [Nyckel Classification API](https://www.nyckel.com/) | Custom image classification for fiber types, knot patterns, and macrame style identification | 🟡 API Key | ✅ | ✅ |
+| [Victoria & Albert Museum API](https://developers.vam.ac.uk/) | Museum collection API with textile arts, fiber works, and historical macrame pieces in the V&A collection | 🟢 No | ✅ | ✅⭐ |
+| [Cooper Hewitt Smithsonian API](https://collection.cooperhewitt.org/api/) | Design museum API with textile and fiber art objects from the Smithsonian's design collection | 🔴 OAuth | ✅ | ✅ |
+| [Art Institute of Chicago API](https://api.artic.edu/docs/) | Public API with textile arts collection data including fiber works, tapestries, and decorative arts | 🟢 No | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management API for macrame workshops, fiber art classes, and craft fair event discovery | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🎩 Magic & Illusion Performance APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/) | Event search API for finding magic shows, illusionist performances, and entertainment events worldwide | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event management API for magic show event creation, ticket sales, and audience management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Scryfall API](https://scryfall.com/docs/api) | Comprehensive Magic: The Gathering card database API with full-text search, images, and card data | 🟢 No | ✅ | ✅⭐ |
+| [MTG API](https://docs.magicthegathering.io/) | Magic: The Gathering REST API for card data, sets, formats, and game mechanics | 🟢 No | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for magic props, illusion supplies, custom magic apparatus, and performance costumes | 🔴 OAuth | ✅ | ✅ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API used by magic shops and prop suppliers for product catalog and order management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition for card trick identification, prop cataloging, and visual effect analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for performance analysis, audience engagement tracking, and magic prop identification | 🟡 API Key | ✅ | ✅ |
+| [Strava API](https://developers.strava.com/) | Activity tracking API applicable to street performance routes, busker location mapping, and event logging | 🔴 OAuth | ✅ | ✅ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for scouting performance venues, busking locations, and theater exteriors | 🟡 API Key | ✅ | ✅ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | E-commerce API for online magic shops with trick tutorials, prop sales, and subscription management | 🟡 API Key | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/docs/) | Print-on-demand API for custom magician merchandise including branded playing cards and show posters | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧲 Magnetic Levitation & Maglev APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [FRED API](https://fred.stlouisfed.org/docs/api/fred/) | Economic data API with transportation infrastructure investment data and commodity prices relevant to maglev | 🟡 API Key | ✅ | ✅⭐ |
+| [Amadeus Travel API](https://developers.amadeus.com/) | Travel API for transportation mode comparison and booking, relevant to high-speed rail alternatives | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for maglev system inspection, infrastructure monitoring, and component analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery for mapping maglev routes, infrastructure surveys, and station documentation | 🟡 API Key | ✅ | ✅ |
+| [Autodesk Platform Services API](https://forge.autodesk.com/developer/documentation) | BIM and 3D modeling API for maglev system design, station architecture, and infrastructure engineering | 🔴 OAuth | ✅ | ✅ |
+| [Trimble Connect API](https://developer.trimble.com/) | Construction collaboration API for maglev infrastructure projects with BIM integration and geospatial data | 🟡 API Key | ✅ | ✅ |
+| [Procore API](https://developers.procore.com/) | Construction project management API applicable to maglev transit infrastructure development projects | 🔴 OAuth | ✅ | ✅⭐ |
+| [Opentrons API](https://docs.opentrons.com/) | Laboratory robotics Python API for magnetic levitation experiments and precision positioning research | 🟢 No | ✅ | ✅ |
+| [Samsara Fleet API](https://developers.samsara.com/) | Fleet management API for tracking vehicles and assets along maglev construction corridors | 🟡 API Key | ✅ | ✅⭐ |
+| [FAOSTAT API](https://github.com/FAOSTAT/faostat-api) | Agricultural data API providing transportation and logistics statistics for rail freight comparisons | 🟢 No | ✅ | ✅ |
+| [Commodities-API](https://commodities-api.com/) | Real-time commodity prices for rare earth metals and materials used in maglev superconductor systems | 🟡 API Key | ✅ | ✅⭐ |
+| [Duffel API](https://duffel.com/) | Travel booking API for multimodal journey planning combining maglev rail with air and ground transport | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 🥭 Mango & Tropical Fruit APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [FAOSTAT API](https://github.com/FAOSTAT/faostat-api) | Global tropical fruit production and trade statistics for 245+ countries including mango, pineapple, papaya | 🟢 No | ✅ | ✅⭐ |
+| [Perenual Plant API](https://perenual.com/) | Botanical database with 10K+ species including tropical fruit trees with growth data and hardiness zones | 🟡 API Key | ✅ | ✅⭐ |
+| [Trefle Plant API](https://trefle.io/) | Open-source botanical REST API for querying tropical fruit plant species data and growing conditions | 🟡 API Key | ✅ | ✅ |
+| [Pl@ntNet API](https://my.plantnet.org/) | Plant identification API using photos to identify 30K+ species including tropical fruit varieties | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenFarm API](https://github.com/openfarmcc/OpenFarm) | Open-source growing guide database with tropical fruit cultivation information under CC BY 4.0 license | 🟢 No | ✅ | ✅⭐ |
+| [USDA ARMS Data API](https://www.ers.usda.gov/developer/data-apis/arms-data-api) | Agricultural economics data covering tropical fruit farming financials and production costs | 🟡 API Key | ✅ | ✅ |
+| [Commodities-API](https://commodities-api.com/) | Real-time commodity pricing including tropical agricultural products from 15+ reliable data sources | 🟡 API Key | ✅ | ✅⭐ |
+| [FRED API](https://fred.stlouisfed.org/docs/api/fred/) | Producer price indices for fruits and agricultural commodities with historical data series | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Image recognition API for fruit ripeness detection, variety classification, and quality assessment | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify API](https://shopify.dev/docs/api) | E-commerce API for tropical fruit sellers with product management, subscriptions, and shipping | 🔴 OAuth | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for artisanal tropical fruit products, dried mango, preserves, and specialty foods | 🔴 OAuth | ✅ | ✅ |
+| [Clarifai API](https://www.clarifai.com/) | Visual AI for tropical fruit identification, quality grading, and disease detection from images | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 👗 Mannequin & Visual Merchandising APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Nyckel Classification API](https://www.nyckel.com/) | AI classifiers for mannequin material identification (17 labels) and height estimation for retail optimization | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | Product search and image recognition API for retail displays with apparel, homegoods, and product categorization | 🟡 API Key | ✅ | ✅⭐ |
+| [Clarifai API](https://www.clarifai.com/) | Apparel detection model recognizing 100+ fashion concepts for visual merchandising analysis and product tagging | 🟡 API Key | ✅ | ✅⭐ |
+| [Shopify API](https://shopify.dev/docs/api) | Retail e-commerce API with product management, inventory tracking, and visual storefront capabilities | 🔴 OAuth | ✅ | ✅⭐ |
+| [WooCommerce REST API](https://developer.woocommerce.com/docs/apis/rest-api/) | E-commerce API for managing mannequin and display fixture product catalogs with orders and inventory | 🟡 API Key | ✅ | ✅⭐ |
+| [Printful API](https://developers.printful.com/docs/) | Print-on-demand API for custom apparel displayed on mannequins with mockup generation and product imaging | 🟡 API Key | ✅ | ✅⭐ |
+| [Etsy Open API v3](https://developers.etsy.com/) | Marketplace API for vintage mannequins, dress forms, display fixtures, and visual merchandising supplies | 🔴 OAuth | ✅ | ✅ |
+| [Victoria & Albert Museum API](https://developers.vam.ac.uk/) | Museum collection API with historical mannequins, fashion displays, and costume history artifacts | 🟢 No | ✅ | ✅ |
+| [Art Institute of Chicago API](https://api.artic.edu/docs/) | Public museum API with fashion and textile collection data including display and costume artifacts | 🟢 No | ✅ | ✅⭐ |
+| [Mapillary API](https://www.mapillary.com/developer) | Street-level imagery API for analyzing retail storefront window displays and visual merchandising | 🟡 API Key | ✅ | ✅ |
+| [Eventbrite API](https://www.eventbrite.com/platform/api) | Event API for visual merchandising trade shows, retail design conferences, and industry events | 🔴 OAuth | ✅ | ✅ |
+| [Ticketmaster Discovery API](https://developer.ticketmaster.com/) | Event discovery API for fashion shows, retail exhibitions, and visual merchandising industry events | 🟡 API Key | ✅ | ✅ |
 
 ---
 
