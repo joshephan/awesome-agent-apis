@@ -51,6 +51,30 @@
 - [Infrastructure-as-Code & DevOps APIs](#️-infrastructure-as-code--devops-apis)
 - [Math, Science & Research APIs](#-math-science--research-apis)
 - [Esports & Competitive Gaming APIs](#-esports--competitive-gaming-apis)
+- [Legal & Compliance APIs](#️-legal--compliance-apis)
+- [Education & EdTech APIs](#-education--edtech-apis)
+- [IoT & Smart Home APIs](#-iot--smart-home-apis)
+- [Document AI & OCR APIs](#-document-ai--ocr-apis)
+- [Translation & Localization APIs](#-translation--localization-apis)
+- [CRM APIs](#-crm-apis)
+- [Project Management APIs](#-project-management-apis)
+- [Real Estate & Property APIs](#️-real-estate--property-apis)
+- [Travel & Booking APIs](#️-travel--booking-apis)
+- [HR, People & Payroll APIs](#-hr-people--payroll-apis)
+- [Supply Chain & Logistics APIs](#-supply-chain--logistics-apis)
+- [Insurance APIs](#️-insurance-apis)
+- [Agriculture & AgTech APIs](#-agriculture--agtech-apis)
+- [3D Printing & Manufacturing APIs](#️-3d-printing--manufacturing-apis)
+- [Accessibility & WCAG APIs](#-accessibility--wcag-apis)
+- [Identity Verification & KYC APIs](#-identity-verification--kyc-apis)
+- [Event & Ticketing APIs](#-event--ticketing-apis)
+- [Fitness Wearable APIs](#-fitness-wearable-apis)
+- [Space & Astronomy APIs](#-space--astronomy-apis)
+- [Genealogy APIs](#-genealogy-apis)
+- [Pet Services APIs](#-pet-services-apis)
+- [Renewable Energy APIs](#-renewable-energy-apis)
+- [Construction & Building APIs](#️-construction--building-apis)
+- [Maritime & Vessel Tracking APIs](#-maritime--vessel-tracking-apis)
 
 ### General Categories
 - [Betting & Prediction Markets](#betting--prediction-markets)
@@ -2147,6 +2171,382 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam user data, game stats, and achievements | 🟡 API Key | ✅ | ✅⭐ |
 | [Chess.com](https://www.chess.com/news/view/published-data-api) | Chess game data, player profiles, and club info | 🟢 No | ✅ | ✅⭐ |
 | [Lichess](https://lichess.org/api) | Open-source chess platform API — games, puzzles, tournaments | 🟢 No | ✅ | ✅⭐ |
+
+---
+
+## ⚖️ Legal & Compliance APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [CourtListener](https://www.courtlistener.com/help/api/rest/) | Millions of U.S. federal/state court opinions, PACER data, and citation graphs | 🟡 API Key | ✅ | ✅⭐ |
+| [Federal Register API](https://www.federalregister.gov/developers/documentation/api/v1) | U.S. federal rules, proposed rules, notices, and executive orders | 🟢 No | ✅ | ✅⭐ |
+| [eCFR API](https://www.ecfr.gov/developers/documentation/api/v1) | Electronic Code of Federal Regulations — continuously updated | 🟢 No | ✅ | ✅⭐ |
+| [Regulations.gov](https://open.gsa.gov/api/regulationsgov/) | U.S. federal regulatory documents and public comments | 🟡 API Key | ✅ | ✅⭐ |
+| [Caselaw Access Project](https://case.law/) | Harvard Law — 360+ years of digitized U.S. case law | 🟡 API Key | ✅ | ✅⭐ |
+| [Clio API](https://docs.developers.clio.com/) | Legal practice management — matters, billing, calendars | 🔴 OAuth | ✅ | ✅ |
+| [DocuSign API](https://developers.docusign.com/) | Electronic signatures and contract lifecycle management | 🔴 OAuth | ✅ | ✅ |
+| [Fastcase / vLex](https://www.fastcase.com/solutions/legal-data-api/) | Case law, statutes, and regulations from 100+ countries | 🟡 API Key | ✅ | ✅ |
+| [PracticePanther](https://www.practicepanther.com/) | Cloud legal practice management and workflow automation | 🔴 OAuth | ✅ | ⚠️ |
+
+---
+
+## 🎓 Education & EdTech APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Canvas LMS API](https://www.canvas.instructure.com/doc/api/) | Instructure Canvas — courses, assignments, grades, enrollments | 🔴 OAuth | ✅ | ✅⭐ |
+| [Moodle Web Services](https://docs.moodle.org/dev/Web_services_API) | Open-source LMS — hundreds of functions, self-hostable | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Classroom API](https://developers.google.com/workspace/classroom/reference/rest) | Manage classes, coursework, and student submissions | 🔴 OAuth | ✅ | ✅⭐ |
+| [Open edX API](https://courses.edx.org/api-docs/) | Open-source online course platform — catalog, enrollment, grades | 🟡 API Key | ✅ | ✅⭐ |
+| [Schoology API](https://developers.schoology.com/api/) | Users, courses, assignments, and grades in Schoology LMS | 🔴 OAuth | ✅ | ✅ |
+| [Unified.to LMS API](https://unified.to/blog/introducing_unified_lms_api) | Unified API connecting multiple LMS platforms via single endpoint | 🟡 API Key | ✅ | ✅⭐ |
+| [Edlink API](https://ed.link/) | Middleware connecting EdTech apps to Canvas, Schoology, Google Classroom | 🟡 API Key | ✅ | ✅⭐ |
+| [Khan Academy](https://www.khanacademy.org/) | 6,000+ educational videos and exercises — free content | 🔴 OAuth | ✅ | ⚠️ |
+| [PowerSchool API](https://support.powerschool.com/) | K-12 student information system — REST API | 🔴 OAuth | ✅ | ⚠️ |
+
+---
+
+## 🏠 IoT & Smart Home APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Home Assistant API](https://developers.home-assistant.io/docs/api/rest) | Open-source home automation — 2,700+ integrations, REST + WebSocket | 🟡 API Key | ✅ | ✅⭐ |
+| [Tuya Cloud API](https://developer.tuya.com/en/docs/cloud/smart_home_paas) | IoT cloud — 400,000+ device types, sensors, lights, appliances | 🟡 API Key | ✅ | ✅⭐ |
+| [Philips Hue API](https://developers.meethue.com/) | Smart lighting — bulbs, rooms, scenes, schedules, sensors | 🟡 API Key | ✅ | ✅⭐ |
+| [SmartThings API](https://developer.smartthings.com/) | Samsung IoT — devices, scenes, automations across brands | 🔴 OAuth | ✅ | ✅ |
+| [Arduino IoT Cloud](https://docs.arduino.cc/arduino-cloud/api/arduino-iot-api/) | IoT devices, Things, Properties — 400+ hardware models | 🔴 OAuth | ✅ | ✅ |
+| [ThingSpeak](https://www.mathworks.com/help/thingspeak/rest-api.html) | IoT analytics — collect, store, visualize sensor data | 🟡 API Key | ✅ | ✅⭐ |
+| [Blynk API](https://docs.blynk.io/en/) | Low-code IoT — ESP32, Arduino, Raspberry Pi support | 🟡 API Key | ✅ | ✅⭐ |
+| [Particle Cloud API](https://docs.particle.io/reference/cloud-apis/api/) | Cellular/Wi-Fi IoT — device functions, OTA firmware updates | 🟡 API Key | ✅ | ✅ |
+| [IFTTT Webhooks](https://ifttt.com/docs) | 900+ apps/devices connected via triggers and actions | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 📄 Document AI & OCR APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Mistral OCR](https://docs.mistral.ai/capabilities/document_ai) | State-of-the-art OCR — clean markdown output, table reconstruction | 🟡 API Key | ✅ | ✅⭐ |
+| [AWS Textract](https://docs.aws.amazon.com/textract/) | ML-powered text, table, form, and handwriting extraction | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Vision AI](https://cloud.google.com/vision/docs) | Best OCR accuracy — multilingual, handwriting, style analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/) | Text, key-value pairs, tables extraction (formerly Form Recognizer) | 🟡 API Key | ✅ | ✅⭐ |
+| [Mindee API](https://developers.mindee.com/) | Parse invoices, receipts, passports, IDs — pre-trained models | 🟡 API Key | ✅ | ✅⭐ |
+| [Reducto](https://reducto.ai/) | AI document parsing for complex layouts — charts, graphs, multi-column | 🟡 API Key | ✅ | ✅⭐ |
+| [Veryfi API](https://www.veryfi.com/api/) | Receipts, invoices, W2s — 98.7% accuracy, 3-5 sec extraction | 🟡 API Key | ✅ | ✅ |
+| [Nanonets](https://nanonets.com/) | Custom OCR models — no-code training, document parsing | 🟡 API Key | ✅ | ✅ |
+| [Docsumo](https://www.docsumo.com/) | Deep learning document processing — key-value pairs, entities | 🟡 API Key | ✅ | ✅ |
+| [ABBYY Cloud OCR](https://www.abbyy.com/cloud-ocr-sdk/) | Enterprise OCR — 200+ languages, complex documents | 🟡 API Key | ✅ | ✅ |
+| [Klippa DocHorizon](https://www.klippa.com/en/ocr-api/) | OCR with fraud detection and GDPR compliance — 100+ doc types | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🌐 Translation & Localization APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [DeepL API](https://www.deepl.com/en/pro-api) | Best-in-class neural translation — 30+ languages, document translation | 🟡 API Key | ✅ | ✅⭐ |
+| [Google Cloud Translation](https://cloud.google.com/translate/docs) | Neural MT — 130+ languages, custom models, LLM-powered options | 🟡 API Key | ✅ | ✅⭐ |
+| [LibreTranslate](https://libretranslate.com/) | Free, open-source, self-hostable translation — offline capable | 🟢 No | ✅ | ✅⭐ |
+| [Microsoft Translator](https://learn.microsoft.com/en-us/azure/ai-services/translator/) | 100+ languages — transliteration, detection, dictionary lookup | 🟡 API Key | ✅ | ✅⭐ |
+| [Amazon Translate](https://docs.aws.amazon.com/translate/) | Real-time/batch translation — customizable terminology | 🟡 API Key | ✅ | ✅ |
+| [MyMemory](https://mymemory.translated.net/doc/spec.php) | Free translation memory — MT + human translations, no registration | 🟢 No | ✅ | ✅⭐ |
+| [Lingva Translate](https://github.com/thedaviddelta/lingva-translate) | Open-source Google Translate front-end — REST + GraphQL | 🟢 No | ✅ | ✅⭐ |
+| [Weblate API](https://docs.weblate.org/en/latest/api.html) | Open-source translation management — CI/CD integration, Git-native | 🟡 API Key | ✅ | ✅ |
+| [Smartling](https://www.smartling.com/) | Enterprise translation management — AI + human linguistic expertise | 🟡 API Key | ✅ | ✅ |
+| [Lara Translate](https://blog.laratranslate.com/) | Context-aware neural translation — adaptive learning engine | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 💼 CRM APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [HubSpot CRM API](https://developers.hubspot.com/docs/guides/crm/understanding-the-crm) | Contacts, companies, deals, tickets — free tier available | 🟡 API Key | ✅ | ✅⭐ |
+| [Salesforce REST API](https://developer.salesforce.com/docs/apis) | World's largest CRM — leads, opportunities, custom objects | 🔴 OAuth | ✅ | ✅⭐ |
+| [Pipedrive API](https://developers.pipedrive.com/) | Sales CRM — persons, organizations, deals, pipelines | 🟡 API Key | ✅ | ✅⭐ |
+| [Zoho CRM API](https://www.zoho.com/crm/developer/) | Full-featured CRM — records, workflows, free developer account | 🔴 OAuth | ✅ | ✅ |
+| [Monday.com API](https://developer.monday.com/api-reference/) | Work management + CRM — GraphQL, flexible data model | 🟡 API Key | ✅ | ✅⭐ |
+| [Freshsales API](https://developers.freshworks.com/crm/api/) | SME-friendly sales CRM — contacts, deals, sequences | 🟡 API Key | ✅ | ✅⭐ |
+| [Close CRM](https://developer.close.com/) | Startup CRM — leads, email sequences, built-in calling | 🟡 API Key | ✅ | ✅⭐ |
+| [Attio API](https://developers.attio.com/) | Next-gen CRM — flexible data modeling, real-time sync | 🟡 API Key | ✅ | ✅⭐ |
+| [Copper CRM](https://developer.copper.com/) | Google Workspace-native CRM — leads, people, opportunities | 🟡 API Key | ✅ | ✅ |
+| [Apideck CRM](https://www.apideck.com/crm-api) | Unified API — one integration for 25+ CRM systems | 🟡 API Key | ✅ | ✅⭐ |
+
+---
+
+## 📋 Project Management APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Jira Cloud REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3/) | Issues, sprints, boards, workflows — JQL query language | 🔴 OAuth | ✅ | ✅⭐ |
+| [Asana API](https://developers.asana.com/reference/rest-api-reference) | Tasks, projects, portfolios, goals — official SDKs | 🔴 OAuth | ✅ | ✅⭐ |
+| [Linear API](https://developers.linear.app/) | Modern issue tracking — GraphQL, real-time webhooks | 🟡 API Key | ✅ | ✅⭐ |
+| [Notion API](https://developers.notion.com/) | Databases, pages, blocks — block-based content model | 🟡 API Key | ✅ | ✅⭐ |
+| [ClickUp API](https://developer.clickup.com/) | All-in-one PM — spaces, tasks, time tracking, goals | 🟡 API Key | ✅ | ✅⭐ |
+| [Trello API](https://developer.atlassian.com/cloud/trello/rest/) | Kanban boards, lists, and cards — simple data model | 🟡 API Key | ✅ | ✅⭐ |
+| [Smartsheet API](https://developers.smartsheet.com/) | Enterprise work management — sheets, rows, workspaces | 🟡 API Key | ✅ | ✅ |
+| [Wrike API](https://developers.wrike.com/) | Enterprise PM — folders, tasks, workflows, approvals | 🔴 OAuth | ✅ | ✅ |
+| [Basecamp API](https://github.com/basecamp/bc3-api) | Projects, to-dos, messages, schedules — open source docs | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🏘️ Real Estate & Property APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [ATTOM Data API](https://api.developer.attomdata.com/) | 158M+ U.S. properties — ownership, sales, valuations, schools | 🟡 API Key | ✅ | ✅⭐ |
+| [RentCast API](https://developers.rentcast.io/) | 140M+ properties — rental estimates, listings, market trends | 🟡 API Key | ✅ | ✅⭐ |
+| [SimplyRETS](https://docs.simplyrets.com/api/index.html) | MLS data via RETS/RESO standard — live listings | 🟡 API Key | ✅ | ✅⭐ |
+| [Bridge Interactive](https://www.bridgeinteractive.com/developers/bridge-api/) | Normalized MLS data from multiple boards + Zestimates | 🟡 API Key | ✅ | ✅⭐ |
+| [Mashvisor API](https://www.mashvisor.com/api) | Investment analytics — cap rate, cash-on-cash return | 🟡 API Key | ✅ | ✅ |
+| [Estated API](https://estated.com/) | Standardized property data — ownership, taxes, deeds | 🟡 API Key | ✅ | ✅ |
+| [BatchData API](https://batchdata.io/) | Property data + skip tracing — bulk queries supported | 🟡 API Key | ✅ | ✅ |
+| [Repliers API](https://repliers.com/) | Canadian + U.S. MLS boards with normalized data | 🟡 API Key | ✅ | ✅ |
+| [Zillow APIs](https://www.zillowgroup.com/developers/) | Zestimates, MLS listings, mortgage data (~20 APIs) | 🟡 API Key | ✅ | ⚠️ |
+| [Xotelo](https://xotelo.com/) | Hotel pricing data from TripAdvisor + OTAs — free tier | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## ✈️ Travel & Booking APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Amadeus Self-Service](https://developers.amadeus.com/) | 400+ airlines, 150K+ hotels, 300K+ activities — free test tier | 🟡 API Key | ✅ | ✅⭐ |
+| [Duffel Flights API](https://duffel.com/) | 300+ airlines including NDC — search, book, manage flights | 🟡 API Key | ✅ | ✅⭐ |
+| [Kiwi.com Tequila](https://tequila.kiwi.com/) | Flights, trains, buses — virtual interlining across carriers | 🟡 API Key | ✅ | ✅⭐ |
+| [Skyscanner Affiliate](https://www.partners.skyscanner.net/) | 1,200+ travel partners — flight price comparison | 🟡 API Key | ✅ | ✅⭐ |
+| [Hotelbeds API](https://developer.hotelbeds.com/) | 300K hotels in 200 countries — booking, content, cache APIs | 🟡 API Key | ✅ | ✅ |
+| [Expedia Rapid API](https://partner.expediagroup.com/) | 700K+ accommodations — dynamic pricing, geo definitions | 🟡 API Key | ✅ | ✅ |
+| [Sabre Dev Studio](https://developer.sabre.com/) | Major GDS — flights, hotels, car rental, travel intelligence | 🟡 API Key | ✅ | ✅ |
+| [Travelport APIs](https://developer.travelport.com/) | Multi-GDS (Apollo/Worldspan/Galileo) — mobile-optimized REST | 🟡 API Key | ✅ | ✅ |
+| [TripAdvisor Content](https://www.tripadvisor.com/developers) | Reviews, ratings, photos for hotels/restaurants/attractions | 🟡 API Key | ✅ | ⚠️ |
+| [Booking.com API](https://www.booking.com/content/affiliates.html) | World's largest accommodation platform — partnership required | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 👥 HR, People & Payroll APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [BambooHR API](https://documentation.bamboohr.com/reference) | HRIS — employee records, time-off, benefits, onboarding | 🟡 API Key | ✅ | ✅⭐ |
+| [Finch Unified API](https://www.tryfinch.com/) | "Plaid for employment" — connects 220+ HRIS/payroll systems | 🟡 API Key | ✅ | ✅⭐ |
+| [Deel API](https://developer.deel.com/) | Global payroll — 100+ countries, contractor/employee onboarding | 🟡 API Key | ✅ | ✅⭐ |
+| [Merge HRIS API](https://www.merge.dev/categories/hris-and-payroll-api) | Unified API for 70+ HRIS/payroll platforms — webhooks | 🟡 API Key | ✅ | ✅⭐ |
+| [Gusto Embedded Payroll](https://embedded.gusto.com/) | SMB payroll/benefits — embed payroll into your product | 🔴 OAuth | ✅ | ✅ |
+| [Rippling API](https://developer.rippling.com/) | Unified HR + IT + Finance — employee & device management | 🔴 OAuth | ✅ | ✅ |
+| [Personio API](https://developer.personio.de/) | European HR — GDPR-compliant, recruiting, attendance | 🟡 API Key | ✅ | ✅ |
+| [HiBob API](https://apidocs.hibob.com/) | Modern HRIS — onboarding, analytics, performance reviews | 🟡 API Key | ✅ | ✅ |
+| [Kombo API](https://www.kombo.dev/) | Unified HRIS/payroll — auto field mapping, fast setup | 🟡 API Key | ✅ | ✅ |
+| [Factorial API](https://apidoc.factorialhr.com/) | Talent management, recruitment, time tracking, payroll | 🟡 API Key | ✅ | ✅ |
+| [Paylocity API](https://developer.paylocity.com/) | Enterprise HCM — payroll, HR, talent, workforce management | 🔴 OAuth | ✅ | ⚠️ |
+
+---
+
+## 📦 Supply Chain & Logistics APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [EasyPost API](https://www.easypost.com/docs/api) | Multi-carrier — rate comparison, labels, tracking, insurance | 🟡 API Key | ✅ | ✅⭐ |
+| [ShipEngine](https://www.shipengine.com/) | 200+ global carriers — labels, tracking, SDKs in 8 languages | 🟡 API Key | ✅ | ✅⭐ |
+| [AfterShip Tracking](https://www.aftership.com/docs/tracking) | 1,100+ carriers — tracking webhooks, ETA, branded pages | 🟡 API Key | ✅ | ✅⭐ |
+| [Shippo API](https://docs.goshippo.com/) | 14+ carriers — rates, labels, tracking, returns, pay-as-you-go | 🟡 API Key | ✅ | ✅⭐ |
+| [FedEx Developer API](https://developer.fedex.com/) | Rates, labels, tracking, pickups, address validation | 🔴 OAuth | ✅ | ✅ |
+| [UPS Developer API](https://developer.ups.com/) | Shipping, tracking, time-in-transit, freight services | 🔴 OAuth | ✅ | ✅ |
+| [DHL Tracking API](https://developer.dhl.com/api-reference/shipment-tracking) | Real-time DHL shipment tracking worldwide | 🟡 API Key | ✅ | ✅ |
+| [Flexport API](https://developers.flexport.com/) | Freight forwarding, customs, supply chain management | 🟡 API Key | ✅ | ✅ |
+| [Vizion Container Tracking](https://www.vizionapi.com/) | Ocean container tracking — push-based, standardized events | 🟡 API Key | ✅ | ✅ |
+| [ClickPost](https://www.clickpost.ai/shipping-api) | E-commerce shipping aggregator — auto carrier selection | 🟡 API Key | ✅ | ✅ |
+| [Tive Logistics](https://www.tive.com/) | Multi-sensor tracking — location, temperature, humidity, shock | 🟡 API Key | ✅ | ✅ |
+| [Chain.io](https://chain.io/logistics-api/) | Supply chain integration — EDI modernization, partner onboarding | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🛡️ Insurance APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Lemonade API](https://api-doc-portal.lemonade.com/) | AI-powered renters/homeowners insurance — quoting, policy, claims | 🟡 API Key | ✅ | ✅⭐ |
+| [Canopy Connect](https://www.usecanopy.com/api) | "Plaid for Insurance" — 400+ carriers, instant verification | 🟡 API Key | ✅ | ✅⭐ |
+| [Socotra API](https://www.socotra.com/technology/) | Enterprise insurance core — full policy lifecycle, cloud-native | 🟡 API Key | ✅ | ✅ |
+| [Bolttech API](https://api-int.bolttech.io/docs/intro) | Embedded insurance — quote, bind, pay, omni-channel | 🟡 API Key | ✅ | ✅ |
+| [Boost Insurance](https://boostinsurance.com/developer/) | Insurance infrastructure — quote-to-bind for digital platforms | 🟡 API Key | ✅ | ✅ |
+| [Qover API](https://www.qover.com/) | European embedded insurance — travel, mobility, e-commerce | 🟡 API Key | ✅ | ✅ |
+| [Igloo Insurtech](https://iglooinsure.com/tech-solutions/insurance-api-centre/) | Full insurance value chain — SE Asia market leader | 🟡 API Key | ✅ | ✅ |
+| [Root Insurance](https://www.joinroot.com/) | Telematics-based auto insurance — AI-powered pricing | 🟡 API Key | ✅ | ⚠️ |
+| [Insurify](https://insurify.com/) | Multi-carrier insurance comparison — auto, home, life | 🟡 API Key | ✅ | ⚠️ |
+| [Novidea](https://novidea.com/) | Broker/MGA platform — CRM, policies, analytics, commissions | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🌾 Agriculture & AgTech APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [USDA ARMS Data API](https://www.ers.usda.gov/developer/data-apis/arms-data-api) | Farm finances, production practices, resource use — free | 🟢 No | ✅ | ✅⭐ |
+| [Farmonaut API](https://farmonaut.com/farmonaut-satellite-weather-api-developer-docs) | Satellite crop monitoring (NDVI, EVI), weather, soil analysis | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenWeatherMap Agro](https://agromonitoring.com/api) | Agricultural weather, satellite imagery, vegetation indices | 🟡 API Key | ✅ | ✅⭐ |
+| [Trefle Plant API](https://docs.trefle.io/) | 417,000+ plant species — search by common/scientific name | 🟡 API Key | ✅ | ✅⭐ |
+| [OpenFarm API](https://github.com/openfarmcc/OpenFarm/blob/mainline/docs/api_docs.md) | Open-source crop growing guides — planting, soil, spacing | 🟡 API Key | ✅ | ✅⭐ |
+| [Azure Data Manager for Agriculture](https://learn.microsoft.com/en-us/rest/api/data-manager-for-agri/) | Enterprise farm management — satellite, weather, sensors | 🔴 OAuth | ✅ | ✅ |
+| [EOS Agriculture API](https://eos.com/agriculture-api/) | Crop data, weather data, soil moisture information | 🟡 API Key | ✅ | ✅ |
+| [Agworld API](https://us.agworld.co/user_api/v1/docs) | Farm management — fields, farms, recommendations | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🖨️ 3D Printing & Manufacturing APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [OctoPrint REST API](https://docs.octoprint.org/en/main/api/index.html) | Open-source 3D printer control — jobs, temp, files, state | 🟡 API Key | ✅ | ✅⭐ |
+| [3DPrinterOS](https://www.3dprinteros.com/3d-printing-management-apis-reference) | Cloud slicing, print queue, fleet management | 🟡 API Key | ✅ | ✅ |
+| [Shapeways API](https://developers.shapeways.com) | On-demand 3D manufacturing — upload, quote, fulfill orders | 🔴 OAuth | ✅ | ✅ |
+| [i.materialise API](https://i.materialise.com/api-dokuwiki/) | Full 3D print workflow — 25+ materials, pricing, checkout | 🟡 API Key | ✅ | ✅ |
+| [Sculpteo API](https://www.sculpteo.com/en/services/api-services/) | Professional 3D printing — upload, configure, quote, order | 🟡 API Key | ✅ | ✅ |
+| [Slant 3D](https://www.slant3d.com/slant-3d-printing-api) | Large-scale 3D printer farms for production scaling | 🟡 API Key | ✅ | ✅ |
+| [Create it REAL](https://www.createitreal.com/3d-printing-api-service/) | Slicing core API — embeddable slicing engine | 🟡 API Key | ✅ | ⚠️ |
+| [Prusa Connect](https://connect.prusa3d.com/) | Remote Prusa printer monitoring and control | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## ♿ Accessibility & WCAG APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [axe-core](https://www.deque.com/axe/core-documentation/api-documentation/) | Open-source a11y engine — WCAG 2.0/2.1/2.2, zero false positives | 🟢 No | ✅ | ✅⭐ |
+| [Pa11y](https://pa11y.org/) | Open-source automated a11y testing — CLI + Node.js API | 🟢 No | ✅ | ✅⭐ |
+| [WAVE API](https://wave.webaim.org/api/) | WebAIM accessibility scanner — WCAG errors, ARIA issues | 🟡 API Key | ✅ | ✅⭐ |
+| [axe DevTools](https://www.deque.com/axe/) | Enterprise a11y testing — CI/CD integration, multi-language | 🟡 API Key | ✅ | ✅ |
+| [Pope Tech](https://www.pope.tech/) | Enterprise WAVE-powered — millions of pages/month, WCAG 2.2 | 🟡 API Key | ✅ | ✅ |
+| [Tenon.io](https://tenon.io/) | API-driven a11y testing — enterprise reporting, governance | 🟡 API Key | ✅ | ✅ |
+| [WAVE Standalone](https://wave.webaim.org/standalone) | Self-hosted WAVE engine — scan private/secure pages | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🔐 Identity Verification & KYC APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Sumsub API](https://docs.sumsub.com/reference/get-started-with-api) | KYC/KYB/AML — 220+ countries, 140K verifications/day | 🟡 API Key | ✅ | ✅⭐ |
+| [Veriff API](https://www.veriff.com/plans/self-serve) | 98% automation rate — 11,500+ doc types, 6-second decisions | 🟡 API Key | ✅ | ✅⭐ |
+| [Microblink KYC](https://docs.microblink.com/documentation/cloudapi/overview.html) | AI document scanning — 500+ doc types, sub-5-second verification | 🟡 API Key | ✅ | ✅⭐ |
+| [Plaid Identity](https://plaid.com/docs/api/products/identity-verification/) | Identity verification tied to financial accounts | 🟡 API Key | ✅ | ✅⭐ |
+| [Onfido / Entrust](https://documentation.identity.entrust.com/api/latest/) | Document + biometric verification — SDKs for mobile + web | 🟡 API Key | ✅ | ✅ |
+| [iDenfy](https://www.idenfy.com/) | Human-in-loop KYC — 3D liveness, 200+ countries, pay-for-success | 🟡 API Key | ✅ | ✅ |
+| [Didit](https://didit.me/) | Unified IDV — liveness, face matching, AML, free tier | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🎫 Event & Ticketing APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Ticketmaster Discovery](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) | Events, attractions, venues globally — 5K calls/day free | 🟡 API Key | ✅ | ✅⭐ |
+| [SeatGeek API](https://platform.seatgeek.com/) | Events, performers, venues, recommendations — JSON/JSONP | 🟡 API Key | ✅ | ✅⭐ |
+| [Eventbrite API](https://www.eventbrite.com/platform/docs/introduction) | Event management, ticketing, discovery — millions of events | 🔴 OAuth | ✅ | ✅ |
+| [StubHub API](https://developer.stubhub.com/docs/overview/introduction/) | World's largest ticket marketplace — search, buy, list | 🔴 OAuth | ✅ | ✅ |
+| [Ticket Tailor](https://developers.tickettailor.com/docs/api/ticket-tailor-api/) | Event ticketing — 5K requests/30 min, clean docs | 🟡 API Key | ✅ | ✅ |
+| [Ticketbud API](https://api.ticketbud.com/) | Event creation, management, ticket sales | 🔴 OAuth | ✅ | ✅ |
+| [EventBookings API](https://developers.eventbookings.com/) | Event management, booking, registration | 🟡 API Key | ✅ | ✅ |
+| [Ticket Evolution](https://developer.ticketevolution.com/) | Event discovery + ticket reseller platform | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## ⌚ Fitness Wearable APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Terra API](https://docs.tryterra.co/health-and-fitness-api/getting-started) | Unified API for 400+ wearables — Apple Watch, Garmin, Fitbit, Oura | 🟡 API Key | ✅ | ✅⭐ |
+| [ROOK API](https://docs.tryrook.io/) | Unified wearable health data from 400+ devices — normalized | 🟡 API Key | ✅ | ✅⭐ |
+| [Strava API](https://developers.strava.com/docs/reference/) | Activities, athletes, segments, routes, clubs | 🔴 OAuth | ✅ | ✅⭐ |
+| [Oura Ring API v2](https://cloud.ouraring.com/v2/docs) | Sleep, readiness, activity, HRV, body temperature | 🔴 OAuth | ✅ | ✅ |
+| [Fitbit Web API](https://dev.fitbit.com/) | Activity, heart rate, sleep, HRV data | 🔴 OAuth | ✅ | ✅ |
+| [Garmin Health API](https://developer.garmin.com/health-sdk/) | Comprehensive fitness/health data from Garmin devices | 🔴 OAuth | ✅ | ✅ |
+| [WHOOP API](https://developer.whoop.com/api/) | Strain, sleep, HRV, recovery metrics | 🔴 OAuth | ✅ | ⚠️ |
+| [FitBark API](https://www.fitbark.com/dev) | Canine health — play, active, rest monitoring | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🚀 Space & Astronomy APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [NASA Open APIs](https://api.nasa.gov/) | APOD, Mars Rover, asteroids, EPIC Earth imagery — 1K req/hr | 🟡 API Key | ✅ | ✅⭐ |
+| [SpaceX API](https://docs.spacexdata.com/) | Open-source — rockets, launches, capsules, cores, pads | 🟢 No | ✅ | ✅⭐ |
+| [Where the ISS at?](https://wheretheiss.at/w/developer) | ISS real-time position and pass predictions — free | 🟢 No | ✅ | ✅⭐ |
+| [Open Notify](http://open-notify.org/Open-Notify-API/) | ISS location, people in space — no auth needed | 🟢 No | ❌ | ✅⭐ |
+| [Astronomy API](https://astronomyapi.com/) | Planet/star positions, celestial events for any location | 🟡 API Key | ✅ | ✅ |
+| [Solar System OpenData](https://api.le-systeme-solaire.net/en/) | Planets, moons, asteroids — mass, gravity, orbital params | 🟡 API Key | ✅ | ✅ |
+| [N2YO Satellite Tracking](https://www.n2yo.com/api/) | Satellite positions, TLE data, pass predictions | 🟡 API Key | ✅ | ✅ |
+| [Time and Date Astronomy](https://dev.timeanddate.com/astro/) | Sunrise/sunset, moon phases, astronomical positions | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🧬 Genealogy APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [FamilySearch API](https://www.familysearch.org/developers/docs/api/resources) | Family trees, pedigrees, historical records — nonprofit, free | 🔴 OAuth | ✅ | ✅⭐ |
+| [Open Archives](https://openarch.nl/) | Free genealogy records — civil registration, church records | 🟢 No | ✅ | ✅⭐ |
+| [GEDCOM X](https://github.com/FamilySearch/gedcomx) | Open standard for genealogy data — JSON + XML | 🟢 No | ✅ | ✅⭐ |
+| [Geni API](https://www.geni.com/platform/developer/help) | Genealogy profiles, relationships, tree data — sandbox | 🔴 OAuth | ✅ | ✅ |
+| [MyHeritage Family Graph](https://familygraph.com/) | Family trees — read-only, no fees, JSON REST | 🔴 OAuth | ✅ | ⚠️ |
+| [FindMyPast API](https://www.tamurajones.net/FindmypastAPI.xhtml) | Hints API + Related Search for record discovery | 🟡 API Key | ✅ | ⚠️ |
+
+---
+
+## 🐾 Pet Services APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Petfinder API v2](https://www.petfinder.com/developers/v2/docs/) | 100K+ adoptable pets — 1K req/day, search by breed/location | 🔴 OAuth | ✅ | ✅⭐ |
+| [TheDogAPI](https://docs.thedogapi.com/) | Dog images + breed data — medical, nutritional labels | 🟡 API Key | ✅ | ✅⭐ |
+| [TheCatAPI](https://developers.thecatapi.com/) | Cat images + breed data — same schema as TheDogAPI | 🟡 API Key | ✅ | ✅⭐ |
+| [openFDA Animal Vet](https://open.fda.gov/apis/animalandveterinary/event/) | Adverse event reports for animal drugs/devices — free | 🟢 No | ✅ | ✅⭐ |
+| [RescueGroups.org](https://rescuegroups.org/services/adoptable-pet-data-api/) | Adoptable pet search by zip, distance, breed, age | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## ⚡ Renewable Energy APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [UK Carbon Intensity](https://api.carbonintensity.org.uk/) | GB electricity carbon intensity — real-time + forecasts, free | 🟢 No | ✅ | ✅⭐ |
+| [Solcast Solar API](https://docs.solcast.com.au/) | Solar irradiance forecasts + PV power predictions — global | 🟡 API Key | ✅ | ✅⭐ |
+| [NREL Developer APIs](https://developer.nrel.gov/docs/) | Utility rates, solar resource, wind data, alt fuels — free | 🟡 API Key | ✅ | ✅⭐ |
+| [Electricity Maps](https://docs.electricitymaps.com/) | Carbon intensity + energy mix — 230+ regions, 100+ countries | 🟡 API Key | ✅ | ✅⭐ |
+| [WattTime API](https://docs.watttime.org/) | Marginal emissions at 5-min granularity — global coverage | 🟡 API Key | ✅ | ✅ |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | Global EV charging station registry — crowdsourced, open data | 🟡 API Key | ✅ | ✅ |
+| [OpenEI Utility Rates](https://developer.nrel.gov/docs/electricity/openei-utility-rates/) | U.S. utility rate structures from National Utility Rate DB | 🟡 API Key | ✅ | ✅ |
+
+---
+
+## 🏗️ Construction & Building APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [Procore API](https://developers.procore.com/reference/rest/docs/rest-api-overview) | Construction management — project, financial, field management | 🔴 OAuth | ✅ | ✅⭐ |
+| [Shovels API](https://www.shovels.ai/api) | Building permit + contractor intelligence — developer-friendly | 🟡 API Key | ✅ | ✅⭐ |
+| [Autodesk BIM 360](https://aps.autodesk.com/en/docs/bim360/v1/overview/) | Cloud construction — model coordination, field management | 🔴 OAuth | ✅ | ✅ |
+| [Construction Monitor](https://www.constructionmonitor.com/data) | Permit data search — Elasticsearch-based, large-scale | 🟡 API Key | ✅ | ✅ |
+| [ATTOM Building Permits](https://www.attomdata.com/data/property-data/nationwide-building-permit-data/) | 300M+ permits from 2K+ departments, 158M+ properties | 🟡 API Key | ✅ | ✅ |
+| [PlanGrid / Autodesk](https://developer.plangrid.com/docs) | Construction blueprints, documents, field reports | 🔴 OAuth | ✅ | ✅ |
+| [buildingSMART bSDD](https://technical.buildingsmart.org/services/bsdd/using-the-bsdd-api/) | IFC classifications, properties, materials — OpenAPI | 🔴 OAuth | ✅ | ✅ |
+| [Trimble Connect](https://www.trimble.com/en/developer/docs) | Collaborative BIM — 3D models, project data, documents | 🔴 OAuth | ✅ | ✅ |
+
+---
+
+## 🚢 Maritime & Vessel Tracking APIs
+
+| API | Description | Auth | HTTPS | Agent-Friendly |
+|-----|-------------|------|-------|----------------|
+| [MarineTraffic API](https://servicedocs.marinetraffic.com/) | 13K+ AIS receivers — vessel positions, voyages, port calls | 🟡 API Key | ✅ | ✅⭐ |
+| [Searoutes API](https://developer.searoutes.com/) | Sea routing, distances, SECA zones, canal exclusions | 🟡 API Key | ✅ | ✅⭐ |
+| [Datalastic API](https://datalastic.com/api-reference/) | Vessel tracking, port info, MMSI/IMO lookup — trial available | 🟡 API Key | ✅ | ✅ |
+| [SeaRates API](https://docs.searates.com/) | Ship distance, container tracking, freight rates, schedules | 🟡 API Key | ✅ | ✅ |
+| [Portcast API](https://www.portcast.io/ocean-vessel-tracking-api) | ETA predictions, port congestion — 6-8 week forecasts | 🟡 API Key | ✅ | ✅ |
+| [AISHub API](https://www.aishub.net/api) | Free AIS data exchange — community-driven, JSON/XML/CSV | 🟡 API Key | ✅ | ✅ |
+| [NavAPI AIS](https://navapi.com/ais-positions-api/) | Global vessel tracking — 6 years of historical AIS data | 🟡 API Key | ✅ | ✅ |
+| [MyShipTracking](https://api.myshiptracking.com/) | Vessel tracking services with AIS data | 🟡 API Key | ✅ | ⚠️ |
 
 ---
 
