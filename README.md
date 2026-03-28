@@ -2835,6 +2835,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Expedia Rapid API](https://partner.expediagroup.com/) | 700K+ accommodations — dynamic pricing, geo definitions | 🟡 API Key | ✅ | ✅ |
 | [Sabre Dev Studio](https://developer.sabre.com/) | Major GDS — flights, hotels, car rental, travel intelligence | 🟡 API Key | ✅ | ✅ |
 | [Travelport APIs](https://developer.travelport.com/) | Multi-GDS (Apollo/Worldspan/Galileo) — mobile-optimized REST | 🟡 API Key | ✅ | ✅ |
+| [TicketLens](https://github.com/ticketlens/ticketlens-experiences-mcp) | Search tours, tickets, attractions, and activities for AI travel planners via hosted MCP or REST. | 🟢 No | ✅ | ✅⭐ |
 | [TripAdvisor Content](https://www.tripadvisor.com/developers) | Reviews, ratings, photos for hotels/restaurants/attractions | 🟡 API Key | ✅ | ⚠️ |
 | [Booking.com API](https://www.booking.com/content/affiliates.html) | World's largest accommodation platform — partnership required | 🟡 API Key | ✅ | ⚠️ |
 
