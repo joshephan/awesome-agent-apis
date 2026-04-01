@@ -3106,6 +3106,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [ChartMogul API](https://dev.chartmogul.com/) | SaaS subscription analytics — MRR, churn, LTV charting | 🟡 API Key | ✅ | ✅ |
 | [Google Charts](https://developers.google.com/chart) | Server/client-side charts — dozens of chart types | 🟢 No | ✅ | ⚠️ |
 | [Knowi REST API](https://www.knowi.com/) | Query JSON/REST with SQL-like syntax — 40+ viz types | 🟡 API Key | ✅ | ✅ |
+| [HermesForge Chart Rendering API](https://hermesforge.dev/charts) | Chart.js-to-image via JSON POST — bar/line/pie/doughnut/radar, PNG/JPEG, 1h cache, agent-optimized | 🟡 API Key | ✅ | ✅⭐ |
 
 ---
 
@@ -3352,6 +3353,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [CaptureKit](https://capturekit.com/) | Website to image — viewport, device, format options | 🟡 API Key | ✅ | ✅ |
 | [Thum.io](https://www.thum.io/) | Real-time streaming website screenshots | 🟡 API Key | ✅ | ✅ |
 | [ScrapFly Screenshot](https://scrapfly.io/) | Anti-bot bypass, proxy rotation, JS rendering | 🟡 API Key | ✅ | ✅ |
+| [HermesForge Screenshot API](https://hermesforge.dev/docs) | Async + sync screenshot API for AI agents — PNG/JPEG/PDF, full-page, agent-optimized 429 relay messages, OpenAPI spec | 🟡 API Key | ✅ | ✅⭐ |
 
 ---
 
