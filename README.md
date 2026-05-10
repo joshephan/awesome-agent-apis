@@ -2365,6 +2365,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Manage Workers, KV, R2, and DNS via MCP | 🟡 API Key | Infrastructure | ✅⭐ |
 | [Vercel MCP](https://vercel.com/docs/mcp) | Manage deployments, domains, and environment variables | 🟡 API Key | Hosting | ✅⭐ |
 | [Docker MCP](https://github.com/docker/mcp-server-docker) | Manage containers, images, networks, and compose stacks | 🟢 No | Infrastructure | ✅⭐ |
+| [NotFair](https://notfair.co) | Hosted Google Ads MCP — diagnose, recommend, and execute campaign changes via the Google Ads API | 🔴 OAuth | Marketing | ✅⭐ |
 
 ---
 
