@@ -658,6 +658,7 @@
 
 | API | Description | Auth | HTTPS | Agent-Friendly |
 |-----|-------------|------|-------|----------------|
+| [Block Lottos](https://blocklottos.com/openapi.json) | Polygon/Base lottery, draw history, jackpot, advertising, and ticket transaction APIs | 🟢 No | ✅ | ✅⭐ |
 | [CoinGecko](http://www.coingecko.com/api) | Cryptocurrency prices, market data, and stats | 🟢 No | ✅ | ✅⭐ |
 | [CoinCap](https://docs.coincap.io/) | Real-time cryptocurrency pricing | 🟢 No | ✅ | ✅ |
 | [CoinDesk](https://old.coindesk.com/coindesk-api/) | Bitcoin Price Index (BPI) in multiple currencies | 🟢 No | ✅ | ✅ |
