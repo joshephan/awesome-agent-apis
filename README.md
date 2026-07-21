@@ -2365,6 +2365,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Cloudflare MCP](https://github.com/cloudflare/mcp-server-cloudflare) | Manage Workers, KV, R2, and DNS via MCP | 🟡 API Key | Infrastructure | ✅⭐ |
 | [Vercel MCP](https://vercel.com/docs/mcp) | Manage deployments, domains, and environment variables | 🟡 API Key | Hosting | ✅⭐ |
 | [Docker MCP](https://github.com/docker/mcp-server-docker) | Manage containers, images, networks, and compose stacks | 🟢 No | Infrastructure | ✅⭐ |
+| [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402-paid crypto & market data — 54 services, 97 endpoints, 37 MCP tools | 🔴 x402 | Finance | ✅⭐ |
 
 ---
 
@@ -2529,6 +2530,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Paddle](https://developer.paddle.com/) | SaaS billing with built-in tax and compliance | 🟡 API Key | ✅ | ✅⭐ |
 | [Open Exchange Rates](https://docs.openexchangerates.org/) | Real-time and historical exchange rates for 170+ currencies | 🟡 API Key | ✅ | ✅⭐ |
 | [Wise (TransferWise)](https://api-docs.transferwise.com/) | International money transfers with real exchange rates | 🟡 API Key | ✅ | ✅⭐ |
+| [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402 protocol API marketplace — 54 services, 97 endpoints, 37 MCP tools, USDC on Base | 🔴 x402 | ✅ | ✅⭐ |
 
 ---
 
