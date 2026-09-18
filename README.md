@@ -2179,6 +2179,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Qwen (Alibaba)](https://help.aliyun.com/zh/model-studio/developer-reference/api-details) | 1T+ parameter MoE models supporting 119 languages | 🟡 API Key | ✅ | ✅⭐ |
 | [Cerebras](https://inference-docs.cerebras.ai/) | Ultra-fast inference on custom wafer-scale chips (2000+ tokens/sec) | 🟡 API Key | ✅ | ✅⭐ |
 | [OpenRouter](https://openrouter.ai/docs) | Unified API gateway to 100+ LLMs with automatic fallback and load balancing | 🟡 API Key | ✅ | ✅⭐ |
+| [CoderPlan](https://coderplan.ai) | Unified LLM API gateway for China/APAC — Claude, GPT, Gemini, DeepSeek, 50+ models, ~70% below official pricing | 🟡 API Key | ✅ | ✅⭐ |
 | [Ollama](https://github.com/ollama/ollama/blob/main/docs/api.md) | Run open-source LLMs locally with REST API — Llama, Mistral, Gemma, etc. | 🟢 No | ✅ | ✅⭐ |
 | [LM Studio](https://lmstudio.ai/docs/api) | Local LLM server with OpenAI-compatible API | 🟢 No | ✅ | ✅⭐ |
 | [Anyscale](https://docs.anyscale.com/) | Scalable LLM serving with fine-tuning support | 🟡 API Key | ✅ | ✅⭐ |
