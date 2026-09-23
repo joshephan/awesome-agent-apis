@@ -1795,6 +1795,7 @@
 | [ParseHub](https://www.parsehub.com/docs/ref/api/v2/) | Web scraping | 🟡 API Key | ✅ | ✅ |
 | [Import.io](https://www.import.io/api/) | Web data extraction | 🟡 API Key | ✅ | ✅ |
 | [Diffbot](https://docs.diffbot.com/) | AI web scraping | 🟡 API Key | ✅ | ✅⭐ |
+| [Vend API Merchant](https://extract.paypercall.dev) | Pay-per-call web-data APIs for AI agents (web extract, search, geoip, link-check, domain info) — no signup, no API key, nano fee-less x402 settle | 🔴 x402 | ✅ | ✅⭐ |
 | [ScrapingBee](https://www.scrapingbee.com/documentation/) | Web scraping API | 🟡 API Key | ✅ | ✅ |
 | [Puppeteer](https://pptr.dev/) | Headless Chrome | 🟢 No | ✅ | ✅⭐ |
 ## Additional Categories - Final Push to 1000+
