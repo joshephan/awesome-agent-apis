@@ -2532,6 +2532,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Open Exchange Rates](https://docs.openexchangerates.org/) | Real-time and historical exchange rates for 170+ currencies | 🟡 API Key | ✅ | ✅⭐ |
 | [Wise (TransferWise)](https://api-docs.transferwise.com/) | International money transfers with real exchange rates | 🟡 API Key | ✅ | ✅⭐ |
 | [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402 protocol API marketplace — 54 services, 97 endpoints, 37 MCP tools, USDC on Base | 🔴 x402 | ✅ | ✅⭐ |
+| [bilbop x402](https://api.bilbop.org/.well-known/x402) | Pay-per-call agent endpoints (Solana token brief, mint info, summarize, TTS, brand feedback) from 0.01 USDC on Solana; unpaid POST returns a standard x402 v2 402, OpenAPI at `/openapi.json` | 🔴 x402 | ✅ | ✅⭐ |
 
 ---
 
