@@ -2367,6 +2367,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Vercel MCP](https://vercel.com/docs/mcp) | Manage deployments, domains, and environment variables | 🟡 API Key | Hosting | ✅⭐ |
 | [Docker MCP](https://github.com/docker/mcp-server-docker) | Manage containers, images, networks, and compose stacks | 🟢 No | Infrastructure | ✅⭐ |
 | [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402-paid crypto & market data — 54 services, 97 endpoints, 37 MCP tools | 🔴 x402 | Finance | ✅⭐ |
+| [google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp) | MIT-licensed Python MCP server for Google Hotels, Vacation Rentals, and 3-month daily hotel price calendar — cross-OTA rates (Booking.com/Expedia/Agoda/Vrbo), amenity names | 🟡 API Key | Travel | ✅⭐ |
 
 ---
 
