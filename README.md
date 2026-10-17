@@ -4069,6 +4069,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Snov.io API](https://snov.io/api) | Email finder, verifier, and drip campaign automation via REST | 🟡 API Key | ✅ | ✅ |
 | [RocketReach API](https://docs.rocketreach.co/reference/rocketreach-api) | 700M+ contacts; email and phone lookup for professionals | 🟡 API Key | ✅ | ✅ |
 | [UpLead API](https://docs.uplead.com/) | B2B contacts from 200+ countries; person and company enrichment | 🟡 API Key | ✅ | ✅ |
+| [RestoSignals API](https://restosignals.com/restoapi) | US restaurants and bars 1-6 months before they open; liquor-license, permit and business filings fused into scored venues; REST + MCP | 🟡 API Key | ✅ | ⚠️ |
 
 ---
 
