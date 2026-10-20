@@ -1240,6 +1240,7 @@
 | [Numverify](https://numverify.com/) | Phone number validation | 🟡 API Key | ✅ | ✅ |
 | [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Phone number verification | 🟡 API Key | ✅ | ✅ |
 | [VoiceRSS](http://www.voicerss.org/api/) | Text to Speech | 🟡 API Key | ✅ | ✅ |
+| [PlaceCall](https://api.voygr.tech/docs) | AI agent places real phone calls to US businesses, returns outcome and transcript | 🟡 API Key | ✅ | ✅ |
 
 ---
 
