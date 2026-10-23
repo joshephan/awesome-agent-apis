@@ -1529,6 +1529,7 @@
 | [Deta](https://docs.deta.sh/docs/home/) | Cloud platform | 🟡 API Key | ✅ | ✅⭐ |
 | [Cyclic](https://docs.cyclic.sh/) | Serverless hosting | 🟡 API Key | ✅ | ✅ |
 | [Koyeb](https://www.koyeb.com/docs/api) | Serverless platform | 🟡 API Key | ✅ | ✅ |
+| [deed.page](https://deed.page/docs) | Static hosting for agents — one curl PUT or MCP call publishes HTML to a permanent URL, no account needed | 🟢 No | ✅ | ✅⭐ |
 
 ### Container & Orchestration
 | [Docker Hub](https://docs.docker.com/docker-hub/api/latest/) | Container registry | 🟡 API Key | ✅ | ✅⭐ |
