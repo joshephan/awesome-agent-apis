@@ -2532,6 +2532,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Open Exchange Rates](https://docs.openexchangerates.org/) | Real-time and historical exchange rates for 170+ currencies | 🟡 API Key | ✅ | ✅⭐ |
 | [Wise (TransferWise)](https://api-docs.transferwise.com/) | International money transfers with real exchange rates | 🟡 API Key | ✅ | ✅⭐ |
 | [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402 protocol API marketplace — 54 services, 97 endpoints, 37 MCP tools, USDC on Base | 🔴 x402 | ✅ | ✅⭐ |
+| [Agent Wallet Index](https://agentwalletindex.fyi/) | Index of agent wallets and payment rails — custody, fees and protocols, free REST API and MCP endpoint, no key | 🟢 No | ✅ | ✅⭐ |
 
 ---
 
