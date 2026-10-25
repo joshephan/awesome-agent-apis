@@ -2127,6 +2127,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Activepieces](https://www.activepieces.com/docs/developers/overview) | Open source workflow automation with AI agent support | 🟡 API Key | ✅ | ✅⭐ |
 | [Nango](https://docs.nango.dev/) | Pre-built API integrations with OAuth management for agents | 🟡 API Key | ✅ | ✅⭐ |
 | [Arcade AI](https://docs.arcade-ai.com/) | Tool-use platform for AI agents with auth-managed API access | 🟡 API Key | ✅ | ✅⭐ |
+| [AgentSandboxes](https://agentsandboxes.fyi/) | Index of cloud sandbox providers for AI agents — source-linked specs, free REST API and MCP endpoint, no key | 🟢 No | ✅ | ✅⭐ |
 
 ---
 
