@@ -4595,6 +4595,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [balldontlie](https://www.balldontlie.io/) | NBA, NFL, MLB, NHL, EPL, MMA stats and historical data | 🟡 API Key | ✅ | ✅⭐ |
 | [TheSportsDB](https://www.thesportsdb.com/documentation) | Free sports data API with live scores, stats, and team info | 🟡 API Key | ✅ | ✅⭐ |
 | [Football-Data.org](https://www.football-data.org/) | Free football API with competitions, matches, and standings | 🟡 API Key | ✅ | ✅⭐ |
+| [Sports Odds API (BetRivers, Unibet & 22 more books)](https://apify.com/publicrecords/sports-odds-api) | Live odds from 24 Kambi-powered sportsbooks in one call (BetRivers, Unibet, Paf, Svenska Spel, ATG), best price per outcome, pay per call | 🟡 API Key | ✅ | ✅ |
 
 ---
 
