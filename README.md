@@ -3355,6 +3355,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [CaptureKit](https://capturekit.com/) | Website to image — viewport, device, format options | 🟡 API Key | ✅ | ✅ |
 | [Thum.io](https://www.thum.io/) | Real-time streaming website screenshots | 🟡 API Key | ✅ | ✅ |
 | [ScrapFly Screenshot](https://scrapfly.io/) | Anti-bot bypass, proxy rotation, JS rendering | 🟡 API Key | ✅ | ✅ |
+| [CurlShot](https://curlshot.com/) | URL, HTML or Markdown to PNG/JPEG/WebP/PDF in one GET — MCP server, OpenAPI, llms.txt | 🟡 API Key | ✅ | ✅ |
 
 ---
 
