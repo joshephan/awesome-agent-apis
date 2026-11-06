@@ -2367,6 +2367,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Vercel MCP](https://vercel.com/docs/mcp) | Manage deployments, domains, and environment variables | 🟡 API Key | Hosting | ✅⭐ |
 | [Docker MCP](https://github.com/docker/mcp-server-docker) | Manage containers, images, networks, and compose stacks | 🟢 No | Infrastructure | ✅⭐ |
 | [AgentServices](https://github.com/vbkotecha/aiservices-api) | x402-paid crypto & market data — 54 services, 97 endpoints, 37 MCP tools | 🔴 x402 | Finance | ✅⭐ |
+| [Agentik](https://www.agentik.cc) | One MCP connection to 3,500+ third-party tools from 165 providers, with the price shown before each call | 🟡 API Key | Aggregator | ✅⭐ |
 
 ---
 
