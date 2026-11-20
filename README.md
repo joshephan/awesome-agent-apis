@@ -4069,6 +4069,7 @@ These APIs require **no authentication** — perfect for rapid prototyping and t
 | [Snov.io API](https://snov.io/api) | Email finder, verifier, and drip campaign automation via REST | 🟡 API Key | ✅ | ✅ |
 | [RocketReach API](https://docs.rocketreach.co/reference/rocketreach-api) | 700M+ contacts; email and phone lookup for professionals | 🟡 API Key | ✅ | ✅ |
 | [UpLead API](https://docs.uplead.com/) | B2B contacts from 200+ countries; person and company enrichment | 🟡 API Key | ✅ | ✅ |
+| [Datacircle API](https://api.datacircle.dev/v1) | Find the best GTM APIs: list every API, see who is best for each and search every plan. [datacircle.dev](https://datacircle.dev) | 🟢 No | ✅ | ✅⭐ |
 
 ---
 
